@@ -22,13 +22,13 @@
 
 	![Repeated Records][/Users/madhu/Desktop/repeated_reports.png]
 
-3. ### Focus on Topics 
+3. ### Focus on Topics - analysis.ipynb
 
 	a. Unique Topics - 66
 	
 	b. We initially planned to analyze tags, but since topics recur across multiple reports and provide more consistent structure, we decided to focus our analysis on topics instead
 
-4. ### Extract PDF Info
+4. ### Extract PDF Info - wfp_pdf_extraction_pipeline.py
 	
 	a. Used open source PDF extractor tools to extract the PDF sections 
 

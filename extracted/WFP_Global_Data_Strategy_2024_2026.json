@@ -1,0 +1,808 @@
+{
+  "report_id": "WFP_Global_Data_Strategy_2024_2026",
+  "file_path": "/Users/madhu/Desktop/WFP/wfp_reports/wfp_reports/Innovation/WFP_Global_Data_Strategy_2024_2026.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "SAVINGLIVESCHANGINGLIVESWFP Global Data Strategy2024-2026"
+    },
+    {
+      "page_number": 2,
+      "text": "Contents\nI. Preface.....................................................................................................................................................3\nII. Executive Summary..............................................................................................................................4\nIII. WFP’s current data landscape............................................................................................................6\nIV. WFP Global Data Strategy...................................................................................................................9\nV. Road map..............................................................................................................................................19\nVI.\nEndnotes ...................................................................................................................................................27\nWFP Global Data Strategy 2024-20262"
+    },
+    {
+      "page_number": 3,
+      "text": "I. Preface\nExceptional times call for bold action\nWFP must operate in a rapidly changing \nworld as we respond to hunger crises fueled \nby conflicts, climate change, economic turmoil \nand the aftermath of the COVID-19 pandemic. \nWith demand for our assistance at record levels,\nit is critical that we capitalize on the power of \ndata to help us make the most of limited resources and ensure they are directed to those in urgent need.\nWell-managed data, supported by effective knowledge management, and advances in analytics, Artificial Intelligence and Machine Learning, can cut the time it takes to deliver life-saving aid and empower our teams to design smarter and more effective ways of working.\nWFP’s vision is to establish a world-class data ecosystem that drives cutting-edge solutions and accelerates our journey towards a world free from hunger. This vision is underpinned by our commitment to strengthening a data-focused culture that uses fresh insights and evidence to guide our decisions and programmes.\nTo achieve it, WFP’s data strategy for the next \nthree years must challenge existing norms, facilitate disciplined execution and deliver swift results.\nOur success will be determined by the implementation of fundamental principles \nof data security and data protection essential \nto WFP’s mission. These safeguards are vital \nto reduce the risks that come with processing data in humanitarian contexts, where vulnerable individuals and communities can fall prey to exploitation or harm.\nFinally, as we strive to equip our people \nwith the necessary data skills, we also recognize the importance of extending these capabilities to our partners and the broader humanitarian community. We will embrace collaboration throughout the sector to increase our collective impact on food-insecure communities\neverywhere.\nIn a world where data and analytics are transforming our lives at breakneck speed, \nWFP is excited by our vast potential to help\nthe people we serve. This new strategy will ensure we seize the opportunities they offer \nwith both hands.\nMs. Cindy H. McCain, Executive Director United Nations World Food Programme. WFP / Rein Skullerud\nWFP Global Data Strategy 2024-20263"
+    },
+    {
+      "page_number": 4,
+      "text": "II. Executive Summary\nThe World Food Programme (WFP) Global Data Strategy (2024-2026) results from an extensive research effort aimed at understanding the challenges confronting WFP, evaluating its strategic priorities, assessing its current state of data maturity, identifying gaps and analysing industry trends. It also furthers the objectives of the WFP Information and Technology Strategy 2023-2026.\nThis strategy is a call to action, positioning WFP’s data as a vital asset capable of accelerating progress towards WFP’s core objectives and the 2030 UN Sustainable Development Goals. Data is already recognized as a fundamental component of WFP’s operations and an enabler of broader UN goals. The humanitarian community, including WFP and its stakeholders, is navigating a rapidly changing landscape marked by data proliferation and the emergence of Artificial Intelligence and Machine Learning.\nA recent data maturity level assessment indicates that WFP still has gaps to holistically address in data management, data governance and data architecture to ensure that the organization can\nWFP’s Vision\nto those in need\nutilize existing data assets, easily incorporate automation and accelerate the adoption of new technologies.\nThe aim of this strategy is to fully leverage the immense opportunity provided by converting data into actionable information and insights. WFP will benefit from the ability to transform its approaches, maximize business value, adapt more swiftly to change, make evidence-based decisions and find innovative solutions to combat food insecurity. Putting the people WFP assists at the forefront of its efforts, WFP acknowledges the significance of data protection and security to mitigate risks related to sensitive and strictly confidential data.\nExtending this commitment, WFP’s data journey encompasses the network of stakeholders contributing to WFP’s activities and operations. Purposeful engagement with partners and the UN community is critical as WFP builds its data ecosystem, ensuring interoperability, robust use of open data and the ability to develop data competencies.\nAccelerating the global fight against hunger\nby bringing modern, impactful solutions\npowered by WFP’s world-class data ecosystem\nWFP Global Data Strategy 2024-20264"
+    },
+    {
+      "page_number": 5,
+      "text": "A robust data ecosystem is needed to enable higher data maturity and capability. The Data Strategy articulates four main pillars to create this robust ecosystem: Pillars 2, 3 and 4 are the foundational building blocks that will enable the realization of business value through use cases (Pillar 1).\nPillar 1: \nDelivering with intent and evidence – Maximizing the value derived fromthe digital value chain.\nPillar 2: \nArchitecting best of class data \nservices – Investing in the right data & analytics infrastructure.\nPillar 3: \nEffective and efficient data foundations – Fully managing WFP’s data assets with datamanagement and data governance.\nPillar 4: \nResponsibly empowering\npeople – Developing a data-centric workforce and culture.\nTo implement the Data Strategy and build \na modern data estate, WFP will establish a\nGlobal Data Hub and Spoke model guided \nby the following:\n• Organize around value – Keeping the peopleWFP serves at the centre by maximizing the valueof data, analytics and Artificial Intelligence.\n• Build a guiding coalition – Establishing andfostering a data-centric culture that will enableWFP to be more effective and efficient in derivingvalue from data.\n• Agile ways of working – Unlocking immediatevalue and breaking silos within the WFPorganization facilitated by a Global Data Office.Bangladesh - Enhanced food security and nutrition (EFSN) - Hason Ara Begum. WFP / Sayed Asif Mahmud\nWFP Global Data Strategy 2024-20265"
+    },
+    {
+      "page_number": 6,
+      "text": "The role of data and analytics is \nto equip businesses, their employees and leaders to make informed decisions and improve outcomes.1\nIII. WFP’s current data landscape\nWhy is data \nimportant for WFP?\n“The role of data and analytics is to equip businesses, their employees and leaders to make informed decisions and improve outcomes.1 ”\nWFP’s presence in over 120 countries and territories includes a broad range of activities to save and change lives, with the ultimate goal of a world with zero hunger. The vast amount of data and information collected and used by WFP provides a better understanding of the people who receive assistance and supports WFP operations as they make key decisions on activities.\nDaily, WFP uses many systems and applications which all have data as a backbone. Effective data management and governance is essential for optimized business processes and unambiguous reporting of basic facts such as stocks, budget balances, etc.\nAnalytics can be used to improve the coordination, accountability, transparency and efficiency of WFP operations. With situational awareness, WFP can direct scarce resources where they are most needed and determine which activities should take precedence over others.\nFurthermore, using enhanced information can improve existing WFP services and assist in the development of new innovative solutions. Working with data provided by wider humanitarian networks and external stakeholders, WFP can also focus on deriving better insights to increase the value of activities and enable the achievement \nof organizational goals.\nWhat are the factors driving the need for \ndata improvements?\nINTERNAL DRIVERSThe WFP Information & Technology Strategy published in 2023 2 positions data as a key objective and identifies a WFP Data Strategy as a main deliverable towards transforming the organization into a data-driven entity. Moreover, WFP’s Strategic Plan (2022-2025) 3 notes that technology and data are key enablers to improving evidence-based decision making in the organization. Recently, Country Strategic Plans and Divisional Plans are also acknowledging the need for data and digital solutions.\nAnother key driver is the rapid growth of applications and core systems. WFP now needs to harness data from different sources and variable formats, across many applications and platforms. A strong data foundation is required to enable the use of analytics and ensure that technologies such as Artificial Intelligence and Machine Learning can be fully leveraged.\nData privacy and protection is key to reduce the risks associated with processing data in humanitarian contexts, which can place already vulnerable people and communities at greater risk of harm or exploitation. The work of WFP’s Global Privacy Office and initiatives on Identity Management under the Programme Operations Department emphasize the priority given to implementing data protection and data security \nby design throughout the data life cycle.\nFinally, Knowledge Management establishes the importance of the digital value chain linking raw data, information, knowledge and insights. Alignment and joint goals between data and knowledge management efforts are key to strengthening WFP’s data ecosystem.\nWFP Global Data Strategy 2024-20266"
+    },
+    {
+      "page_number": 7,
+      "text": "EXTERNAL DRIVERS\nA key external driver is the Fourth Industrial Revolution, which describes the fusion of advances in Artificial Intelligence, robotics, \nthe Internet of Things, Web3, blockchain, 3D printing, genetic engineering, quantum computing and other technologies. 4 All of \nthese new technologies rely on a strong \ndata foundation.\nWFP’s contribution towards and alignment with UN-wide efforts that collectively call for enhanced\nA boy with a WFP employee in Turkey, Adana refugee camp. WFP / Deniz Akkus\nengagement on digital cooperation, focus on \nbuilding data skills and the emergence of a UN system-wide data approach.\nWFP’s stakeholders require greater accountability, controls and safeguards for end-to-end core processes, which results in the need to process large volumes of data, use of analytics to produce information and insights, and quickly identify anomalies and flag them for key decisions \nand actions.\nWFP Global Data Strategy 2024-20267"
+    },
+    {
+      "page_number": 8,
+      "text": "CASE FOR CHANGE – MATURING WFP’S DATA CAPABILITY\nIn alignment with best practices and \nthe UN Secretary-General’s Data Strategy, \nWFP completed an assessment of its data maturity level in 2023.\nWFP’s data maturity level\nLocal and aware\n• Some data\nmanagement exists\nChaotic but aware\n• Initial \u0003steps in data\n• Business ownership\nmanagement\nin some areas\n• No data management\n• Silos remain, some\n• Analytical capabilities\n• Manual, siloed \u0003and no\nstandards\u0003 in place\nexpanding\ndata standards\n• Data not reconciled\n• No data strategy\n• No data management\nKPIs (e.g. data quality)\nWFP TODAY\nFigure 1: WFP’s data maturity level\nKEY DATA CHALLENGES:\n• At an enterprise level, there is a need tocollectively establish data as a strategic asset.\n• Lack of generic job profiles for data roles.\n• Data management and data governance needto be reviewed and strengthened.\n• Interoperability and sharing of datawith external parties is required.\nThe WFP Data Strategy will provide the direction to accelerate WFP’s data maturity from the current state (Local and Aware) to Proactive state in three years as shown below.\nEffective and proactive\nProactive\n• Data and information\nManaged\nare fully managed\n• Data is fully\n• Data quality is achieved\nmanaged and drives innovation\nand measurable\u0003\n• Processes and\n• Data culture established\nsystems fully secureand protect data\n• Decisions supported\nby trusted data,analytics, Al/ML\nThe following graphic represents WFP’s maturity level.\nIt is separated in 5 mayor categories that represent the past, the present and the near future. \n1. Chaotic but aware\nNo data management\u0003\nManual, siloed and no data standardsNo data strategy\nWFP’S 2026 AMBITION\n2. Local and aware\nInitial steps in data management\u0003\nSilos remain, some standards in place\nData not reconciledNo data management KPIs (e.g. data quality)\nThis category represents WFP today.\n3.Managed\nSome data management exists\nBusiness ownership in some areas\u0003\nAnalytical capabilities expanding\n4. Proactive\nData is fully managed and drives innovation\u0003\nData culture establishedDecisions supported by trusted data, analytics, Al/MLThis category represents WFP’s ambition for 2026\n5. Effective and proactive\nData and information are fully managed\nData quality is achieved and measurable\u0003\nProcesses and systems fully secure and protect data\nThe expectations are to move from a local and aware maturity level towards a proactive one in 2026.\n• Data literacy, training and knowledgemanagement activities for WFP staff havestarted but need to be improved.\n• Uneven use of advanced analytics, ArtificialIntelligence and Machine Learning across theorganization.\n• Inconsistent data quality.\n• Rationalization of data infrastructure andalignment of data architecture is required.\nWFP Global Data Strategy 2024-20268"
+    },
+    {
+      "page_number": 9,
+      "text": "IV. WFP Global Data Strategy\nWhy the Data Strategy?\nUNLOCKING DATA AS A STRATEGIC ASSET FOR WFP\nData is at the core of WFP – WFP will drive a strategic fundamental shift in data culture transforming people, processes and technology to unlock the value of data.\nThere is a call from across the organization to unite WFP’s efforts to build a modern data ecosystem so that WFP can fully leverage digitization, analytics, Artificial Intelligence and Machine Learning to communicate its strategic direction, goals and deliverables.\nData alone does not provide the wholescale transformation needed to fully unlock WFP’s potential. WFP recognizes that the successful use of data to generate information, knowledge and insights is necessary to strengthen decision making, improve operations and generate new opportunities. Collaboration with knowledge management initiatives is essential.\nImplementing a pragmatic approach – WFP \nwill implement a pragmatic approach, highlighting clear links to a return on investment and optimized operations.\nWFP aims for a human-centric approach, keeping humans at the centre of decision making and using technology to augment capacity and capabilities. In this way, WFP can benefit from the advances that data and advanced technology can provide while keeping WFP’s context and responsibilities towards vulnerable populations at the forefront of its activities.\nAs WFP builds data capabilities and \ncompetencies, it also needs to extend these efforts to its partners and to the affected populations who receive assistance.\nExecuting with agility – WFP will execute with agility to be proactive to operational requirements and pivot where required.\nFocusing on a phased approach, as WFP’s \ndata architecture, data management and \ndata governance capabilities are strengthened, \na solid foundation will be created. Leveraging \nthe robust data foundation, improved data quality and better interoperability will set the basis upon which Advanced Analytics, Artificial Intelligence, Machine Learning can be fully \nutilized for WFP business use cases including \nthe development of digital public goods.\nWomen at a WFP registration site in Mogadishu, Somalia. WFP / Ismail Taxta\nWFP Global Data Strategy 2024-20269"
+    },
+    {
+      "page_number": 10,
+      "text": "What is the Global Data Strategy?\nWFP Global Data Strategy Framework\nSTRATEGIC PILLARS\nDelivering withintent and evidence\nArchitecting best of class data services\nInvesting in the right\nMaximizing the value from data and analytics\ndata and analytics infrastructure and tools\nENABLERS\nArchitecting best of class data services\nDelivering with intent and evidence\nMaximizing the value derived from the digital value chain\nInvesting in the right data & analytics infrastructure\nFigure 2: WFP Global Data Strategy Framework\nWFP’s Vision\nAccelerating the global fight against hunger by bringing modern, impactful solutions powered by WFP’s world-class data ecosystem to those in need.\nEffective and efficient\nResponsibly empowering people\ndata foundations\nManaging WFP’s\nWFP staff, partners and vulnerable communities\ndata assets\nPeopleGovernanceOperating modelFundingTechnologyPartnerships\nResponsibly empowering people\nEffective and efficient data foundations\nFully manage WFP’s data assets with data management and data governance\nDevelop a data-driven workforce and culture\nA vision supported by 4 strategic pillars:• Delivering with intent and evidence to maximize the value from data and analytics\n• Architect best of class data services to invest in the right data and analytics infraestructure and tools\n• Effective and efficient data foundations to manage WFP’s data assets\nWFP Global Data Strategy 2024-202610\n• Responsibly empower people, to support WFP staff partners and vulnerable communities\nThis pillars have at the bottom the enablers\nPeople, Operating Models, Technology, Governance, Funding, Partnerships.\nThe first pillar (delivering with intent) is the sum of the other three: Architecting best of class data services, Effective and efficient data foundations, responsibly empowering people."
+    },
+    {
+      "page_number": 11,
+      "text": "FOUR CORE PILLARS TO DRIVE THE WFP GLOBAL DATA STRATEGY\nPillars 2, 3 and 4 are the foundational building blocks for the WFP Data Strategy and will enable the realization of business value through use \ncases (Pillar 1).\nTo reach a Proactive Data Maturity Level in \nthree years, the Data Strategy aims to achieve the following goals (supported by the common I&T Strategy enablers – people, operating model, technology, governance, funding and partnerships):\nDelivering with intent and evidence – Leveraging a strong data foundation, WFP can create new value propositions through delivery of business use cases integrating efficiencies generated using Advanced Analytics, Artificial Intelligence and Machine Learning.\nArchitecting best of class data services –Creating and implementing the blueprint for\nDouglas Chilambo (centre) and school children from left to right (Mwale, Edith, Ester) enjoying school meals before class. WFP / Badre Bahaji\na Modern Data Estate (how WFP data is\nmanaged-collection, transformation, distribution, consumption and the movement of data across various platforms and applications).\nEffective and efficient data foundations – Full integration of Data Management and Data Governance in building the Modern Data Estate\nto enable better analysis of information, increased data quality, optimized operational efficiencies and enhanced data security.\nResponsibly empowering people – The upskilling of WFP’s workforce to enable both the utilization of insights generated by analytics and the responsibilities of working with data throughout its life cycle. In addition, WFP’s efforts to close\n the loop for data improvement include partners and the people we assist.\nWFP Global Data Strategy 2024-202611"
+    },
+    {
+      "page_number": 12,
+      "text": "How will WFP implement the Global Data Strategy?\nESTABLISHING \nWFP’S DATA ECOSYSTEM\nWith WFP’s Modern Data Estate at the core, WFP’s Data Ecosystem extends to the data and information exchanges with WFP partners, the UN family, people receiving WFP’s assistance and the public. The ability to share open data, exchange information and create interoperability among systems highlights the need for WFP to prioritize data initiatives to build WFP’s Modern Data Estate.\n• Partner facing system\n• Partner facing APIS\n• Public facing/open APIs\nPeople receiving WFP assistance\n• Public Facing Systems\n• Uncollaboration Systems\nPeople systems\nPublic facing/open APIs\nPublic facing systems\nFigure 3: WFP Data Ecosystem addressing broader contexts\nCommunities obtain services from WFP in Guatemala. WFP / Nelson Pacheco\nWFP’s Data Ecosystem adressing a boroader context has WFP’s Modern Data Estate at the center, being surrounded by:• People’s sytems\nWFP partner\nPartner facing systems\nAll in an ecosystem comprehended by the general public, people receiving WFP assistance, WFP partners and the UN family.\nPartner facing APIs\nWFP’s Modern Data Estate\nUN collaboration systems\nPublicUN family\nWFP Global Data Strategy 2024-202612"
+    },
+    {
+      "page_number": 13,
+      "text": "WFP’s Modern Data Estate: build once, use many times\nA Modern Data Estate is critical to unlock data value. Building the Modern Data Estates embodies Pillar 2 and Pillar 3.\nData foundation: An emphasis on the organizational-wide efforts needed to build \nthe required components which will support \nthe entire data life cycle from data generation and collection to archiving and deletion.\nData sources: Repositories of data needed to support analytics and Artificial Intelligence and Machine Learning efforts. Ensuring efficient use of both legacy and modern sources including open data.\nEffective and efficient \ndata foundations:Fully manage WFP’s data assets\nBusiness intelligence & reporting tools\nwith data management and data governance to reduce processing time and complexity while increasing quality.\nFinance planning, Workday, SalesForce\nand Supply Chain\nArchitecting best of class \ndata services:Investing in the right data and analytics infrastructure to drive value through reusability.\nData governance & data quality\nFigure 4: WFP’s Modern Data Estate\nSelf-service analytics: Maturing capabilities \nso that WFP staff and partners can have access to the data that they need, at the right time, and in one place while catering for data squads working on more Advanced Analytics.\nArtificial Intelligence and Machine Learning layer: A prerequisite for using Artificial Intelligence and Machine Learning is data. Leveraging data foundations, WFP will create the processes and provide the tools to explore and optimize the use of Artificial Intelligence and Machine Learning.\nINSIGHTS DRIVEN DECISION MAKING\nAuto-Machine\nChatbotsMachine Learning\nCustom applicationsDashboard\nLearning accelerators\nmodels\nARTIFICIAL INTELLIGENCE & MACHINE LEARNING LAYER\nSELF SERVICE ANALYTICS\nPartners, Donors,\nExternal sources\nMarket Data Climate Risk\nProgramme\nDATA SOURCES\nEnterprise data catalogue\nReference\nData integration\nData privacy,\nMaster data\ndata\nprotection &\n& owners/\nsecurity\nstewards\nDATA FOUNDATION\nWFP Global Data Strategy 2024-202613"
+    },
+    {
+      "page_number": 14,
+      "text": "Ways of working\nWFP will establish a Global Data Hub and Spoke model that is focused on creating value by promoting a data-driven workforce, culture and processes that instil accountability and foster collaboration. As such, WFP will be guided by the following:\n1. Organize around value – Keeping the peopleWFP serves, at the centre by maximizing the valueof data, analytics and Artificial Intelligence.\nProposed operating model\nA Hub and Spoke model indicating how the Global Data Office (GDO) will collaborate with business to deliver on use cases through data squads utilizing existing resources.\nDataSquad\nLarger Business\nUnits/Country\nOffice\n• Flexible\nsquads alignedto the needsof the businessunits\nSmaller Country Office\n• Parallel\nworkstreamsand businessuse casesusing the GDOstandards andguidelines\n• Single regional\nsquad supportinga cluster ofsmaller countries\n• Creation of data\nproducts\n• Augmented by\nGDO skills\nFigure 5: Proposed operating model\n2. Build a guiding coalition – Establishing andfostering a data-centric culture that will enablethe WFP to be more effective and efficient inderiving value from data.\n3. Agile ways of working – Unlocking immediatevalue and breaking silos within the WFP organizationby doing things differently facilitated by a GlobalData Office.\n• The GDO provides guidance, best\nGlobal Data Office\npractices and support to the datasquads in executing business usecases\n(GDO) Chief Data Officer\n• The GDO has a direct reporting line\nGDO Data\nto the Chief Data Officer\nSquad\nGlobal Initiative\nSmaller Country OfficeSmaller Country Office\nSubregional Data Squad\nDataSquadDataSquadDataSquadDataSquad\n• Use case effort\n• Convened when there\nis funding and resourceavailability\n• Parallel workstreams\n• Dedicated teams\n• Multiple cross functional\ndata squads\nAt the center of all there is the Global Data Office (GDO Data Squad). Then you have the subregional data squad\ncomposed by the smaller country offices, and next to this category there is the global initiative and larger business\nunits/country offices, both of them have Data Squads of their own.\nWFP Global Data Strategy 2024-202614"
+    },
+    {
+      "page_number": 15,
+      "text": "Global direction – The Global Data Office led by the Chief Data Officer acts as a central hub to provide standards, guidance, best practices and to convene and support the Data Squads. In addition, the Global Data Office will be responsible for convening a data squad to deliver the Modern Data Estate initiatives in collaboration with \nbusiness stakeholders.\nFlexible data squads – Finding opportunities with existing resources, Data Squads reflect the staff availability of business stakeholders. They are formed for the purpose of delivering and executing on business use cases reflecting the needs of their respective WFP business units/Country Offices/Regional Bureaux. Once a task or project is delivered, the squads can be unassembled and return to other activities.\nCross-functional composition – Data projects \noften require a variety of roles and responsibilities including specialists. The ability to add the necessary profiles to deliver results is crucial.\nABCs of prioritization\nAlignment\nrequirement?Is it aligned to corporate strategy?\nHow clear is the value?\nCommitment\nIs there capacity /resource/ funding to start?\nFigure 6: ABCs of prioritization\nSupport to less resourced business units – Some business units/Country Offices/Regional Bureaux may not have the roles or resources \nto support data projects or complex tasks. \nThe ability to form Data Squads using resources from other teams is needed to augment capacity.\nAccountability – Data owners and stewards \nhave important roles to play in WFP’s Modern \nData Estate. Data Squads need to include these roles and responsibilities to ensure the responsible usage of data and oversight by the appropriate stakeholders.\nUSE CASE DRIVEN APPROACH\nBusiness needs and value drive the development and implementation of data projects. Pillar 1 of the Data Strategy will be implemented incrementally through business use cases \nbased on the guiding principles for prioritization outlined below, in alignment with the WFP IT project prioritization criteria.\nIs it an audit or compliance\nDoes it have functional\nor local urgency?\nBenefit\nCan you measure the value?\nCan it be supported? (training, change management, etc.)\nThe ABCs of priorization are composed by Alignment, Benefit and Commitment, in that specific order, they affect each other from top to bottom, so when considering to take a decision follow this line of thought:\nWhen thinking in alignment the following questions should be asked: Is it aligned to coporate strategy? Is it an audit or compliance requirement? Does it have functional or local urgency?\nWFP Global Data Strategy 2024-202615\nWhen thinking about benefit, ask the following questions: How clear is the value? Can you measure the value?\nWhen thinking about comitment, ask the following: Is there capacity, resources or funding to start? Can it be supported? with training, change management, etc."
+    },
+    {
+      "page_number": 16,
+      "text": "PROPOSED BUSINESS USE CASES\nBased on consultations with key business stakeholders, the following potential high-impact business use cases are identified and require further validation and prioritization.\nEND TO ENDASSURANCE\nENHANCEDEMERGENCYRESPONSE\nWFP DATASHARING HUB\nWHATHOW\nPower the end-to-endassurance process usingadvanced datacapabilities and tools topromote trust\nA data-driven approach todrive impactful and proactive responses toemergency situations\nInnovative mechanisms toshare data andcollaborate with the people WFP assists, partners, UN communityand the public\nAssist with:\nContributes towards ongoing efforts:\nFocus On:\n• ImprovedGeographicInformationSystems\n• Open DataStrategy andFramework\n• Supply chain track and trace\n• Increasedinteroperability\n• Next Generation assistance delivery solutions\n• Damageassessment\n• Predictivemodellingfor disasterwarning andemergencysupport\n• Modernmonitoring\nFigure 7: Proposed business use cases\nEND TO END ASSURANCE\nWhat?\nPower the end-to-end assurance process using advanced data capabilities and tools to promote trust\nHowContributes towards ongoing efforts:Supply chain track and trace\nNext Generation assistance delivery solutions\nModern monitoring\nENHANCED EMERGENCY RESPONSE\nWhat?\nA data-driven approach to drive impactful and proactive responses to emergency situations\nHowAssist with:Improved Geographic Information SystemDamage assessmentPredictive modelling for disaster warning and emergency support\nWFP DATA SHARING HUB\nWhat?\nInnovative mechanisms to share data and collaborate with the people WFP assists, partners, UN community and the public\nHow?\nFocus On:\nOpen Data Strategy and Framework\nIncrease interoperability•\nOPTIMIZED OPERATIONAL EFFICIENCIES\nWhat?\nUnlock cost efficiencies and effectiveness usingautomation and ArtificialIntelligence\nHow?\nTransform:Repetitive mundane tasks to free scarceresource value\nCurrent analytics and reporting to Artificial \nIntelligence powered assistants to support better decision making\nOPTIMIZEDOPERATIONALEFFICIENCIES\nCYBERSECURITYREINFORCEMENT\nGOVERNMENTASSISTANCE\nUnlock cost efficienciesand effective-ness usingautomation and ArtificialIntelligence\nDetect and respond toknown and unknowncybersecurity threats using ArtificialIntelligence and Machine Learning\nProvide technical data advisory services and composablecomponents to supportgovernment efforts\nTransform:\nImprove:\nIncluding:\n• Repetitivemundane tasksto free scarceresource value\n• Malwaredetection\n• Best practicesin DataManagement,Architectureand Governance\n• Phishingdetection\n• Currentanalytics andreporting toArtificialIntelligencepowered assis-tants to support better decision making\n• Security loganalysis\n• Open-sourceresources\n• Networksecurity\n• Digitalpublic goodcontributions\n• Endpointsecurity\nCYBERSECURITYREINFORCEMENT\nWhat?Detect and respond to known and unknown cybersecurity threats using Artificial Intelligence and Machine Learning\nHow?\nImprove:\nMalware detection\nPhishing detection\nSecurity log analysis\nNetwork security\nEndpoint security\nGOVERNMENTASSISTANCE\nWhat?\nProvide technical data advisory services and composablecomponents to supportgovernment efforts\nHow?\nIncluding:\nBest practices in Data Management, Architecture and Governance\nOpen-source resources\nDigital public good contributions\nWFP Global Data Strategy 2024-202616"
+    },
+    {
+      "page_number": 17,
+      "text": "DATA LITERACY AND DATA CULTURE\nData literacy is defined as the ability to read, work with, analyse and communicate with data. Data literacy empowers all levels of WFP’s workforce to ask the right questions of data and machines, build knowledge, make decisions and communicate meaning to others.5 WFP’s Data Literacy Competency Framework was endorsed in 2023 and represents the target state for WFP’s workforce data skills and knowledge. The framework will also be extended to WFP’s partners,\nData Literacy Competency Framework\nEstablishes a common understanding and language \u0003for data skills and knowledge development across WFP.\n1.1Read +\nUnderstand\nData\n1.0 DATA \nCOMPETENCY\nAREAS [DL]\n1.1.1 Data Concepts\nDL\n1.2Work with Data\n1.2.1 Data Collection\nDL\n1.3Data Analysis +\nStorytelling\n1.3.1 Data Analytics\nDL\n1.4Make Data-driven\nDecisions\n1.4.1 Interpreting Data\nDL\n1.5In Context:\nData Culture\n1.5.1 Data Culture and Advocacy\nDL\n1.6Governance\n1.6.2 Data Quality\nDL\n2.1In Context: Learning + Innovation\n2.0 DIGITAL \nCOMPETENCY\nAREAS [DX]\n2.1.1 Collaboration\nDX\n2.2In Context: Business Acumen\n2.2.1 Systems Thinking\nDX\nFigure 8: WFP Data Literacy Competency Framework. Source: WFP Data Literacy Working Group\nso that there is an alignment between WFP staff’s data skills and knowledge and the partners that work side-by-side with WFP.\nDevelopment of data competencies will be supported by learning paths and training courses. They will be delivered based on the framework with an opportunity to re-use products in support of empowerment initiatives such as EMPACT (leveraging the digital economy to build the resilience of urban, displaced, and landless or land-poor households).\n1.1.2 Data Ecosystem\n1.1.3 Metadata Management DL\n1.1.4 Statistical Literacy\nDL\nDL\n1.2.2 Data Cleaning\n1.2.3 Data Transformation\nDL\nDL\n1.3.2 Data Visualization\n1.3.3 Data Storytelling\nDL\nDL\n1.4.2 Business ProblemFraming\n1.4.3 Weighing DataInformed Decisions\n1.4.4 Evaluating Data Informed Decisions\nDL\nDL\nDL\n1.6.3 Data Protection\n1.6.4 Data Transparency\nDL\nDL\n2.1.2 Creative Thinking\n2.1.3 Adaptability\n2.1.3 Continuous Learning\nDX\nDX\nDX\n2.2.2 Product Value Proposition\n2.2.3 Strategic Perspective\nDX\nDX\nWFP Global Data Strategy 2024-202617"
+    },
+    {
+      "page_number": 18,
+      "text": "DATA PRINCIPLES\nWFP endorses the following data principles.\n10 guiding principles\nThe guiding principles for organization-wide transformation, building \u0003\nmomentum, driving accountability and continuously enhancing the value of data.\nDATA IS OPEN AND ACCESSIBLE\nDATA PROTECTION AND SECURITY\nDATA AS A WFP ASSET\nBY DESIGN\nPROMOTE INTEROPERA\u0003BILITY AND RE-USABILITY\nFigure 9: WFP Data principles. Source: 2023 Deloitte Consulting\nA) Data is a WFP asset – Data is a valuablecorporate resource and is managed accordinglythroughout its life cycle.\nB) Data is open – WFP data is open by default andavailable both internally and externally unless thereis a need for it to remain confidential. WFP’s use and\ningestion of open data is prioritized but governed bydata protection and data security considerations.\nC) Promote interoperability and re-usability– Provide opportunities to contribute to dataexchange between WFP, partners and externalparties using common standards and formats andre-usable datasets. Promote re-use of data in WFP.\nD) Data protection and security by design– Protect personal data in any form or processedin any manner as a priority and ensure the higheststandards of security are applied to WFP data tosupport safe usage.\nE) Responsible use of data at the forefront– WFP adopts ethical and transparent practices toeliminate bias and discrimination in its use of data.\nEXPLORE AND ASPIRE\nRESPONSIBLE\nUSE OF DATA\nHIGHER\nAT THE FOREFRONT\nDATA QUALITY MATTERS\nESTABLISH ACCOUNTABILITY\nDEFINED PURPOSE, NECESSITY AND\nBUILD DATA CAPABILITIES\nPROPORTIONALITY\nF) Defined purpose, necessity andproportionality – WFP data management andits related activities for humanitarian responseshould have a clearly defined purpose and berelevant, limited and proportionate.\nG) Establish accountability – To reinforce\naccountability for its data assets, WFP fullyimplements data governance to establish thenecessary standards, policies, guidance, rolesand responsibilities to manage data.\nH) Explore and aspire higher – Promote theexploration of WFP data and Advanced Analyticsto uncover new patterns and insights to enhancethe work of the organization.\nI) Build data capabilities – Empower WFPstaff and partners to read, analyse, learn andcommunicate with data.\nJ) Data quality matters – Optimize the useof WFP data by ensuring it is accurate, complete,valid, consistent, timely and fit for purpose.\nWFP Global Data Strategy 2024-202618"
+    },
+    {
+      "page_number": 19,
+      "text": "Mali, Nafissatou and her classmates share their lunch. WFP / Arete / Arlette Bashizi\nV. Road map\nWFP will implement the inaugural Global Data Strategy in a three year horizon. After each year, \nan assessment will be conducted to ensure WFP’s Data Maturity targets are in alignment. Given \nthe fast-changing technology landscape and WFP’s circumstances, the ability to pivot and adjust the plans is required. The three year overview and Year 1 plan are provided.\nWFP Global Data Strategy 2024-202619"
+    },
+    {
+      "page_number": 20,
+      "text": "High-level road map: three-year plan\nPillar 1 | Delivering with intent and evidence\n• Artificial Intelligence strategy\nand Framework development\n• Quantify value: key performance indicators\nand return on investment development,monitoring and reporting\n• Priority use cases: Develop and roll out\nPillar 2 | Architecting best of class data services\n• Define and design target data\narchitecture and technology blueprint\n• Implement and deploy data architecture,\ntechnology and services\nPillar 3 | Effective and efficient data foundations\n• Finalize and implement the Global\nData Office operating model\n• Data Governance: Update and refresh\ndata policies, standards and procedures\n• Data Management: Support adoption\nof data capabilities, principles and toolsacross WFP\nPillar 4 | Responsibly empowering people\n• Build data communities across WFP,\nCountry Offices, Regional Bureaux andheadquarters\n• Data Competencies: Develop and roll out\ntraining paths and courses for WFP staffand partners\n• Data Advocacy: Establish channels to\npromote accomplishments and advocatefor change\n• Data 4 EMPACT: Develop and implement\nprojects to support data skills with thecommunities that WFP assists\nFigure 10: High-level road map: three-year plan\nYEAR 1YEAR 2YEAR 3\nPillar 1 | Delivering with intent and evidence\nArtificial Intelligence strategy and Framework development, completed on the first half of the year\nQuantify value: key performance indicators and return on investment development,\nmonitoring and reporting\nPriority use cases: Develop and roll out\nBoth projects will be completed and the end of the third year\nPillar 2 | Architecting best of class \ndata services\n• Define and design target data architecture and technology blueprint, completed on the first half of the first year.\n• Implement and deploy data architecture, technology and services, will be put in progress from aproximately the first half of the year till the end of the third year.\nPillar 3 | Effective and efficient \ndata foundations\n• Finalize and implement the Global Data Office operating model, will be finished in the first half of the year.\n• Data Governance: Update and refresh data policies, standards and procedures, will be finished before the first year finalizes.\n• Data Management: Support adoption of data capabilities, principles and tools across WFP, will be finished at the end of the third year.\nPillar 4 | Responsibly \nempowering people\n• Build data communities across WFP, Country Offices, Regional Bureaux and headquarters, will be ended at the end of the first year.\n• Data Competencies: Develop and roll out training paths and courses for WFP staff and partners, will be done at the end of the third year.\n• Data Advocacy: Establish channels to promote accomplishments and advocate for change, will be finished at the end of the first year.\n• Data 4 EMPACT: Develop and implement projects to support data skills with the communities that WFP assists, will be completed at the end of the third year.\nWFP Global Data Strategy 2024-202620"
+    },
+    {
+      "page_number": 21,
+      "text": "High-level road map – Year 1\nPillar 1 | Delivering with intent and evidence\n• Develop Artificial Intelligence\nStrategy and Framework for WFP\n• Quantify value: key performance indicators\nand return on investment development\n• Data discovery of business use cases\n• Phased delivery of business use cases\nPillar 2 | Architecting best of class data services\n• Define and design target data\narchitecture and technology blueprint\n• Implement and deploy data architecture,\ntechnology and services\nPillar 3 | Effective and efficient data foundations\n• Finalize and implement the Global\nData Office operating model\n• Data Governance: Update and refresh\ndata policies, standards and procedures\n• Data Management: Support adoption\nof data capabilities, principles and toolsacross WFP\nPillar 4 | Responsibly empowering people\n• Build data communities across WFP,\nCountry Offices, Regional Bureaux andheadquarters\n• Data Competencies: Develop and roll\nout training paths\n• Data Advocacy: Establish channels to\npromote accomplishments and advocatefor change\n• Data 4 EMPACT: Develop and implement\nprojects to support data skills with thecommunities that WFP assists\nPillar 4 | Responsibly \nempowering people\nFigure 11: High-level road map – Year 1\nQ1Q2Q3Q4\nDelivery of Artificial Intelligence Strategy and Framework\nKey performance indicators and return on investment report\nDiscovery of prioritized use case\nWFP Target Data Architecture and Technology Blueprint\nIncremental data management\nOperating model design\ncapabilities\nPillar 1 | Delivering with intent and evidence\nDevelop Artificial Intelligence Strategy and Framework for WFP. At the end of the first quarter, we will Deliver the Artificial Intelligence Strategy and Framework\nQuantify value: key performance indicators and return on investment development. At the end of the first quarter, we will calculate the Key performance indicators and return on investment report\nData discovery of business use cases. on the second quarter we will show the Discovery of prioritized use case\nfrom the midterm of quarter two till the end of year 1 we will delivery a selection of business use cases\nPillar 2 | Architecting best of class \ndata services\nDefine and design target data architecture and technology blueprint. We will produce before the end of the first quarter the WFP Target Data Architecture and Technology Blueprint\nBefore the end of the year we will Implement and deploy data architecture, technology and services\nPillar 3 | Effective and efficient \ndata foundations\nFinalize and implement the Global Data Office operating model, at the end of the first quarter.\nData Governance: Update and refresh data policies, standards and procedures, at the end of the year we promise a incrementall data management capabilities.\nAt the end of the first year we will: Support adoption of data capabilities, principles and tools across WFP. Data Management.\n•At the end of the 1st year the following will be completed:\nBuild data communities across WFP, \n Country Offices, Regional Bureaux and headquarters\nWFP Global Data Strategy 2024-202621\nData Competencies: Develop and roll out training paths\nData Advocacy: Establish channels to promote accomplishments and advocate for change\nData 4 EMPACT: Develop and implement projects to support data skills with the communities that WFP assists"
+    },
+    {
+      "page_number": 22,
+      "text": "VI. Key enablers\nPeople\nWFP staff are key strategic enablers who contribute to the effectiveness of the initiatives needed to execute the Data Strategy.\nIn alignment with other UN organizations, \nthe proposal is to establish data job profiles for Data Analyst, Data Engineer and Data Scientist. In addition, standard Terms of Reference will be developed under the auspices of the Data Management Committee to ensure Data Squad roles and responsibilities are clearly defined.\nThe importance of upskilling existing WFP staff with new data skills is also recognized and that funding is required to onboard new specialized talent especially for Artificial Intelligence and Machine Learning initiatives.\nTechnology\nThe technology choices for the data ecosystem should support WFP priorities and the needs of business stakeholders.\nCurrent state: The data platforms and data sources maintained by the Technology Division which serve an enterprise purpose plus specific business domain platforms and applications \nbuilt for business stakeholder requirements.\nTARGET STATE CONSIDERATIONS:\n• Alignment with the WFP Digital Blueprint\nand Enterprise Architecture Target Architectureinitiative.\n• Hybrid vision: WFP has a mix of multi-cloud\nplatforms (Software-as-a Service, Platform-as a-Service etc.) and on-premises platforms and\napplications. All these systems and applications contain WFP business data and in some cases \n duplicates.\n• Buy once/build once, use many times\nparadigm for cost efficiency.\n• Modular approach to reduce the risk\nof vendor lock in.\n• Standards: Open-source and digital public\ngoods is a priority. However, regardless ofopen source, buy or custom build, compliancewith standards is mandatory. Example: ISO/IEC 2700, certification or use of SAML/OpenID.To be developed in collaboration with businessstakeholders.\nJean, a student at a school in the Tanganyika province, Democratic Republic of the Congo. ADS / Victor Useni\nWFP Global Data Strategy 2024-202622"
+    },
+    {
+      "page_number": 23,
+      "text": "Funding and partnerships\nThe WFP Global Data Strategy initiatives will \nrequire funding and partnership opportunities.\nTARGET STATE CONSIDERATIONS:\n• Create a partnership plan for the Global Data\nStrategy placing particular emphasis on fullutilization of existing technology partners andattracting new investments and partnerships.Cloud-based platform vendors are alsoincreasing their philanthropic footprints,providing WFP with an opportunity to leveragetools which may not otherwise be affordable.\n• To support government assistance plans towards\nutilization of public-private partnerships, digitalpublic goods and local partners.\n• From a human resourcing perspective,\neducational institutions, government agenciesand think tanks are potential partners whichcan generate value with skills and new approachesto data challenges.\nWoman working the field, Rwanda. WFP / Irihose-Mugiraneza\nMozambique. Virtual Farmers Market (VFM) project in Malema and Ribaue districts, Nampula province. WFP / Ana Hombre\nGovernance\nWFP’s Data Governance bodies consists of:\n• The Digital Business and Technology Committee\nwhich has responsibility and accountability forthe Data Governance Board.\n• The Data Management Committee (DMC) which\nsupports the implementation and communication of data management policies. The DMC willassume the responsibilities and accountabilitiesof the Data Strategy Steering Committee and willprovide oversight on the execution of the WFPData Strategy and Prioritized Business use cases\nWFP Global Data Strategy 2024-202623"
+    },
+    {
+      "page_number": 24,
+      "text": "Acronyms\nAPI Application Programming Interface\nGDO Global Data Office\nISO International Organization for Standardization\nUN United Nations\nWFP World Food Programme\nWFP Global Data Strategy 2024-202624"
+    },
+    {
+      "page_number": 25,
+      "text": "Annex\nWFP Global Data Strategy 2024-202625"
+    },
+    {
+      "page_number": 26,
+      "text": "Alignment with the UN Data Strategy\nCase study: UN Data Strategy\nCreate value\u0003 and focus on priorities \u0003Employing our new\u0003 capabilities everywhere to deliver use cases systematically.\nSet strategic foundations\u0003 Our vision, outcomes and \u0003principles for a data-driven \u0003organization, grounded in UN \u0003values and human rights.\nOUTCOMES\n• Data\nUSE CASES\nVISION\nPurposes for which\ndata is used\nPRINCIPLES\nPriorities\nUN Strategy use cases\nUN Capability Analytics\nUN Capability Data Mgmt.\nWFP Data Strategy - PILLARS\nDelivering with intent and evidence\nArchitecting best of class data services\nEffective and efficient data foundations\nResponsibly empowering people\nThe following chart showcases which UN aspects are affected bythe WFP Data Strategic pillars:\nDelivering with intent and evidence impact UN Strategy use cases, UN cabability Analytics and UN enablers partnerships.\nArchitecting best of class data services impact on UN enablers data technology\nEffective and efficient data foundations impact over the UN capability data management and the UN Enablers data governance.\nResponsibly empowering people impact the following areas or aspects: Un Strategy use cases, Un capabilities analytic, Un Capability Data management, UN enablers people and culture, UN enablers Partnership, and the UN enablers Data governance.\nThe following diagram shows a case study related withthe UN Data Strategy.\nSome general highlights:\n2020 UN Secretary-General’s Data Strategy\nRepresents UN-wideaspirations on a\u0003 cohesive approach to data.\u0003\nSecond phase ofthe strategy to be released soon.\nThe usecases have as a main purpose:\nAnd to Foster enablers, nurturecapabilities, iterate. People and culture, governance,partnerships and technology for better data and analytics practice. Which comprehends capabilities such as Analytics, Data management. Our enablers (People & culture, Partnerships\u0003 Data governance, strategy oversight, Technology) and our roadmap.Annex 1\nCreate value and focus on priorities. Employing our new\u0003 capabilities everywhere to deliver use cases systematically.\nSet strategic foundations.\u0003 Our vision, outcomes and \u0003principles for a data-driven \u0003organization, grounded in UN \u0003values and human rights.Which englobes vision, outcomes and principles.\nFoster enablers, nurture capabilities, iterate \u0003People and culture, governance, partnerships and technology for better data and analytics practice.\n• 2020 UN\nSecretary-General’s Data Strategy\nCAPABILITIES\n• Represents UN-wide\n• Analytics\naspirations ona\u0003 cohesive approachto data.\nManagement\nROAD MAP\n• Second phase of\nENABLERS\nthe strategy to bereleased soon.\n• People & culture • Partnerships\u0003 • Data governancestrategy oversight • Technology\nUN Enablers People and Culture\nUN Enablers Data Governance\nUN Enablers Data Technology\nUN Enablers Partnership\nWFP Global Data Strategy 2024-202626"
+    },
+    {
+      "page_number": 27,
+      "text": "Endnotes\n1 “What is Data and Analytics,” Gartner, accessed 13/09/23, https://www.gartner.com/en/topics/data-wand-analytics\n2 “WFP Information and Technology Strategy (2023-2026),” document, United Nations World Food Programme, accessed 14/09/2023, https://newgo.wfp.org/documents/wfp-information-technology-strategy2023-2026-full-version\n3 “WFP Strategic Plan (2022-2025)” document, United Nations World Food Programme, accessed 14/09/2023, https://executiveboard. wfp.org/document_download/WFP-0000132205?_ga=2.247867012.24807650.1697416984-294984583.1669464672\n4 Schwab, Klaus. “The Fourth Industrial Revolution”. Encyclopaedia Britannica, 31 May. 2023,https://www.britannica.com/topic/The-Fourth-Industrial-Revolution-2119734. Accessed 5 September 2023.\n5 “What is Data Literacy” Qlik, website, accessed 14/09/2023, https://www.qlik.com/us/bi/data-literacy\nWFP Global Data Strategy 2024-202627"
+    },
+    {
+      "page_number": 28,
+      "text": "World Food Programme\nVia Cesare Giulio Viola 68/70,\n00148 Rome, Italy - T +39 06 65131\nwfp.org"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Endnotes ...................................................................................................................................................27",
+      "text": "WFP Global Data Strategy 2024-20262",
+      "pages": [
+        2
+      ]
+    },
+    {
+      "heading": "WFP must operate in a rapidly changing",
+      "text": "world as we respond to hunger crises fueled\nby conflicts, climate change, economic turmoil\nand the aftermath of the COVID-19 pandemic.\nWith demand for our assistance at record levels,\nit is critical that we capitalize on the power of\ndata to help us make the most of limited resources and ensure they are directed to those in urgent need.",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "heading": "To achieve it, WFP’s data strategy for the next",
+      "text": "three years must challenge existing norms, facilitate disciplined execution and deliver swift results.",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "heading": "Our success will be determined by the implementation of fundamental principles",
+      "text": "of data security and data protection essential\nto WFP’s mission. These safeguards are vital\nto reduce the risks that come with processing data in humanitarian contexts, where vulnerable individuals and communities can fall prey to exploitation or harm.",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "heading": "Finally, as we strive to equip our people",
+      "text": "with the necessary data skills, we also recognize the importance of extending these capabilities to our partners and the broader humanitarian community. We will embrace collaboration throughout the sector to increase our collective impact on food-insecure communities\neverywhere.",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "heading": "In a world where data and analytics are transforming our lives at breakneck speed,",
+      "text": "WFP is excited by our vast potential to help",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "heading": "the people we serve. This new strategy will ensure we seize the opportunities they offer",
+      "text": "with both hands.\nMs. Cindy H. McCain, Executive Director United Nations World Food Programme. WFP / Rein Skullerud\nWFP Global Data Strategy 2024-20263",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "heading": "by bringing modern, impactful solutions",
+      "text": "powered by WFP’s world-class data ecosystem\nWFP Global Data Strategy 2024-20264",
+      "pages": [
+        4
+      ]
+    },
+    {
+      "heading": "Pillar 1:",
+      "text": "Delivering with intent and evidence – Maximizing the value derived fromthe digital value chain.",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "heading": "Pillar 2:",
+      "text": "Architecting best of class data\nservices – Investing in the right data & analytics infrastructure.",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "heading": "Pillar 3:",
+      "text": "Effective and efficient data foundations – Fully managing WFP’s data assets with datamanagement and data governance.",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "heading": "Pillar 4:",
+      "text": "Responsibly empowering",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "heading": "To implement the Data Strategy and build",
+      "text": "a modern data estate, WFP will establish a\nGlobal Data Hub and Spoke model guided\nby the following:",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "heading": "• Agile ways of working – Unlocking immediatevalue and breaking silos within the WFPorganization facilitated by a Global Data Office.Bangladesh - Enhanced food security and nutrition (EFSN) - Hason Ara Begum. WFP / Sayed Asif Mahmud",
+      "text": "WFP Global Data Strategy 2024-20265",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "heading": "The role of data and analytics is",
+      "text": "to equip businesses, their employees and leaders to make informed decisions and improve outcomes.1",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "heading": "Why is data",
+      "text": "important for WFP?\n“The role of data and analytics is to equip businesses, their employees and leaders to make informed decisions and improve outcomes.1 ”",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "heading": "Furthermore, using enhanced information can improve existing WFP services and assist in the development of new innovative solutions. Working with data provided by wider humanitarian networks and external stakeholders, WFP can also focus on deriving better insights to increase the value of activities and enable the achievement",
+      "text": "of organizational goals.",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "heading": "What are the factors driving the need for",
+      "text": "data improvements?",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "heading": "Data privacy and protection is key to reduce the risks associated with processing data in humanitarian contexts, which can place already vulnerable people and communities at greater risk of harm or exploitation. The work of WFP’s Global Privacy Office and initiatives on Identity Management under the Programme Operations Department emphasize the priority given to implementing data protection and data security",
+      "text": "by design throughout the data life cycle.",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "heading": "Finally, Knowledge Management establishes the importance of the digital value chain linking raw data, information, knowledge and insights. Alignment and joint goals between data and knowledge management efforts are key to strengthening WFP’s data ecosystem.",
+      "text": "WFP Global Data Strategy 2024-20266",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "heading": "A key external driver is the Fourth Industrial Revolution, which describes the fusion of advances in Artificial Intelligence, robotics,",
+      "text": "the Internet of Things, Web3, blockchain, 3D printing, genetic engineering, quantum computing and other technologies. 4 All of\nthese new technologies rely on a strong\ndata foundation.",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "heading": "WFP’s contribution towards and alignment with UN-wide efforts that collectively call for enhanced",
+      "text": "A boy with a WFP employee in Turkey, Adana refugee camp. WFP / Deniz Akkus",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "heading": "engagement on digital cooperation, focus on",
+      "text": "building data skills and the emergence of a UN system-wide data approach.",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "heading": "WFP’s stakeholders require greater accountability, controls and safeguards for end-to-end core processes, which results in the need to process large volumes of data, use of analytics to produce information and insights, and quickly identify anomalies and flag them for key decisions",
+      "text": "and actions.\nWFP Global Data Strategy 2024-20267",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "heading": "In alignment with best practices and",
+      "text": "the UN Secretary-General’s Data Strategy,\nWFP completed an assessment of its data maturity level in 2023.",
+      "pages": [
+        8
+      ]
+    },
+    {
+      "heading": "WFP’s data maturity level",
+      "text": "Local and aware\n• Some data\nmanagement exists\nChaotic but aware\n• Initial \u0003steps in data\n• Business ownership\nmanagement\nin some areas\n• No data management\n• Silos remain, some\n• Analytical capabilities\n• Manual, siloed \u0003and no\nstandards\u0003 in place\nexpanding\ndata standards\n• Data not reconciled\n• No data strategy\n• No data management\nKPIs (e.g. data quality)\nWFP TODAY\nFigure 1: WFP’s data maturity level",
+      "pages": [
+        8
+      ]
+    },
+    {
+      "heading": "The WFP Data Strategy will provide the direction to accelerate WFP’s data maturity from the current state (Local and Aware) to Proactive state in three years as shown below.",
+      "text": "Effective and proactive\nProactive\n• Data and information\nManaged\nare fully managed\n• Data is fully\n• Data quality is achieved\nmanaged and drives innovation\nand measurable\u0003\n• Processes and\n• Data culture established\nsystems fully secureand protect data\n• Decisions supported\nby trusted data,analytics, Al/ML\nThe following graphic represents WFP’s maturity level.\nIt is separated in 5 mayor categories that represent the past, the present and the near future.\n1. Chaotic but aware\nNo data management\u0003\nManual, siloed and no data standardsNo data strategy\nWFP’S 2026 AMBITION\n2. Local and aware\nInitial steps in data management\u0003\nSilos remain, some standards in place\nData not reconciledNo data management KPIs (e.g. data quality)\nThis category represents WFP today.\n3.Managed\nSome data management exists\nBusiness ownership in some areas\u0003\nAnalytical capabilities expanding\n4. Proactive\nData is fully managed and drives innovation\u0003\nData culture establishedDecisions supported by trusted data, analytics, Al/MLThis category represents WFP’s ambition for 2026\n5. Effective and proactive\nData and information are fully managed\nData quality is achieved and measurable\u0003\nProcesses and systems fully secure and protect data\nThe expectations are to move from a local and aware maturity level towards a proactive one in 2026.",
+      "pages": [
+        8
+      ]
+    },
+    {
+      "heading": "• Rationalization of data infrastructure andalignment of data architecture is required.",
+      "text": "WFP Global Data Strategy 2024-20268",
+      "pages": [
+        8
+      ]
+    },
+    {
+      "heading": "Implementing a pragmatic approach – WFP",
+      "text": "will implement a pragmatic approach, highlighting clear links to a return on investment and optimized operations.",
+      "pages": [
+        9
+      ]
+    },
+    {
+      "heading": "As WFP builds data capabilities and",
+      "text": "competencies, it also needs to extend these efforts to its partners and to the affected populations who receive assistance.",
+      "pages": [
+        9
+      ]
+    },
+    {
+      "heading": "Focusing on a phased approach, as WFP’s",
+      "text": "data architecture, data management and\ndata governance capabilities are strengthened,\na solid foundation will be created. Leveraging\nthe robust data foundation, improved data quality and better interoperability will set the basis upon which Advanced Analytics, Artificial Intelligence, Machine Learning can be fully\nutilized for WFP business use cases including\nthe development of digital public goods.\nWomen at a WFP registration site in Mogadishu, Somalia. WFP / Ismail Taxta\nWFP Global Data Strategy 2024-20269",
+      "pages": [
+        9
+      ]
+    },
+    {
+      "heading": "WFP Global Data Strategy Framework",
+      "text": "STRATEGIC PILLARS\nDelivering withintent and evidence\nArchitecting best of class data services\nInvesting in the right\nMaximizing the value from data and analytics\ndata and analytics infrastructure and tools\nENABLERS\nArchitecting best of class data services\nDelivering with intent and evidence\nMaximizing the value derived from the digital value chain\nInvesting in the right data & analytics infrastructure\nFigure 2: WFP Global Data Strategy Framework",
+      "pages": [
+        10
+      ]
+    },
+    {
+      "heading": "Responsibly empowering people",
+      "text": "data foundations\nManaging WFP’s\nWFP staff, partners and vulnerable communities\ndata assets\nPeopleGovernanceOperating modelFundingTechnologyPartnerships",
+      "pages": [
+        10
+      ]
+    },
+    {
+      "heading": "Effective and efficient data foundations",
+      "text": "Fully manage WFP’s data assets with data management and data governance\nDevelop a data-driven workforce and culture\nA vision supported by 4 strategic pillars:• Delivering with intent and evidence to maximize the value from data and analytics\n• Architect best of class data services to invest in the right data and analytics infraestructure and tools\n• Effective and efficient data foundations to manage WFP’s data assets\nWFP Global Data Strategy 2024-202610\n• Responsibly empower people, to support WFP staff partners and vulnerable communities\nThis pillars have at the bottom the enablers\nPeople, Operating Models, Technology, Governance, Funding, Partnerships.\nThe first pillar (delivering with intent) is the sum of the other three: Architecting best of class data services, Effective and efficient data foundations, responsibly empowering people.",
+      "pages": [
+        10
+      ]
+    },
+    {
+      "heading": "Pillars 2, 3 and 4 are the foundational building blocks for the WFP Data Strategy and will enable the realization of business value through use",
+      "text": "cases (Pillar 1).",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "heading": "To reach a Proactive Data Maturity Level in",
+      "text": "three years, the Data Strategy aims to achieve the following goals (supported by the common I&T Strategy enablers – people, operating model, technology, governance, funding and partnerships):",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "heading": "Architecting best of class data services –Creating and implementing the blueprint for",
+      "text": "Douglas Chilambo (centre) and school children from left to right (Mwale, Edith, Ester) enjoying school meals before class. WFP / Badre Bahaji",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "heading": "a Modern Data Estate (how WFP data is",
+      "text": "managed-collection, transformation, distribution, consumption and the movement of data across various platforms and applications).",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "heading": "Effective and efficient data foundations – Full integration of Data Management and Data Governance in building the Modern Data Estate",
+      "text": "to enable better analysis of information, increased data quality, optimized operational efficiencies and enhanced data security.",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "heading": "Responsibly empowering people – The upskilling of WFP’s workforce to enable both the utilization of insights generated by analytics and the responsibilities of working with data throughout its life cycle. In addition, WFP’s efforts to close",
+      "text": "the loop for data improvement include partners and the people we assist.\nWFP Global Data Strategy 2024-202611",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "heading": "ESTABLISHING",
+      "text": "WFP’S DATA ECOSYSTEM",
+      "pages": [
+        12
+      ]
+    },
+    {
+      "heading": "With WFP’s Modern Data Estate at the core, WFP’s Data Ecosystem extends to the data and information exchanges with WFP partners, the UN family, people receiving WFP’s assistance and the public. The ability to share open data, exchange information and create interoperability among systems highlights the need for WFP to prioritize data initiatives to build WFP’s Modern Data Estate.",
+      "text": "• Partner facing system\n• Partner facing APIS\n• Public facing/open APIs",
+      "pages": [
+        12
+      ]
+    },
+    {
+      "heading": "People receiving WFP assistance",
+      "text": "• Public Facing Systems\n• Uncollaboration Systems",
+      "pages": [
+        12
+      ]
+    },
+    {
+      "heading": "Public facing systems",
+      "text": "Figure 3: WFP Data Ecosystem addressing broader contexts\nCommunities obtain services from WFP in Guatemala. WFP / Nelson Pacheco",
+      "pages": [
+        12
+      ]
+    },
+    {
+      "heading": "PublicUN family",
+      "text": "WFP Global Data Strategy 2024-202612",
+      "pages": [
+        12
+      ]
+    },
+    {
+      "heading": "Data foundation: An emphasis on the organizational-wide efforts needed to build",
+      "text": "the required components which will support\nthe entire data life cycle from data generation and collection to archiving and deletion.",
+      "pages": [
+        13
+      ]
+    },
+    {
+      "heading": "Data sources: Repositories of data needed to support analytics and Artificial Intelligence and Machine Learning efforts. Ensuring efficient use of both legacy and modern sources including open data.",
+      "text": "Effective and efficient\ndata foundations:Fully manage WFP’s data assets\nBusiness intelligence & reporting tools\nwith data management and data governance to reduce processing time and complexity while increasing quality.\nFinance planning, Workday, SalesForce\nand Supply Chain\nArchitecting best of class\ndata services:Investing in the right data and analytics infrastructure to drive value through reusability.\nData governance & data quality\nFigure 4: WFP’s Modern Data Estate",
+      "pages": [
+        13
+      ]
+    },
+    {
+      "heading": "Self-service analytics: Maturing capabilities",
+      "text": "so that WFP staff and partners can have access to the data that they need, at the right time, and in one place while catering for data squads working on more Advanced Analytics.",
+      "pages": [
+        13
+      ]
+    },
+    {
+      "heading": "Artificial Intelligence and Machine Learning layer: A prerequisite for using Artificial Intelligence and Machine Learning is data. Leveraging data foundations, WFP will create the processes and provide the tools to explore and optimize the use of Artificial Intelligence and Machine Learning.",
+      "text": "INSIGHTS DRIVEN DECISION MAKING\nAuto-Machine\nChatbotsMachine Learning\nCustom applicationsDashboard\nLearning accelerators\nmodels\nARTIFICIAL INTELLIGENCE & MACHINE LEARNING LAYER\nSELF SERVICE ANALYTICS\nPartners, Donors,\nExternal sources\nMarket Data Climate Risk\nProgramme\nDATA SOURCES\nEnterprise data catalogue\nReference\nData integration\nData privacy,\nMaster data\ndata\nprotection &\n& owners/\nsecurity\nstewards\nDATA FOUNDATION\nWFP Global Data Strategy 2024-202613",
+      "pages": [
+        13
+      ]
+    },
+    {
+      "heading": "A Hub and Spoke model indicating how the Global Data Office (GDO) will collaborate with business to deliver on use cases through data squads utilizing existing resources.",
+      "text": "DataSquad\nLarger Business\nUnits/Country\nOffice\n• Flexible\nsquads alignedto the needsof the businessunits\nSmaller Country Office\n• Parallel\nworkstreamsand businessuse casesusing the GDOstandards andguidelines\n• Single regional\nsquad supportinga cluster ofsmaller countries\n• Creation of data\nproducts\n• Augmented by\nGDO skills\nFigure 5: Proposed operating model",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "heading": "3. Agile ways of working – Unlocking immediatevalue and breaking silos within the WFP organizationby doing things differently facilitated by a GlobalData Office.",
+      "text": "• The GDO provides guidance, best\nGlobal Data Office\npractices and support to the datasquads in executing business usecases\n(GDO) Chief Data Officer\n• The GDO has a direct reporting line\nGDO Data\nto the Chief Data Officer\nSquad\nGlobal Initiative\nSmaller Country OfficeSmaller Country Office\nSubregional Data Squad\nDataSquadDataSquadDataSquadDataSquad\n• Use case effort\n• Convened when there\nis funding and resourceavailability\n• Parallel workstreams\n• Dedicated teams\n• Multiple cross functional\ndata squads\nAt the center of all there is the Global Data Office (GDO Data Squad). Then you have the subregional data squad\ncomposed by the smaller country offices, and next to this category there is the global initiative and larger business\nunits/country offices, both of them have Data Squads of their own.\nWFP Global Data Strategy 2024-202614",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "heading": "Global direction – The Global Data Office led by the Chief Data Officer acts as a central hub to provide standards, guidance, best practices and to convene and support the Data Squads. In addition, the Global Data Office will be responsible for convening a data squad to deliver the Modern Data Estate initiatives in collaboration with",
+      "text": "business stakeholders.",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "heading": "Cross-functional composition – Data projects",
+      "text": "often require a variety of roles and responsibilities including specialists. The ability to add the necessary profiles to deliver results is crucial.",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "heading": "Is there capacity /resource/ funding to start?",
+      "text": "Figure 6: ABCs of prioritization",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "heading": "Support to less resourced business units – Some business units/Country Offices/Regional Bureaux may not have the roles or resources",
+      "text": "to support data projects or complex tasks.\nThe ability to form Data Squads using resources from other teams is needed to augment capacity.",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "heading": "Accountability – Data owners and stewards",
+      "text": "have important roles to play in WFP’s Modern\nData Estate. Data Squads need to include these roles and responsibilities to ensure the responsible usage of data and oversight by the appropriate stakeholders.",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "heading": "Business needs and value drive the development and implementation of data projects. Pillar 1 of the Data Strategy will be implemented incrementally through business use cases",
+      "text": "based on the guiding principles for prioritization outlined below, in alignment with the WFP IT project prioritization criteria.",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "heading": "Can you measure the value?",
+      "text": "Can it be supported? (training, change management, etc.)\nThe ABCs of priorization are composed by Alignment, Benefit and Commitment, in that specific order, they affect each other from top to bottom, so when considering to take a decision follow this line of thought:\nWhen thinking in alignment the following questions should be asked: Is it aligned to coporate strategy? Is it an audit or compliance requirement? Does it have functional or local urgency?\nWFP Global Data Strategy 2024-202615\nWhen thinking about benefit, ask the following questions: How clear is the value? Can you measure the value?\nWhen thinking about comitment, ask the following: Is there capacity, resources or funding to start? Can it be supported? with training, change management, etc.",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "heading": "Based on consultations with key business stakeholders, the following potential high-impact business use cases are identified and require further validation and prioritization.",
+      "text": "END TO ENDASSURANCE\nENHANCEDEMERGENCYRESPONSE\nWFP DATASHARING HUB",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "heading": "WHATHOW",
+      "text": "Power the end-to-endassurance process usingadvanced datacapabilities and tools topromote trust\nA data-driven approach todrive impactful and proactive responses toemergency situations\nInnovative mechanisms toshare data andcollaborate with the people WFP assists, partners, UN communityand the public\nAssist with:\nContributes towards ongoing efforts:\nFocus On:\n• ImprovedGeographicInformationSystems\n• Open DataStrategy andFramework\n• Supply chain track and trace\n• Increasedinteroperability\n• Next Generation assistance delivery solutions\n• Damageassessment\n• Predictivemodellingfor disasterwarning andemergencysupport\n• Modernmonitoring\nFigure 7: Proposed business use cases\nEND TO END ASSURANCE\nWhat?\nPower the end-to-end assurance process using advanced data capabilities and tools to promote trust\nHowContributes towards ongoing efforts:Supply chain track and trace\nNext Generation assistance delivery solutions\nModern monitoring\nENHANCED EMERGENCY RESPONSE\nWhat?\nA data-driven approach to drive impactful and proactive responses to emergency situations\nHowAssist with:Improved Geographic Information SystemDamage assessmentPredictive modelling for disaster warning and emergency support\nWFP DATA SHARING HUB\nWhat?\nInnovative mechanisms to share data and collaborate with the people WFP assists, partners, UN community and the public\nHow?\nFocus On:\nOpen Data Strategy and Framework\nIncrease interoperability•\nOPTIMIZED OPERATIONAL EFFICIENCIES\nWhat?\nUnlock cost efficiencies and effectiveness usingautomation and ArtificialIntelligence\nHow?\nTransform:Repetitive mundane tasks to free scarceresource value\nCurrent analytics and reporting to Artificial\nIntelligence powered assistants to support better decision making\nOPTIMIZEDOPERATIONALEFFICIENCIES\nCYBERSECURITYREINFORCEMENT\nGOVERNMENTASSISTANCE\nUnlock cost efficienciesand effective-ness usingautomation and ArtificialIntelligence\nDetect and respond toknown and unknowncybersecurity threats using ArtificialIntelligence and Machine Learning\nProvide technical data advisory services and composablecomponents to supportgovernment efforts\nTransform:\nImprove:\nIncluding:\n• Repetitivemundane tasksto free scarceresource value\n• Malwaredetection\n• Best practicesin DataManagement,Architectureand Governance\n• Phishingdetection\n• Currentanalytics andreporting toArtificialIntelligencepowered assis-tants to support better decision making\n• Security loganalysis\n• Open-sourceresources\n• Networksecurity\n• Digitalpublic goodcontributions\n• Endpointsecurity\nCYBERSECURITYREINFORCEMENT\nWhat?Detect and respond to known and unknown cybersecurity threats using Artificial Intelligence and Machine Learning\nHow?\nImprove:\nMalware detection\nPhishing detection\nSecurity log analysis\nNetwork security\nEndpoint security\nGOVERNMENTASSISTANCE\nWhat?\nProvide technical data advisory services and composablecomponents to supportgovernment efforts\nHow?\nIncluding:\nBest practices in Data Management, Architecture and Governance\nOpen-source resources\nDigital public good contributions\nWFP Global Data Strategy 2024-202616",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "heading": "1.1Read +",
+      "text": "Understand",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "heading": "1.0 DATA",
+      "text": "COMPETENCY\nAREAS [DL]\n1.1.1 Data Concepts\nDL",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "heading": "1.2Work with Data",
+      "text": "1.2.1 Data Collection\nDL",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "heading": "1.3Data Analysis +",
+      "text": "Storytelling\n1.3.1 Data Analytics\nDL",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "heading": "1.4Make Data-driven",
+      "text": "Decisions\n1.4.1 Interpreting Data\nDL",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "heading": "1.5In Context:",
+      "text": "Data Culture\n1.5.1 Data Culture and Advocacy\nDL",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "heading": "1.6Governance",
+      "text": "1.6.2 Data Quality\nDL",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "heading": "2.0 DIGITAL",
+      "text": "COMPETENCY\nAREAS [DX]\n2.1.1 Collaboration\nDX",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "heading": "2.2In Context: Business Acumen",
+      "text": "2.2.1 Systems Thinking\nDX\nFigure 8: WFP Data Literacy Competency Framework. Source: WFP Data Literacy Working Group",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "heading": "Development of data competencies will be supported by learning paths and training courses. They will be delivered based on the framework with an opportunity to re-use products in support of empowerment initiatives such as EMPACT (leveraging the digital economy to build the resilience of urban, displaced, and landless or land-poor households).",
+      "text": "1.1.2 Data Ecosystem\n1.1.3 Metadata Management DL\n1.1.4 Statistical Literacy\nDL\nDL\n1.2.2 Data Cleaning\n1.2.3 Data Transformation\nDL\nDL\n1.3.2 Data Visualization\n1.3.3 Data Storytelling\nDL\nDL\n1.4.2 Business ProblemFraming\n1.4.3 Weighing DataInformed Decisions\n1.4.4 Evaluating Data Informed Decisions\nDL\nDL\nDL\n1.6.3 Data Protection\n1.6.4 Data Transparency\nDL\nDL\n2.1.2 Creative Thinking\n2.1.3 Adaptability\n2.1.3 Continuous Learning\nDX\nDX\nDX\n2.2.2 Product Value Proposition\n2.2.3 Strategic Perspective\nDX\nDX\nWFP Global Data Strategy 2024-202617",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "heading": "The guiding principles for organization-wide transformation, building \u0003",
+      "text": "momentum, driving accountability and continuously enhancing the value of data.\nDATA IS OPEN AND ACCESSIBLE\nDATA PROTECTION AND SECURITY\nDATA AS A WFP ASSET\nBY DESIGN\nPROMOTE INTEROPERA\u0003BILITY AND RE-USABILITY\nFigure 9: WFP Data principles. Source: 2023 Deloitte Consulting",
+      "pages": [
+        18
+      ]
+    },
+    {
+      "heading": "E) Responsible use of data at the forefront– WFP adopts ethical and transparent practices toeliminate bias and discrimination in its use of data.",
+      "text": "EXPLORE AND ASPIRE\nRESPONSIBLE\nUSE OF DATA\nHIGHER\nAT THE FOREFRONT\nDATA QUALITY MATTERS\nESTABLISH ACCOUNTABILITY\nDEFINED PURPOSE, NECESSITY AND\nBUILD DATA CAPABILITIES\nPROPORTIONALITY",
+      "pages": [
+        18
+      ]
+    },
+    {
+      "heading": "J) Data quality matters – Optimize the useof WFP data by ensuring it is accurate, complete,valid, consistent, timely and fit for purpose.",
+      "text": "WFP Global Data Strategy 2024-202618\nMali, Nafissatou and her classmates share their lunch. WFP / Arete / Arlette Bashizi",
+      "pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "heading": "WFP will implement the inaugural Global Data Strategy in a three year horizon. After each year,",
+      "text": "an assessment will be conducted to ensure WFP’s Data Maturity targets are in alignment. Given\nthe fast-changing technology landscape and WFP’s circumstances, the ability to pivot and adjust the plans is required. The three year overview and Year 1 plan are provided.\nWFP Global Data Strategy 2024-202619",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "heading": "projects to support data skills with thecommunities that WFP assists",
+      "text": "Figure 10: High-level road map: three-year plan",
+      "pages": [
+        20
+      ]
+    },
+    {
+      "heading": "Pillar 1 | Delivering with intent and evidence",
+      "text": "Artificial Intelligence strategy and Framework development, completed on the first half of the year\nQuantify value: key performance indicators and return on investment development,\nmonitoring and reporting\nPriority use cases: Develop and roll out\nBoth projects will be completed and the end of the third year",
+      "pages": [
+        20
+      ]
+    },
+    {
+      "heading": "Pillar 2 | Architecting best of class",
+      "text": "data services\n• Define and design target data architecture and technology blueprint, completed on the first half of the first year.",
+      "pages": [
+        20
+      ]
+    },
+    {
+      "heading": "Pillar 3 | Effective and efficient",
+      "text": "data foundations\n• Finalize and implement the Global Data Office operating model, will be finished in the first half of the year.\n• Data Governance: Update and refresh data policies, standards and procedures, will be finished before the first year finalizes.\n• Data Management: Support adoption of data capabilities, principles and tools across WFP, will be finished at the end of the third year.",
+      "pages": [
+        20
+      ]
+    },
+    {
+      "heading": "Pillar 4 | Responsibly",
+      "text": "empowering people\n• Build data communities across WFP, Country Offices, Regional Bureaux and headquarters, will be ended at the end of the first year.",
+      "pages": [
+        20
+      ]
+    },
+    {
+      "heading": "• Data Competencies: Develop and roll out training paths and courses for WFP staff and partners, will be done at the end of the third year.",
+      "text": "• Data Advocacy: Establish channels to promote accomplishments and advocate for change, will be finished at the end of the first year.\n• Data 4 EMPACT: Develop and implement projects to support data skills with the communities that WFP assists, will be completed at the end of the third year.\nWFP Global Data Strategy 2024-202620",
+      "pages": [
+        20
+      ]
+    },
+    {
+      "heading": "Pillar 4 | Responsibly",
+      "text": "empowering people\nFigure 11: High-level road map – Year 1",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "heading": "Q1Q2Q3Q4",
+      "text": "Delivery of Artificial Intelligence Strategy and Framework\nKey performance indicators and return on investment report\nDiscovery of prioritized use case\nWFP Target Data Architecture and Technology Blueprint\nIncremental data management\nOperating model design\ncapabilities",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "heading": "Pillar 1 | Delivering with intent and evidence",
+      "text": "Develop Artificial Intelligence Strategy and Framework for WFP. At the end of the first quarter, we will Deliver the Artificial Intelligence Strategy and Framework\nQuantify value: key performance indicators and return on investment development. At the end of the first quarter, we will calculate the Key performance indicators and return on investment report\nData discovery of business use cases. on the second quarter we will show the Discovery of prioritized use case\nfrom the midterm of quarter two till the end of year 1 we will delivery a selection of business use cases",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "heading": "Pillar 2 | Architecting best of class",
+      "text": "data services\nDefine and design target data architecture and technology blueprint. We will produce before the end of the first quarter the WFP Target Data Architecture and Technology Blueprint\nBefore the end of the year we will Implement and deploy data architecture, technology and services",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "heading": "Pillar 3 | Effective and efficient",
+      "text": "data foundations\nFinalize and implement the Global Data Office operating model, at the end of the first quarter.\nData Governance: Update and refresh data policies, standards and procedures, at the end of the year we promise a incrementall data management capabilities.\nAt the end of the first year we will: Support adoption of data capabilities, principles and tools across WFP. Data Management.\n•At the end of the 1st year the following will be completed:\nBuild data communities across WFP,\nCountry Offices, Regional Bureaux and headquarters\nWFP Global Data Strategy 2024-202621\nData Competencies: Develop and roll out training paths\nData Advocacy: Establish channels to promote accomplishments and advocate for change\nData 4 EMPACT: Develop and implement projects to support data skills with the communities that WFP assists",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "heading": "In alignment with other UN organizations,",
+      "text": "the proposal is to establish data job profiles for Data Analyst, Data Engineer and Data Scientist. In addition, standard Terms of Reference will be developed under the auspices of the Data Management Committee to ensure Data Squad roles and responsibilities are clearly defined.",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "heading": "Current state: The data platforms and data sources maintained by the Technology Division which serve an enterprise purpose plus specific business domain platforms and applications",
+      "text": "built for business stakeholder requirements.",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "heading": "applications. All these systems and applications contain WFP business data and in some cases",
+      "text": "duplicates.",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "heading": "goods is a priority. However, regardless ofopen source, buy or custom build, compliancewith standards is mandatory. Example: ISO/IEC 2700, certification or use of SAML/OpenID.To be developed in collaboration with businessstakeholders.",
+      "text": "Jean, a student at a school in the Tanganyika province, Democratic Republic of the Congo. ADS / Victor Useni\nWFP Global Data Strategy 2024-202622",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "heading": "The WFP Global Data Strategy initiatives will",
+      "text": "require funding and partnership opportunities.",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "heading": "educational institutions, government agenciesand think tanks are potential partners whichcan generate value with skills and new approachesto data challenges.",
+      "text": "Woman working the field, Rwanda. WFP / Irihose-Mugiraneza\nMozambique. Virtual Farmers Market (VFM) project in Malema and Ribaue districts, Nampula province. WFP / Ana Hombre",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "heading": "supports the implementation and communication of data management policies. The DMC willassume the responsibilities and accountabilitiesof the Data Strategy Steering Committee and willprovide oversight on the execution of the WFPData Strategy and Prioritized Business use cases",
+      "text": "WFP Global Data Strategy 2024-202623",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "heading": "Acronyms",
+      "text": "API Application Programming Interface\nGDO Global Data Office\nISO International Organization for Standardization\nUN United Nations\nWFP World Food Programme\nWFP Global Data Strategy 2024-202624",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "heading": "Annex",
+      "text": "WFP Global Data Strategy 2024-202625",
+      "pages": [
+        25
+      ]
+    },
+    {
+      "heading": "Case study: UN Data Strategy",
+      "text": "Create value\u0003 and focus on priorities \u0003Employing our new\u0003 capabilities everywhere to deliver use cases systematically.\nSet strategic foundations\u0003 Our vision, outcomes and \u0003principles for a data-driven \u0003organization, grounded in UN \u0003values and human rights.\nOUTCOMES\n• Data\nUSE CASES\nVISION\nPurposes for which\ndata is used\nPRINCIPLES\nPriorities\nUN Strategy use cases\nUN Capability Analytics\nUN Capability Data Mgmt.\nWFP Data Strategy - PILLARS\nDelivering with intent and evidence\nArchitecting best of class data services\nEffective and efficient data foundations\nResponsibly empowering people\nThe following chart showcases which UN aspects are affected bythe WFP Data Strategic pillars:\nDelivering with intent and evidence impact UN Strategy use cases, UN cabability Analytics and UN enablers partnerships.\nArchitecting best of class data services impact on UN enablers data technology\nEffective and efficient data foundations impact over the UN capability data management and the UN Enablers data governance.\nResponsibly empowering people impact the following areas or aspects: Un Strategy use cases, Un capabilities analytic, Un Capability Data management, UN enablers people and culture, UN enablers Partnership, and the UN enablers Data governance.\nThe following diagram shows a case study related withthe UN Data Strategy.\nSome general highlights:\n2020 UN Secretary-General’s Data Strategy\nRepresents UN-wideaspirations on a\u0003 cohesive approach to data.\u0003\nSecond phase ofthe strategy to be released soon.\nThe usecases have as a main purpose:",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "heading": "And to Foster enablers, nurturecapabilities, iterate. People and culture, governance,partnerships and technology for better data and analytics practice. Which comprehends capabilities such as Analytics, Data management. Our enablers (People & culture, Partnerships\u0003 Data governance, strategy oversight, Technology) and our roadmap.Annex 1",
+      "text": "Create value and focus on priorities. Employing our new\u0003 capabilities everywhere to deliver use cases systematically.\nSet strategic foundations.\u0003 Our vision, outcomes and \u0003principles for a data-driven \u0003organization, grounded in UN \u0003values and human rights.Which englobes vision, outcomes and principles.\nFoster enablers, nurture capabilities, iterate \u0003People and culture, governance, partnerships and technology for better data and analytics practice.\n• 2020 UN\nSecretary-General’s Data Strategy\nCAPABILITIES\n• Represents UN-wide\n• Analytics\naspirations ona\u0003 cohesive approachto data.\nManagement\nROAD MAP\n• Second phase of\nENABLERS\nthe strategy to bereleased soon.\n• People & culture • Partnerships\u0003 • Data governancestrategy oversight • Technology\nUN Enablers People and Culture\nUN Enablers Data Governance\nUN Enablers Data Technology\nUN Enablers Partnership\nWFP Global Data Strategy 2024-202626",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "heading": "5 “What is Data Literacy” Qlik, website, accessed 14/09/2023, https://www.qlik.com/us/bi/data-literacy",
+      "text": "WFP Global Data Strategy 2024-202627",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "heading": "Via Cesare Giulio Viola 68/70,",
+      "text": "00148 Rome, Italy - T +39 06 65131\nwfp.org",
+      "pages": [
+        28
+      ]
+    }
+  ],
+  "num_pages": 28
+}

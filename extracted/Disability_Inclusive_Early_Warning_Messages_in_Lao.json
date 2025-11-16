@@ -1,0 +1,384 @@
+{
+  "report_id": "Disability_Inclusive_Early_Warning_Messages_in_Lao",
+  "file_path": "/Users/madhu/Desktop/WFP/wfp_reports/wfp_reports/Emergency_Preparedness_and_Response/Disability_Inclusive_Early_Warning_Messages_in_Lao.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nSummary Report\n3-4 July 2025"
+    },
+    {
+      "page_number": 2,
+      "text": "supported by:"
+    },
+    {
+      "page_number": 3,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "text": "Acknowledgement\nThis report captures the insights, lessons learned,\nkey actions, and collaborative efforts of the\n\"Disability-Inclusive Early Warning Messages in\nLao PDR Workshop,\" held on 3 and 4 July 2025, in\nVientiane, Lao PDR. We extend our deepest\ngratitude to the Department of Meteorology and\nHydrology (DMH) under the Ministry of Agriculture\nand Environment (MAE), and the Department of\nSocial Welfare (DSW) under the Ministry of Labour\nand Social Welfare (MOLSW), for their leadership\nin organizing this event.\nOur sincere appreciation is extended to all\nparticipants, particularly Persons with Disabilities\n(PWD), representatives from Organizations of\nPersons with Disabilities (OPDs) and Civil Society\nOrganizations (CSOs), including Lao Disabled\nPeople’s Association (LDPA), Women With\nDisability Association (WWDA), and Disability\n4Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nMainstreaming Advisory Services (DMAS), as well\nas delegates from Cambodia, notably from the\nMinistry of Water Resources and Meteorology of\nCambodia (MoWRAM), and all development\npartners. Their invaluable perspectives, shared\nexperiences, and active engagement were\ninstrumental to the workshop's success and\nenriched the content of this report. The insights\ngathered from their contributions form a\nfoundational basis for the recommendations\npresented herein. We also acknowledge the\ncontributions of all technical presenters and\nfacilitators who shared their expertise and guided\nthe discussions.\nThis collective endeavor aims to translate\nknowledge into tangible actions, fostering a more\ninclusive and resilient Lao PDR where early\nwarnings truly serve all."
+    },
+    {
+      "page_number": 5,
+      "text": "Contents\nAcknowledgement3\nExecutive Summary6\nIntroduction7\n1. Disability-Inclusivity (DI): The Human Imperative8\n2. Early Warning Messages (EWM): The Foundation13\n2.1. The EWS Landscape in Lao PDR14\n2.2. Current Capabilities and Gaps in Warning Systems15\n2.3. Understanding Community Perception and Response16\n5Disability-Inclusive Early Warning Messages in Lao PDR Workshop\n1.1. The Reality of Disability in Lao PDR9\n1.2. Specific Challenges Faced by Persons with Disabilities During Disasters10\n1.3. The Power of Inclusive Approaches12"
+    },
+    {
+      "page_number": 6,
+      "text": "3. Disability-Inclusive Early Warning Messages (DIEWM): A Unified Vision17\n4. Annexes24\n6Disability-Inclusive Early Warning Messages in Lao PDR Workshop\n3.1. Integrating EWS and Disability-Inclusivity: Towards \"Early Warnings for All\"18\n3.2. Beyond Awareness: Shifting Mindsets and Empowering Action20\n3.3. Strategic Recommendations for an Inclusive EWS21\n3.4. Tangible Next Steps: a Roadmap for DIEWM23\n4.1. The Workshop in a Nutshell25\n4.2. Personas: Understanding Diverse Needs in DIEWM26\n4.3. DIEWM Prototypes27\n4.4 Action Planning for DIEWM: Bridging Policy, Capacity & Resources28\n5. References29"
+    },
+    {
+      "page_number": 7,
+      "text": "Executive Summary\nThe \"Disability-Inclusive Early Warning Messages\nin Lao PDR Workshop,\" held on 3 and 4 July 2025,\nconvened a diverse group of stakeholders to\naddress the critical need for integrating disability\ninclusion into Early Warning Systems (EWS) across\nLao PDR. Recognizing Lao PDR’s high vulnerability\nto hydro-meteorological hazards, the workshop\naimed to foster a more resilient nation by\nensuring that early warnings reach and are\nunderstood by all, particularly Persons with\nDisabilities.\nKey insights from the workshop highlighted the\nstrong commitment of the Government of Lao\nPDR to a people-centered, end-to-end, multihazard early warning systems through the Early\nWarnings for All (EW4All) roadmap. However,\nthere remain some challenges in inclusive lastmile early warning, particularly regarding the\nfragmented nature of existing EWS, significant\ncommunication barriers, and the lack of\nawareness and accessibility for Persons with\nDisabilities. Crucially, the discussions emphasized\nthat Persons with Disabilities often face\ncompounded risks during disasters due to\nlimited access to information, inaccessible\nevacuation routes, and inadequate relief\nassistance.\nPersons with Disabilities often face compounded risks duringdisasters due to limited access to information, inaccessibleevacuation routes, and inadequate relief assistance.\n7Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nThe workshop served as a vital platform to\nsynthesize current EWS practices with disabilityinclusive principles, moving towards a unified\nvision of Disability-Inclusive Early Warning\nMessages (DIEWM).\nThis report advocates for a paradigm shift,\nchallenging the status quo where Persons with\nDisabilities are often perceived as passive\nrecipients of aid, rather than empowered actors\nwith vital roles in shaping their own safety and\nresilience. Instead, it champions an approach that\nempowers them through active participation in\nEWS design and dissemination, multi-format\ncommunication, and universally accessible\ninfrastructure. The recommendations outlined\nprovide both strategic direction and practical\nsteps for fostering a truly \"Early Warnings for All\"\nenvironment in Lao PDR, underscoring the\nurgency of collaborative action, continuous\nimprovement, and sustained investment in\ninclusive disaster risk reduction."
+    },
+    {
+      "page_number": 8,
+      "text": "Introduction\nLao People's Democratic Republic (Lao PDR), as\nthe sole Landlocked Developing Country in\nSoutheast Asia, stands at a critical juncture, facing\nescalating hydro-meteorological hazards\nintensified by climate change. The devastating\nimpacts of floods, droughts, and storms\nunderscore the urgent need for robust disaster\nrisk reduction (DRR) strategies [1]. At the heart of\nthese strategies lies the effectiveness of Early\nWarning Systems (EWS), which are paramount in\nsafeguarding lives, livelihoods, and community\nresilience.\nHowever, the efficacy of any EWS is fundamentally\ntested by its reach and comprehensibility across\nall segments of the population. This workshop\nspecifically honed in on a critical, yet often\noverlooked, dimension: the inclusion of Persons\nwith Disabilities. As mandated by Article 11 of the\nUN Convention on the Rights of Persons with\nDisabilities (UNCRPD), there is a compelling\nobligation to ensure the safety and protection of\nPersons with Disabilities in all situations of risk,\nincluding natural disasters [2].\nThis two-day national workshop, a collaborative\ninitiative by the Government of Lao PDR, the\nWorld Food Programme (WFP), the Department of\nMeteorology and Hydrology (DMH), and the\nDepartment of Social Welfare (DSW), was\ndesigned not only for consultation but as a\ncatalyst for concrete action. Through a rich mix of\nexpert panels, technical presentations, and handson participatory design exercises, it aimed to\ndissect the challenges, foster deep understanding,\nand collaboratively chart a course towards truly\nDisability-Inclusive Early Warning Messages\n(DIEWM).\nThis report synthesizes the key lessons learned,\ninsights and narratives from the workshop,\noffering a critical look at the current state, and\nproposing actionable recommendations. It\nchampions a people-centered approach, ensuring\nthat the voices and needs of Persons with\nDisabilities are not just heard, but are\nfoundational to the future of early warning in Lao\nPDR."
+    },
+    {
+      "page_number": 9,
+      "text": "1\nDisability-Inclusivity (DI): The Human Imperative"
+    },
+    {
+      "page_number": 10,
+      "text": "1.1. The Reality of Disability in LaoPDR\nUnderstanding disability in Lao PDR is crucial for\neffective disaster risk reduction. The 2015 Census\nreported 2% of the population with disabilities;\nhowever, other estimates, such as those from the\nWorld Health Organization (WHO), suggest the\nactual prevalence could be significantly higher,\nwith figures reaching up to 23% of adults,\nindicating a potential underestimation of disability\nin official statistics [7]. This discrepancy highlights\nthe prevalence of \"invisible\" disabilities—those\nnot immediately apparent—and the higher\nincidence in rural areas where access to services is\nlimited. Contributing factors range from\nunexploded ordnance (UXO) and road accidents\nto birth conditions, infectious diseases, noncommunicable diseases, and malnutrition [7].\nMr. Vinthong ChanthavongDisability Mainstreaming Advisory Services (DMAS)\n10Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nThe diversity of disability is vast and multifaceted.\nPersons with disabilities include ‘individuals with\nlong-term physical, mental, intellectual, or sensory\nimpairments. These impairments, when\ninteracting with various societal and\nenvironmental barriers, can hinder full and\neffective participation in society on an equal basis\nwith others’. These impairments, when interacting\nwith various societal and environmental barriers,\ncan hinder full and effective participation in\nsociety on an equal basis with others’. Recognizing\nthis diversity is the first step towards designing\ntruly inclusive systems. The lives and experiences\nof Persons with Disabilities must be centered in\nour understanding of vulnerability, shifting from a\ndeficit-based view to one that recognizes their\ninherent rights and capacities.\n“There are many types of disabilities – it's not just one thing. We have physicaldisabilities, hearing impairments, visualimpairments, intellectual disabilities, andpsychosocial disabilities, among others.Each of us has different needs.”"
+    },
+    {
+      "page_number": 11,
+      "text": "1.2. Specific Challenges Faced byPersons with Disabilities DuringDisasters\nWhen disasters strike, Persons with Disabilities\noften face compounded vulnerabilities that\namplify their risk. Technical presentations from\nHandicap International, and the WWDA’s Attapeu\nUnclear Early Warning Messages & Inadequate Evacuation SupportWarnings often lack accessible formats suchas sign language interpretation, Braille, largeprint, pictorial warnings, or loudspeakers,rendering them unintelligible for many.Impassable infrastructure creates significantbarriers to safe evacuation.\nCommunity Support GapsThe absence of comprehensive data on thewhereabouts of Persons with Disabilities is amajor issue. This lack of information iscompounded by inadequate localcoordination mechanisms, hinderingeffective support and targeted interventionsduring emergencies.\nMental Health ImpactsDisasters can severely impact the mentalhealth and increase anxiety among Personswith Disabilities, who may fear non-inclusiveshelters and experience distress over theirability to protect or be present for theirfamilies.\n11Disability-Inclusive Early Warning Messages in Lao PDR Workshop\ncase study where severe flooding ocurred in\nSanamxay district due to the collapse of the Xe\nPian Xe Namnoy hydropower dam, underscored\nthese specific challenges [3, 7, 8]:\n“Some of us cannot understand the warnings atall, while others might receive the messages butthen worry about protecting our assets andbelongings. For those with physical disabilities,the challenge of moving to safety is particularlydifficult.” Ms. Chanpheng, WWDA\n“We often don't know where Persons withDisabilities are located, and there's a lack ofclear coordination at the community level fortheir support.” Mr. Vinthong, DMAS\n“We are deeply concerned by disasters; ourdaily lives are profoundly affected. This isespecially true for those of us in rural andimpoverished families, where physicalvulnerabilities can prevent us from helping ourfamilies with farming, which in turn severelyaffects our mental health.” Mr. Samnieng, LDPA"
+    },
+    {
+      "page_number": 12,
+      "text": "Inadequate Shelters & Treatment CentersA lack of accessible design in shelters ortreatment centers during any disastersignificantly compromises the safety, dignity,and independence of all Persons withDisabilities. Without inclusive design, thesecrucial safe havens become barriers.\nThese challenges paint a stark picture: for Persons\nwith Disabilities, a disaster is not just an event, but\na profound amplification of existing societal\nbarriers. This raises a critical question:\n“During the COVID-19 pandemic, at treatmentcenters, blind individuals faced significantchallenges navigating unfamiliar environments,such as locating bedrooms and toilets, due to alack of visual cues.” Mr. Samnieng, LDPA\nWhy are Persons with Disabilitiesdisproportionately affected bydisasters?"
+    },
+    {
+      "page_number": 13,
+      "text": "1.3. The Power of InclusiveApproaches\nAddressing the multifaceted challenges faced by\nPersons with Disabilities requires a proactive and\nholistic commitment to inclusive disaster risk\nreduction (DRR). The workshop emphasized that\nParticipation of Persons with DisabilitiesActive involvement of Persons withDisabilities and their representativeorganizations in all stages of disasterplanning, response, and recovery isparamount. Their lived experiences provideinvaluable insights that cannot be obtainedotherwise.\nDisability-Inclusive TrainingEquipping emergency responders with theknowledge and skills to assist, and peersupport and the involvement of closeacquaintances are vital, offering crucialassistance and a sense of belonging thatempowers Persons with Disabilities duringdisaster events.\nThese approaches collectively form the structure of a truly people-centered Early Warning System. They\nunderscore the principle that resilience is built from the ground up, by actively involving those most at risk\nin designing the solutions that serve them best.\n13Disability-Inclusive Early Warning Messages in Lao PDR Workshop\ninclusion is not merely an add-on but a\nfundamental pillar for effective DRR. Key inclusive\napproaches highlighted included:\nAccessible CommunicationImplementing multi-format communicationstrategies - including sign language,pictograms, easy-to-read texts, Braille, andaudio messages - guarantees understanding,enhancing the agency of Persons withDisabilities by strengthening their informeddecision-making, representation, ownership.\nAccessible InfrastructureEnsuring that evacuation routes, shelters,and essential services are physicallyaccessible to all is non-negotiable. Thismeans considering mobility aids, clearpathways, and inclusive designcomprehensively."
+    },
+    {
+      "page_number": 14,
+      "text": "2\nEarly Warning Messages (EWM):The Foundation"
+    },
+    {
+      "page_number": 15,
+      "text": "2.1. The EWS Landscape in Lao PDR\nEarly Warning Systems are the first line of defense\nagainst escalating climate and hydrometeorological hazards. In Lao PDR, the\nDepartment of Meteorology and Hydrology (DMH)\nplays a central role, tasked with establishing and\nexpanding meteorological and hydrological\nnetworks, collecting crucial data, and issuing\nforecasts and warnings [4].\nThis foundational work provides the scientific\nbasis for understanding and predicting hazards.\nThe Government of Lao PDR has demonstrated\nstrong commitment to disaster risk reduction,\nembedding it within national development\nstrategies. This commitment is further solidified\nby its alignment with global initiatives, notably the\nAre these technical advancements translating into trulyeffective warnings that reach everyone?\n“Communities are the first responders. It is important to invest instate-of-the-art solutions for top-down interventions, and equallyimportant to support from the ground up at the community levelusing low-tech solutions.”\nMr Hemang KareliaWorld Bank\nThe effectiveness of EWS isn't just about accurate prediction; it’s profoundly about\naccessible dissemination and actionable understanding.\n15Disability-Inclusive Early Warning Messages in Lao PDR Workshop\n\"Early Warnings for All\" (EW4ALL) roadmap, which\naims to protect every person on Earth by multihazard EWS by 2027. Efforts are underway to\ndevelop comprehensive national frameworks for\nmulti-hazard early warning systems, reflecting a\nproactive approach to climate resilience.\nThe relevant national bodies utilize various tools\nand technologies, including satellite data, radar,\nand international numerical weather prediction\nmodels, to generate forecasts at different lead\ntimes—from daily to seasonal predictions [4, 5].\nThe integration of these advanced systems\nreflects a commitment to enhancing technical\ncapabilities for disaster preparedness for the\nentire population. However, the question remains:"
+    },
+    {
+      "page_number": 16,
+      "text": "2.2. Current Capabilities and Gapsin Warning Systems\nFragmented SystemsLimited integration across different hazardsand agencies can lead to inconsistencies andinefficiencies in warning dissemination.\nLimited Coverage in Remote AreasDespite efforts, remote, minority, andborder communities often experiencelimited access to communicationinfrastructure, including internet andsmartphones, creating critical informationgaps.\nTechnological ConstraintsThe absence of reliable power and internetconnectivity in some areas remains asignificant hurdle for leveraging digitalwarning systems.\nInsufficient Public AwarenessCommunities often lack adequate trainingon how to interpret and respond towarnings effectively. This extends beyondsimple receipt of a message; it pertains tounderstanding its implications and knowingwhat actions to take.\n16Disability-Inclusive Early Warning Messages in Lao PDR Workshop\n“Currently, our database system is not yetestablished. Furthermore, the distributionprocess remains decentralized anduncoordinated”. Mr. Thanongdeth, ADPC\n“If a disaster truly occurs, especially at night,there may be no one available to disseminatethe information to the local communitieseffectively.” Ms. Khaemeuy, DMH\n“During disasters, power outages are common.We must adapt and determine how to useloudspeakers in a way that is appropriate andeffective for each community. ” Mr. Phouymany, PIN\n“The committee was neither trained nor putinto practice. It’s similar to having a fireextinguisher at home that hasn’t been used forfive years and when an incident happens, noone knows how to use it.” Mr. Samnieng, LDPA"
+    },
+    {
+      "page_number": 17,
+      "text": "2.3. Understanding CommunityPerception and Response\nA critical component of effective Early Warning\nSystems is understanding how communities\nperceive and react to warning messages. The 2025\nNational Weather Forecast & Early Warning\nSystem Perception Survey in Lao PDR shed light\non this crucial aspect, revealing important insights\ninto user perceptions regarding message receipt,\nutilization, and response [3].\nThe survey highlighted that while some\ncommunities have access to warnings, a\nsignificant portion still lacks comprehensive\nunderstanding or trust in the information\nprovided. For instance, a considerable percentage\nWhy do some individuals or communities, despite receivingwarnings, not take action?\nIs it a matter of clarity, trust, or perceived relevance? Does a history of false alarms or ineffective warnings erodeconfidence over time, leading to a normalization of disasterimpacts?\n17Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nof respondents were unaware of the formal\nsources of Early Warning Messages, often\nattributing warnings to local leaders rather than\nofficial meteorological departments. This indicates\na potential disconnect between official\ndissemination efforts and community-level\ninformation absorption. Furthermore, while many\nacknowledge the importance of Early Warning\nMessages, actual proactive response varies, with a\nportion of the population reporting \"no action\"\ntaken even after receiving warnings. This raises\nthe following questions:\nThese questions compel us to look beyond merely\nbroadcasting messages and to delve deeper into\nthe socio-cultural context that shapes community\nresponse.\nEffective EWS must not only deliver information\nbut also build trust and foster an environment\nwhere warnings are actionable and lead to lifesaving behaviors."
+    },
+    {
+      "page_number": 18,
+      "text": "3\nDisability-Inclusivity EarlyWarning Messages (DIEWM): A Unified Vision"
+    },
+    {
+      "page_number": 19,
+      "text": "3.1. Integrating DI and EWM: Towards \"Early Warnings for All\"\nThe workshop's core objective was to bridge the\ndomains of Early Warning Systems (EWS) and\nDisability-Inclusivity (DI), forging a unified vision\nfor Disability-Inclusive Early Warning Messages\n(DIEWM). This integration is not merely about\nadding a disability component to an existing EWS;\nit is about fundamentally rethinking how warnings\nare generated, disseminated, and acted upon to\nensure no one is left behind [6].\nDI PrinciplesEWS Pillars\nDisaggregated Data andParticipatory Risk Analysis\nAccessible InformationFormats\nMulti-Channel & Targeted Approaches\nInclusive Planning &Accessible Infrastructure\n19Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nIt represents a shift from a fragmented approach\nto a holistic, human-centered system where the\nunique needs and capacities of all individuals,\nespecially Persons with Disabilities, are\nconsidered from the outset. This ensures that\nEWS are not just technically sound but also\nsocially just and universally effective. The synergy\nbetween effective EWS and robust DI principles\ncan be conceptualized as follows:\nRisk Knowledge\nHazard Monitoring &\nForecastingDIEWM\nWarning Dissemination &\nCommunication\nPreparedness &Response Capabilities"
+    },
+    {
+      "page_number": 20,
+      "text": "Risk Knowledge (EWS Pillar 1) must incorporate\nDisaggregated Data & Participatory Risk\nAnalysis (DI Principle)\nUnderstanding who is at risk, including the specific\nvulnerabilities of diverse Persons with Disabilities,\ninforms accurate risk assessments and mapping.\nHazard Monitoring & Forecasting (EWS Pillar 2)\nmust be coupled with Accessible Information\nFormats (DI Principle)\nAccurate forecasts need to be translated into\nunderstandable and accessible formats to be truly\neffective for all.\n20Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nWarning Dissemination & Communication\n(EWS Pillar 3) must adopt Multi-Channel &\nTargeted Approaches (DI Principle)\nReaching everyone at risk requires diverse\ncommunication channels (e.g., SMS, radio, social\nmedia, loudspeakers, sign language, Braille) and\ntailored messaging for specific disability needs\nand literacy levels.\nPreparedness & Response Capabilities (EWS\nPillar 4) must embrace Inclusive Planning &\nAccessible Infrastructure (DI Principle)\nResponse plans, evacuation routes, and shelters\nmust be designed with universal accessibility in\nmind, ensuring Persons with Disabilities can safely\nand independently take action."
+    },
+    {
+      "page_number": 21,
+      "text": "3.2. Beyond Awareness: ShiftingMindsets and Empowering Action\nThe workshop conversations often moved beyond\ntechnical solutions to confront deeper systemic\nissues. A critical insight that emerged was the\nneed to challenge prevailing mindsets and societal\nexpectations. The narrative of this report, and\nindeed the future of DIEWM in Lao PDR, must\nCreating platforms andopportunities for Personswith Disabilities to voicetheir needs, co-designsolutions, and leadinitiatives.\nFostering SelfAdvocacy\nShiftingPerceptions of\nRecognizing thatvulnerability is often aconsequence of systemicbarriers and exclusion,rather than an inherentcharacteristic of disabilityitself.\nVulnerability\nThis shift is fundamental. It transforms the focus from merely \"helping\" Persons with Disabilities to\nenabling their full and equal participation in disaster preparedness and response. It's about\nempowering action, not just reacting to impact.\n21Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nactively work to dismantle the notion that Persons\nwith Disabilities are merely passive recipients of\naid or perpetual victims. Instead, it must\nchampion their agency, their rights, and their\ninherent capacity for resilience. This means\nshifting mindsets and taking actions as follows:\nEmpowering Persons with\nDisabilities with theknowledge and tools to\ninterpret warnings,participate in community\ndrills, and advocate for\ntheir own safety.\nInvesting in\nCapacity\nBuilding\nShiftingMindsetsEmpowering\nActions\nPromotingHuman-Centered\nCentering the experiencesand needs of Persons with\nDesign\nDisabilities in the very\nfabric of EWS design,rather than retrofitting\nsolutions."
+    },
+    {
+      "page_number": 22,
+      "text": "3.3. Strategic Recommendations for an Inclusive EWS\nBuilding on the comprehensive discussions and\ninsights from the workshop, a set of overarching\nrecommendations emerged to guide the\nI. Foundational Policy & Data:\nSetting the Strategic Stage\n1. Prioritize Disaggregated DataCollection\nII. Framework Development & Strategic Partnerships:\nBuilding the Collaborative Structure\n3. Strengthen Multi-Stakeholder Collaboration\nIII. Implementation Approaches & Continuous Improvement:\nMaking it Happen on the Ground\n5. Balance Top-Down & Bottom-Up Approaches\n22Disability-Inclusive Early Warning Messages in Lao PDR Workshop\ndevelopment of Disability-Inclusive Early Warning\nMessages in Lao PDR:\n2. Integrate DIEWM intoNational Planning & MandateResource\n4. Develop National Guidelines forInclusive EWS\n6. Foster a Culture ofContinuous Learning &Adaptation"
+    },
+    {
+      "page_number": 23,
+      "text": "These strategic recommendations lay the\ngroundwork for a systemic transformation,\nensuring that inclusion is not an afterthought but\n1Prioritize Disaggregated DataCollection\nSystematically collect and utilize data\ndisaggregated by disability type, age, gender, and\nethnicity. This data is essential for understanding\nspecific vulnerabilities, tailoring interventions, and\nmeasuring the impact of inclusive EWS initiatives.\n2Integrate DIEWM into NationalPlanning & Mandate Resource\nEnsure that disability-inclusive DRR is embedded\nwithin broader national development and climate\nchange adaptation plans, and allocate dedicated\nbudgets at both national and local levels.\n3Strengthen Multi-StakeholderCollaboration\nFormalize and reinforce collaboration\nmechanisms between government agencies with\nmainly DMH, DSW, and development partners\nsuch as PIN, HI, WFP, and crucially, OPDs. This\nensures co-creation and co-ownership of inclusive\nEWS.\n23Disability-Inclusive Early Warning Messages in Lao PDR Workshop\na foundational principle for disaster preparedness\nin Lao PDR.\n4Develop National Guidelinesfor Inclusive EWS\nFormulate clear, actionable national guidelines for\nthe design, dissemination, and response to Early\nWarning Messages that are inherently inclusive of\nall disability types, drawing upon international\nbest practices (e.g., UNCRPD, Sphere standards).\n5Balance Top-Down &Bottom-Up Approaches\nCommunities are invariably the first to respond to\ndisasters, it is imperative to balance sophisticated\ntop-down warning systems with decentralized,\nlow-technology support at the local level.\n6Foster a Culture of ContinuousLearning & Adaptation\nEstablish feedback mechanisms for communities,\nespecially Persons with Disabilities, to provide\ninput on EWS effectiveness. Conduct regular postdisaster evaluations to learn and continuously\nimprove inclusive practices."
+    },
+    {
+      "page_number": 24,
+      "text": "3.4. Tangible Next Steps: a Roadmap for DIEWM\nTo translate the strategic vision into concrete\nrealities, the workshop’s final exercise on\nparticipatory group action planning, helped\nidentify several practical and tangible actions that\ncan be implemented in the short to medium and\n1Establish GEDSI Focal Points\nAssign dedicated Gender, Equality, Disability, and Social Inclusion (GEDSI) focal\npoints within relevant government departments and at the village level,\nensuring their active participation in decision-making related to EWS.\n3Develop Multi-Format Early Warning Materials\nCreate and disseminate Early Warning\nMessage materials in multiple accessible\nformats, including simplified language,\npictograms, audio messages, and\n4\npotentially Braille or large print for visual\nimpairments. Explore the use of sign\nlanguage interpretation for televised or\nvideo-based warnings.\nConduct pilot programs to test prototypes of disability-inclusive early warning\nmessages in selected communities, gathering feedback from Persons with Disabilities\nto refine and improve the messages and dissemination channels.\n6\nTraining of Trainers (ToT) andPeer-to-Peer (P2P) Inclusive EWS\nImplement a comprehensive ToT program\nfor key government officials, local\n7\nauthorities, and community leaders on the\nprinciples and practicalities of disabilityinclusive EWS, enabling them to cascade\nknowledge effectively. Create a P2P\nprogram where each person with disability\nidentifies a peer who can help during a\ndisaster event.\nlong term. These immediate actions are designed\nto initiate a tangible shift towards a more inclusive\nand effective EWS in Lao PDR, laying the\nfoundation for long-term resilience and\nempowerment.\n2Capacity Building and Training for Communities\nConduct targeted community training sessions\non interpreting early warning messages,\nspecifically designed for vulnerable populations\nincluding Persons with Disabilities, utilizing\naccessible formats and local languages. This\nshould include drills and simulations that\ninvolve Persons with Disabilities.\nStrengthen Last-Mile Communication Infrastructure\nAssess and upgrade existing communication infrastructure in remote and rural\nareas, including ensuring the functionality of loudspeakers and exploring lowtech solutions (e.g., flag systems) alongside mobile-based alerts.\nPilot Inclusive Early Warning Messages\n5\nLeverage Digital Transformation for Accessibility\nWhile addressing digital divides, continue efforts to expand the use of ICT tools and\nmobile-based alerts, ensuring that new digital solutions are inherently designed with\naccessibility features for all disability types, by partnering with development partners\n(e.g., NGOs, UNs) and digital ecosystem players (e.g. telecom companies).\n24"
+    },
+    {
+      "page_number": 25,
+      "text": "4\nAnnexes"
+    },
+    {
+      "page_number": 26,
+      "text": "4.1. The Workshop in a Nutshell\n26Disability-Inclusive Early Warning Messages in Lao PDR Workshop"
+    },
+    {
+      "page_number": 27,
+      "text": "4.2. Personas: UnderstandingDiverse Needs in DIEWM\n27Disability-Inclusive Early Warning Messages in Lao PDR Workshop"
+    },
+    {
+      "page_number": 28,
+      "text": "4.3. DIEWM Prototypes\n28Disability-Inclusive Early Warning Messages in Lao PDR Workshop"
+    },
+    {
+      "page_number": 29,
+      "text": "29Disability-Inclusive Early Warning Messages in Lao PDR Workshop\n4.4. Action Planning for DIEWM:Bridging Policy, Capacity & Resources"
+    },
+    {
+      "page_number": 30,
+      "text": "5 References\n[1] WFP. (2025). Workshop on Disability-Inclusive Hazard Early Warning Messages in Lao PDR - ConceptNote.\n[2] United Nations. (2006). Convention on the Rights of Persons with Disabilities (UNCRPD), Article 11.\n[3] UNDRR. (2025). National Weather Forecast & Early Warning System Perception Survey 2025Presentation.\n[4] DMH. (2025). Weather Forecasting and Early Warning in Lao PDR Presentation.\n[5] MoWRAM. (2025). Existing Multi-Hazard Early Warning Systems and Messaging in CambodiaPresentation.\n[6] People in Need. (2025). People-Centric MHEWS in Lao PDR and Cambodia Presentation.\n[7] Handicap International. (2025). Key Disability Issues and Challenges for Early Warning and EarlyAction Presentation.\n[8] Women With Disability Association (2018). Attapeu Case Study Presentation.\n30Disability-Inclusive Early Warning Messages in Lao PDR Workshop"
+    },
+    {
+      "page_number": 31,
+      "text": "World Food Programme\nDon Nokhoum Road, Don Nokhoum Village, Sisattanak District,Vientiane Capital, Laos\nwfp.org/laopdr"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "3-4 July 2025",
+      "text": "supported by:",
+      "pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "heading": "Acknowledgement",
+      "text": "This report captures the insights, lessons learned,\nkey actions, and collaborative efforts of the\n\"Disability-Inclusive Early Warning Messages in\nLao PDR Workshop,\" held on 3 and 4 July 2025, in\nVientiane, Lao PDR. We extend our deepest\ngratitude to the Department of Meteorology and\nHydrology (DMH) under the Ministry of Agriculture\nand Environment (MAE), and the Department of\nSocial Welfare (DSW) under the Ministry of Labour\nand Social Welfare (MOLSW), for their leadership\nin organizing this event.\nOur sincere appreciation is extended to all\nparticipants, particularly Persons with Disabilities\n(PWD), representatives from Organizations of\nPersons with Disabilities (OPDs) and Civil Society\nOrganizations (CSOs), including Lao Disabled\nPeople’s Association (LDPA), Women With\nDisability Association (WWDA), and Disability\n4Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nMainstreaming Advisory Services (DMAS), as well\nas delegates from Cambodia, notably from the\nMinistry of Water Resources and Meteorology of\nCambodia (MoWRAM), and all development\npartners. Their invaluable perspectives, shared\nexperiences, and active engagement were\ninstrumental to the workshop's success and\nenriched the content of this report. The insights\ngathered from their contributions form a\nfoundational basis for the recommendations\npresented herein. We also acknowledge the\ncontributions of all technical presenters and\nfacilitators who shared their expertise and guided\nthe discussions.\nThis collective endeavor aims to translate\nknowledge into tangible actions, fostering a more\ninclusive and resilient Lao PDR where early\nwarnings truly serve all.",
+      "pages": [
+        4
+      ]
+    },
+    {
+      "heading": "Contents",
+      "text": "Acknowledgement3\nExecutive Summary6\nIntroduction7\n1. Disability-Inclusivity (DI): The Human Imperative8\n2. Early Warning Messages (EWM): The Foundation13\n2.1. The EWS Landscape in Lao PDR14\n2.2. Current Capabilities and Gaps in Warning Systems15\n2.3. Understanding Community Perception and Response16\n5Disability-Inclusive Early Warning Messages in Lao PDR Workshop\n1.1. The Reality of Disability in Lao PDR9\n1.2. Specific Challenges Faced by Persons with Disabilities During Disasters10\n1.3. The Power of Inclusive Approaches12\n3. Disability-Inclusive Early Warning Messages (DIEWM): A Unified Vision17\n4. Annexes24\n6Disability-Inclusive Early Warning Messages in Lao PDR Workshop\n3.1. Integrating EWS and Disability-Inclusivity: Towards \"Early Warnings for All\"18\n3.2. Beyond Awareness: Shifting Mindsets and Empowering Action20\n3.3. Strategic Recommendations for an Inclusive EWS21\n3.4. Tangible Next Steps: a Roadmap for DIEWM23\n4.1. The Workshop in a Nutshell25\n4.2. Personas: Understanding Diverse Needs in DIEWM26\n4.3. DIEWM Prototypes27\n4.4 Action Planning for DIEWM: Bridging Policy, Capacity & Resources28\n5. References29",
+      "pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "heading": "Executive Summary",
+      "text": "The \"Disability-Inclusive Early Warning Messages\nin Lao PDR Workshop,\" held on 3 and 4 July 2025,\nconvened a diverse group of stakeholders to\naddress the critical need for integrating disability\ninclusion into Early Warning Systems (EWS) across\nLao PDR. Recognizing Lao PDR’s high vulnerability\nto hydro-meteorological hazards, the workshop\naimed to foster a more resilient nation by\nensuring that early warnings reach and are\nunderstood by all, particularly Persons with\nDisabilities.\nKey insights from the workshop highlighted the\nstrong commitment of the Government of Lao\nPDR to a people-centered, end-to-end, multihazard early warning systems through the Early\nWarnings for All (EW4All) roadmap. However,\nthere remain some challenges in inclusive lastmile early warning, particularly regarding the\nfragmented nature of existing EWS, significant\ncommunication barriers, and the lack of\nawareness and accessibility for Persons with\nDisabilities. Crucially, the discussions emphasized\nthat Persons with Disabilities often face\ncompounded risks during disasters due to\nlimited access to information, inaccessible\nevacuation routes, and inadequate relief\nassistance.",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "heading": "Persons with Disabilities often face compounded risks duringdisasters due to limited access to information, inaccessibleevacuation routes, and inadequate relief assistance.",
+      "text": "7Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nThe workshop served as a vital platform to\nsynthesize current EWS practices with disabilityinclusive principles, moving towards a unified\nvision of Disability-Inclusive Early Warning\nMessages (DIEWM).\nThis report advocates for a paradigm shift,\nchallenging the status quo where Persons with\nDisabilities are often perceived as passive\nrecipients of aid, rather than empowered actors\nwith vital roles in shaping their own safety and\nresilience. Instead, it champions an approach that\nempowers them through active participation in\nEWS design and dissemination, multi-format\ncommunication, and universally accessible\ninfrastructure. The recommendations outlined\nprovide both strategic direction and practical\nsteps for fostering a truly \"Early Warnings for All\"\nenvironment in Lao PDR, underscoring the\nurgency of collaborative action, continuous\nimprovement, and sustained investment in\ninclusive disaster risk reduction.",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "heading": "Introduction",
+      "text": "Lao People's Democratic Republic (Lao PDR), as\nthe sole Landlocked Developing Country in\nSoutheast Asia, stands at a critical juncture, facing\nescalating hydro-meteorological hazards\nintensified by climate change. The devastating\nimpacts of floods, droughts, and storms\nunderscore the urgent need for robust disaster\nrisk reduction (DRR) strategies [1]. At the heart of\nthese strategies lies the effectiveness of Early\nWarning Systems (EWS), which are paramount in\nsafeguarding lives, livelihoods, and community\nresilience.\nHowever, the efficacy of any EWS is fundamentally\ntested by its reach and comprehensibility across\nall segments of the population. This workshop\nspecifically honed in on a critical, yet often\noverlooked, dimension: the inclusion of Persons\nwith Disabilities. As mandated by Article 11 of the\nUN Convention on the Rights of Persons with\nDisabilities (UNCRPD), there is a compelling\nobligation to ensure the safety and protection of\nPersons with Disabilities in all situations of risk,\nincluding natural disasters [2].\nThis two-day national workshop, a collaborative\ninitiative by the Government of Lao PDR, the\nWorld Food Programme (WFP), the Department of\nMeteorology and Hydrology (DMH), and the\nDepartment of Social Welfare (DSW), was\ndesigned not only for consultation but as a\ncatalyst for concrete action. Through a rich mix of\nexpert panels, technical presentations, and handson participatory design exercises, it aimed to\ndissect the challenges, foster deep understanding,\nand collaboratively chart a course towards truly\nDisability-Inclusive Early Warning Messages\n(DIEWM).\nThis report synthesizes the key lessons learned,\ninsights and narratives from the workshop,\noffering a critical look at the current state, and\nproposing actionable recommendations. It\nchampions a people-centered approach, ensuring\nthat the voices and needs of Persons with\nDisabilities are not just heard, but are\nfoundational to the future of early warning in Lao\nPDR.",
+      "pages": [
+        8
+      ]
+    },
+    {
+      "heading": "1.1. The Reality of Disability in LaoPDR",
+      "text": "Understanding disability in Lao PDR is crucial for\neffective disaster risk reduction. The 2015 Census\nreported 2% of the population with disabilities;\nhowever, other estimates, such as those from the\nWorld Health Organization (WHO), suggest the\nactual prevalence could be significantly higher,\nwith figures reaching up to 23% of adults,\nindicating a potential underestimation of disability\nin official statistics [7]. This discrepancy highlights\nthe prevalence of \"invisible\" disabilities—those\nnot immediately apparent—and the higher\nincidence in rural areas where access to services is\nlimited. Contributing factors range from\nunexploded ordnance (UXO) and road accidents\nto birth conditions, infectious diseases, noncommunicable diseases, and malnutrition [7].",
+      "pages": [
+        10
+      ]
+    },
+    {
+      "heading": "Mr. Vinthong ChanthavongDisability Mainstreaming Advisory Services (DMAS)",
+      "text": "10Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nThe diversity of disability is vast and multifaceted.\nPersons with disabilities include ‘individuals with\nlong-term physical, mental, intellectual, or sensory\nimpairments. These impairments, when\ninteracting with various societal and\nenvironmental barriers, can hinder full and\neffective participation in society on an equal basis\nwith others’. These impairments, when interacting\nwith various societal and environmental barriers,\ncan hinder full and effective participation in\nsociety on an equal basis with others’. Recognizing\nthis diversity is the first step towards designing\ntruly inclusive systems. The lives and experiences\nof Persons with Disabilities must be centered in\nour understanding of vulnerability, shifting from a\ndeficit-based view to one that recognizes their\ninherent rights and capacities.",
+      "pages": [
+        10
+      ]
+    },
+    {
+      "heading": "1.2. Specific Challenges Faced byPersons with Disabilities DuringDisasters",
+      "text": "When disasters strike, Persons with Disabilities\noften face compounded vulnerabilities that\namplify their risk. Technical presentations from\nHandicap International, and the WWDA’s Attapeu\nUnclear Early Warning Messages & Inadequate Evacuation SupportWarnings often lack accessible formats suchas sign language interpretation, Braille, largeprint, pictorial warnings, or loudspeakers,rendering them unintelligible for many.Impassable infrastructure creates significantbarriers to safe evacuation.\nCommunity Support GapsThe absence of comprehensive data on thewhereabouts of Persons with Disabilities is amajor issue. This lack of information iscompounded by inadequate localcoordination mechanisms, hinderingeffective support and targeted interventionsduring emergencies.\nMental Health ImpactsDisasters can severely impact the mentalhealth and increase anxiety among Personswith Disabilities, who may fear non-inclusiveshelters and experience distress over theirability to protect or be present for theirfamilies.\n11Disability-Inclusive Early Warning Messages in Lao PDR Workshop\ncase study where severe flooding ocurred in\nSanamxay district due to the collapse of the Xe\nPian Xe Namnoy hydropower dam, underscored\nthese specific challenges [3, 7, 8]:\n“Some of us cannot understand the warnings atall, while others might receive the messages butthen worry about protecting our assets andbelongings. For those with physical disabilities,the challenge of moving to safety is particularlydifficult.” Ms. Chanpheng, WWDA\n“We often don't know where Persons withDisabilities are located, and there's a lack ofclear coordination at the community level fortheir support.” Mr. Vinthong, DMAS\n“We are deeply concerned by disasters; ourdaily lives are profoundly affected. This isespecially true for those of us in rural andimpoverished families, where physicalvulnerabilities can prevent us from helping ourfamilies with farming, which in turn severelyaffects our mental health.” Mr. Samnieng, LDPA\nInadequate Shelters & Treatment CentersA lack of accessible design in shelters ortreatment centers during any disastersignificantly compromises the safety, dignity,and independence of all Persons withDisabilities. Without inclusive design, thesecrucial safe havens become barriers.\nThese challenges paint a stark picture: for Persons\nwith Disabilities, a disaster is not just an event, but\na profound amplification of existing societal\nbarriers. This raises a critical question:\n“During the COVID-19 pandemic, at treatmentcenters, blind individuals faced significantchallenges navigating unfamiliar environments,such as locating bedrooms and toilets, due to alack of visual cues.” Mr. Samnieng, LDPA",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "heading": "1.3. The Power of InclusiveApproaches",
+      "text": "Addressing the multifaceted challenges faced by\nPersons with Disabilities requires a proactive and\nholistic commitment to inclusive disaster risk\nreduction (DRR). The workshop emphasized that\nParticipation of Persons with DisabilitiesActive involvement of Persons withDisabilities and their representativeorganizations in all stages of disasterplanning, response, and recovery isparamount. Their lived experiences provideinvaluable insights that cannot be obtainedotherwise.\nDisability-Inclusive TrainingEquipping emergency responders with theknowledge and skills to assist, and peersupport and the involvement of closeacquaintances are vital, offering crucialassistance and a sense of belonging thatempowers Persons with Disabilities duringdisaster events.\nThese approaches collectively form the structure of a truly people-centered Early Warning System. They\nunderscore the principle that resilience is built from the ground up, by actively involving those most at risk\nin designing the solutions that serve them best.\n13Disability-Inclusive Early Warning Messages in Lao PDR Workshop\ninclusion is not merely an add-on but a\nfundamental pillar for effective DRR. Key inclusive\napproaches highlighted included:\nAccessible CommunicationImplementing multi-format communicationstrategies - including sign language,pictograms, easy-to-read texts, Braille, andaudio messages - guarantees understanding,enhancing the agency of Persons withDisabilities by strengthening their informeddecision-making, representation, ownership.\nAccessible InfrastructureEnsuring that evacuation routes, shelters,and essential services are physicallyaccessible to all is non-negotiable. Thismeans considering mobility aids, clearpathways, and inclusive designcomprehensively.",
+      "pages": [
+        13
+      ]
+    },
+    {
+      "heading": "2.1. The EWS Landscape in Lao PDR",
+      "text": "Early Warning Systems are the first line of defense\nagainst escalating climate and hydrometeorological hazards. In Lao PDR, the\nDepartment of Meteorology and Hydrology (DMH)\nplays a central role, tasked with establishing and\nexpanding meteorological and hydrological\nnetworks, collecting crucial data, and issuing\nforecasts and warnings [4].\nThis foundational work provides the scientific\nbasis for understanding and predicting hazards.\nThe Government of Lao PDR has demonstrated\nstrong commitment to disaster risk reduction,\nembedding it within national development\nstrategies. This commitment is further solidified\nby its alignment with global initiatives, notably the",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "heading": "“Communities are the first responders. It is important to invest instate-of-the-art solutions for top-down interventions, and equallyimportant to support from the ground up at the community levelusing low-tech solutions.”",
+      "text": "Mr Hemang KareliaWorld Bank\nThe effectiveness of EWS isn't just about accurate prediction; it’s profoundly about\naccessible dissemination and actionable understanding.\n15Disability-Inclusive Early Warning Messages in Lao PDR Workshop\n\"Early Warnings for All\" (EW4ALL) roadmap, which\naims to protect every person on Earth by multihazard EWS by 2027. Efforts are underway to\ndevelop comprehensive national frameworks for\nmulti-hazard early warning systems, reflecting a\nproactive approach to climate resilience.\nThe relevant national bodies utilize various tools\nand technologies, including satellite data, radar,\nand international numerical weather prediction\nmodels, to generate forecasts at different lead\ntimes—from daily to seasonal predictions [4, 5].\nThe integration of these advanced systems\nreflects a commitment to enhancing technical\ncapabilities for disaster preparedness for the\nentire population. However, the question remains:",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "heading": "2.2. Current Capabilities and Gapsin Warning Systems",
+      "text": "Fragmented SystemsLimited integration across different hazardsand agencies can lead to inconsistencies andinefficiencies in warning dissemination.\nLimited Coverage in Remote AreasDespite efforts, remote, minority, andborder communities often experiencelimited access to communicationinfrastructure, including internet andsmartphones, creating critical informationgaps.\nTechnological ConstraintsThe absence of reliable power and internetconnectivity in some areas remains asignificant hurdle for leveraging digitalwarning systems.\nInsufficient Public AwarenessCommunities often lack adequate trainingon how to interpret and respond towarnings effectively. This extends beyondsimple receipt of a message; it pertains tounderstanding its implications and knowingwhat actions to take.\n16Disability-Inclusive Early Warning Messages in Lao PDR Workshop\n“Currently, our database system is not yetestablished. Furthermore, the distributionprocess remains decentralized anduncoordinated”. Mr. Thanongdeth, ADPC\n“If a disaster truly occurs, especially at night,there may be no one available to disseminatethe information to the local communitieseffectively.” Ms. Khaemeuy, DMH\n“During disasters, power outages are common.We must adapt and determine how to useloudspeakers in a way that is appropriate andeffective for each community. ” Mr. Phouymany, PIN\n“The committee was neither trained nor putinto practice. It’s similar to having a fireextinguisher at home that hasn’t been used forfive years and when an incident happens, noone knows how to use it.” Mr. Samnieng, LDPA",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "heading": "2.3. Understanding CommunityPerception and Response",
+      "text": "A critical component of effective Early Warning\nSystems is understanding how communities\nperceive and react to warning messages. The 2025\nNational Weather Forecast & Early Warning\nSystem Perception Survey in Lao PDR shed light\non this crucial aspect, revealing important insights\ninto user perceptions regarding message receipt,\nutilization, and response [3].\nThe survey highlighted that while some\ncommunities have access to warnings, a\nsignificant portion still lacks comprehensive\nunderstanding or trust in the information\nprovided. For instance, a considerable percentage",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "heading": "Is it a matter of clarity, trust, or perceived relevance? Does a history of false alarms or ineffective warnings erodeconfidence over time, leading to a normalization of disasterimpacts?",
+      "text": "17Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nof respondents were unaware of the formal\nsources of Early Warning Messages, often\nattributing warnings to local leaders rather than\nofficial meteorological departments. This indicates\na potential disconnect between official\ndissemination efforts and community-level\ninformation absorption. Furthermore, while many\nacknowledge the importance of Early Warning\nMessages, actual proactive response varies, with a\nportion of the population reporting \"no action\"\ntaken even after receiving warnings. This raises\nthe following questions:\nThese questions compel us to look beyond merely\nbroadcasting messages and to delve deeper into\nthe socio-cultural context that shapes community\nresponse.\nEffective EWS must not only deliver information\nbut also build trust and foster an environment\nwhere warnings are actionable and lead to lifesaving behaviors.",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "heading": "3.1. Integrating DI and EWM: Towards \"Early Warnings for All\"",
+      "text": "The workshop's core objective was to bridge the\ndomains of Early Warning Systems (EWS) and\nDisability-Inclusivity (DI), forging a unified vision\nfor Disability-Inclusive Early Warning Messages\n(DIEWM). This integration is not merely about\nadding a disability component to an existing EWS;\nit is about fundamentally rethinking how warnings\nare generated, disseminated, and acted upon to\nensure no one is left behind [6].",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "heading": "Inclusive Planning &Accessible Infrastructure",
+      "text": "19Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nIt represents a shift from a fragmented approach\nto a holistic, human-centered system where the\nunique needs and capacities of all individuals,\nespecially Persons with Disabilities, are\nconsidered from the outset. This ensures that\nEWS are not just technically sound but also\nsocially just and universally effective. The synergy\nbetween effective EWS and robust DI principles\ncan be conceptualized as follows:",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "heading": "Preparedness &Response Capabilities",
+      "text": "Risk Knowledge (EWS Pillar 1) must incorporate\nDisaggregated Data & Participatory Risk\nAnalysis (DI Principle)\nUnderstanding who is at risk, including the specific\nvulnerabilities of diverse Persons with Disabilities,\ninforms accurate risk assessments and mapping.\nHazard Monitoring & Forecasting (EWS Pillar 2)\nmust be coupled with Accessible Information\nFormats (DI Principle)\nAccurate forecasts need to be translated into\nunderstandable and accessible formats to be truly\neffective for all.\n20Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nWarning Dissemination & Communication\n(EWS Pillar 3) must adopt Multi-Channel &\nTargeted Approaches (DI Principle)\nReaching everyone at risk requires diverse\ncommunication channels (e.g., SMS, radio, social\nmedia, loudspeakers, sign language, Braille) and\ntailored messaging for specific disability needs\nand literacy levels.\nPreparedness & Response Capabilities (EWS\nPillar 4) must embrace Inclusive Planning &\nAccessible Infrastructure (DI Principle)\nResponse plans, evacuation routes, and shelters\nmust be designed with universal accessibility in\nmind, ensuring Persons with Disabilities can safely\nand independently take action.",
+      "pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "heading": "3.2. Beyond Awareness: ShiftingMindsets and Empowering Action",
+      "text": "The workshop conversations often moved beyond\ntechnical solutions to confront deeper systemic\nissues. A critical insight that emerged was the\nneed to challenge prevailing mindsets and societal\nexpectations. The narrative of this report, and\nindeed the future of DIEWM in Lao PDR, must\nCreating platforms andopportunities for Personswith Disabilities to voicetheir needs, co-designsolutions, and leadinitiatives.\nFostering SelfAdvocacy\nShiftingPerceptions of\nRecognizing thatvulnerability is often aconsequence of systemicbarriers and exclusion,rather than an inherentcharacteristic of disabilityitself.\nVulnerability\nThis shift is fundamental. It transforms the focus from merely \"helping\" Persons with Disabilities to\nenabling their full and equal participation in disaster preparedness and response. It's about\nempowering action, not just reacting to impact.\n21Disability-Inclusive Early Warning Messages in Lao PDR Workshop\nactively work to dismantle the notion that Persons\nwith Disabilities are merely passive recipients of\naid or perpetual victims. Instead, it must\nchampion their agency, their rights, and their\ninherent capacity for resilience. This means\nshifting mindsets and taking actions as follows:\nEmpowering Persons with\nDisabilities with theknowledge and tools to\ninterpret warnings,participate in community\ndrills, and advocate for\ntheir own safety.\nInvesting in\nCapacity\nBuilding",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "heading": "Actions",
+      "text": "PromotingHuman-Centered\nCentering the experiencesand needs of Persons with\nDesign\nDisabilities in the very\nfabric of EWS design,rather than retrofitting\nsolutions.",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "heading": "3.3. Strategic Recommendations for an Inclusive EWS",
+      "text": "Building on the comprehensive discussions and\ninsights from the workshop, a set of overarching\nrecommendations emerged to guide the",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "heading": "Making it Happen on the Ground",
+      "text": "5. Balance Top-Down & Bottom-Up Approaches\n22Disability-Inclusive Early Warning Messages in Lao PDR Workshop\ndevelopment of Disability-Inclusive Early Warning\nMessages in Lao PDR:",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "heading": "6. Foster a Culture ofContinuous Learning &Adaptation",
+      "text": "These strategic recommendations lay the\ngroundwork for a systemic transformation,\nensuring that inclusion is not an afterthought but",
+      "pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "heading": "1Prioritize Disaggregated DataCollection",
+      "text": "Systematically collect and utilize data\ndisaggregated by disability type, age, gender, and\nethnicity. This data is essential for understanding\nspecific vulnerabilities, tailoring interventions, and\nmeasuring the impact of inclusive EWS initiatives.",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "heading": "2Integrate DIEWM into NationalPlanning & Mandate Resource",
+      "text": "Ensure that disability-inclusive DRR is embedded\nwithin broader national development and climate\nchange adaptation plans, and allocate dedicated\nbudgets at both national and local levels.",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "heading": "3Strengthen Multi-StakeholderCollaboration",
+      "text": "Formalize and reinforce collaboration\nmechanisms between government agencies with\nmainly DMH, DSW, and development partners\nsuch as PIN, HI, WFP, and crucially, OPDs. This\nensures co-creation and co-ownership of inclusive\nEWS.\n23Disability-Inclusive Early Warning Messages in Lao PDR Workshop\na foundational principle for disaster preparedness\nin Lao PDR.",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "heading": "4Develop National Guidelinesfor Inclusive EWS",
+      "text": "Formulate clear, actionable national guidelines for\nthe design, dissemination, and response to Early\nWarning Messages that are inherently inclusive of\nall disability types, drawing upon international\nbest practices (e.g., UNCRPD, Sphere standards).",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "heading": "5Balance Top-Down &Bottom-Up Approaches",
+      "text": "Communities are invariably the first to respond to\ndisasters, it is imperative to balance sophisticated\ntop-down warning systems with decentralized,\nlow-technology support at the local level.",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "heading": "6Foster a Culture of ContinuousLearning & Adaptation",
+      "text": "Establish feedback mechanisms for communities,\nespecially Persons with Disabilities, to provide\ninput on EWS effectiveness. Conduct regular postdisaster evaluations to learn and continuously\nimprove inclusive practices.",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "heading": "3.4. Tangible Next Steps: a Roadmap for DIEWM",
+      "text": "To translate the strategic vision into concrete\nrealities, the workshop’s final exercise on\nparticipatory group action planning, helped\nidentify several practical and tangible actions that\ncan be implemented in the short to medium and\n1Establish GEDSI Focal Points\nAssign dedicated Gender, Equality, Disability, and Social Inclusion (GEDSI) focal\npoints within relevant government departments and at the village level,\nensuring their active participation in decision-making related to EWS.\n3Develop Multi-Format Early Warning Materials\nCreate and disseminate Early Warning\nMessage materials in multiple accessible\nformats, including simplified language,\npictograms, audio messages, and\n4\npotentially Braille or large print for visual\nimpairments. Explore the use of sign\nlanguage interpretation for televised or\nvideo-based warnings.\nConduct pilot programs to test prototypes of disability-inclusive early warning\nmessages in selected communities, gathering feedback from Persons with Disabilities\nto refine and improve the messages and dissemination channels.\n6\nTraining of Trainers (ToT) andPeer-to-Peer (P2P) Inclusive EWS\nImplement a comprehensive ToT program\nfor key government officials, local\n7\nauthorities, and community leaders on the\nprinciples and practicalities of disabilityinclusive EWS, enabling them to cascade\nknowledge effectively. Create a P2P\nprogram where each person with disability\nidentifies a peer who can help during a\ndisaster event.\nlong term. These immediate actions are designed\nto initiate a tangible shift towards a more inclusive\nand effective EWS in Lao PDR, laying the\nfoundation for long-term resilience and\nempowerment.\n2Capacity Building and Training for Communities\nConduct targeted community training sessions\non interpreting early warning messages,\nspecifically designed for vulnerable populations\nincluding Persons with Disabilities, utilizing\naccessible formats and local languages. This\nshould include drills and simulations that\ninvolve Persons with Disabilities.\nStrengthen Last-Mile Communication Infrastructure\nAssess and upgrade existing communication infrastructure in remote and rural\nareas, including ensuring the functionality of loudspeakers and exploring lowtech solutions (e.g., flag systems) alongside mobile-based alerts.\nPilot Inclusive Early Warning Messages\n5\nLeverage Digital Transformation for Accessibility\nWhile addressing digital divides, continue efforts to expand the use of ICT tools and\nmobile-based alerts, ensuring that new digital solutions are inherently designed with\naccessibility features for all disability types, by partnering with development partners\n(e.g., NGOs, UNs) and digital ecosystem players (e.g. telecom companies).\n24",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "heading": "4.1. The Workshop in a Nutshell",
+      "text": "26Disability-Inclusive Early Warning Messages in Lao PDR Workshop",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "heading": "4.2. Personas: UnderstandingDiverse Needs in DIEWM",
+      "text": "27Disability-Inclusive Early Warning Messages in Lao PDR Workshop",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "heading": "4.3. DIEWM Prototypes",
+      "text": "28Disability-Inclusive Early Warning Messages in Lao PDR Workshop\n29Disability-Inclusive Early Warning Messages in Lao PDR Workshop",
+      "pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "heading": "5 References",
+      "text": "[1] WFP. (2025). Workshop on Disability-Inclusive Hazard Early Warning Messages in Lao PDR - ConceptNote.\n[2] United Nations. (2006). Convention on the Rights of Persons with Disabilities (UNCRPD), Article 11.\n[3] UNDRR. (2025). National Weather Forecast & Early Warning System Perception Survey 2025Presentation.\n[4] DMH. (2025). Weather Forecasting and Early Warning in Lao PDR Presentation.\n[5] MoWRAM. (2025). Existing Multi-Hazard Early Warning Systems and Messaging in CambodiaPresentation.\n[6] People in Need. (2025). People-Centric MHEWS in Lao PDR and Cambodia Presentation.\n[7] Handicap International. (2025). Key Disability Issues and Challenges for Early Warning and EarlyAction Presentation.\n[8] Women With Disability Association (2018). Attapeu Case Study Presentation.\n30Disability-Inclusive Early Warning Messages in Lao PDR Workshop",
+      "pages": [
+        30
+      ]
+    },
+    {
+      "heading": "World Food Programme",
+      "text": "Don Nokhoum Road, Don Nokhoum Village, Sisattanak District,Vientiane Capital, Laos",
+      "pages": [
+        31
+      ]
+    }
+  ],
+  "num_pages": 31
+}

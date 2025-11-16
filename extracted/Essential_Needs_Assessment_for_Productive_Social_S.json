@@ -1,0 +1,851 @@
+{
+  "report_id": "Essential_Needs_Assessment_for_Productive_Social_S",
+  "file_path": "/Users/madhu/Desktop/WFP/wfp_reports/wfp_reports/Zero_Hunger/Essential_Needs_Assessment_for_Productive_Social_S.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Essential Needs Assessment\nSocial Protection Case Studies in Urban Tanzania\nMarch 2023"
+    },
+    {
+      "page_number": 2,
+      "text": "Essential Needs Assessment for Productive Social Safety Net\nAcknowledgement\nassessment.\nMarch 2023 Page  2\nThis report describes the findings of the Essential Needs Assessment carried out by WFP and\nTASAF. The assessment evaluates the financial contribution of the Canadian Government to\nthe PSSN II through TASAF and WFP to support vulnerable urban communities. This exercise\nand report would not have been possible without the coordination and technical advice of\nTASAF, both at the national and Project Area Authorities (PAAs) level. Special thanks go to the\nlocal authorities in Temeke MC, Kasulu TC, Mtwara MC and Magharibi for hosting and guiding\nthe assessment team, and to beneficiaries for sparing their valuable time to participate in this"
+    },
+    {
+      "page_number": 3,
+      "text": "Essential Needs Assessment for Productive Social Safety Net\nContents\nList of Tables 4\nList of Figures 5\nExecutive Summary 7\nI. Introduction 9\nII. Rationale of the Project 13\nIII. Methodology 14\nIV. Results 18\nV. Conclusion 42\nAcronyms 43\nMarch 2023 Page  3\nPage"
+    },
+    {
+      "page_number": 4,
+      "text": "List of Tables\nMarch 2023 Page  4\nTable 1: Number of sampled households .............................................................................................. 16\nTable 2: Food Consumption ..................................................................................................................... 19\nTable 3: Sources of Food by Location ..................................................................................................... 21\nTable 4: MEB and SMEB Amount............................................................................................................. 26\nTable 5: Summary - Characteristics of Vulnerability Categories ......................................................... 34\nTable 6: Highly Vulnerable Groups Compared ...................................................................................... 35\nTable 7: Time Spent Receiving Cash ....................................................................................................... 37\nTable 8: Summary – TASAF Transfer Amount and Eligibility Criteria .................................................. 40\nTable 9: Transfer Value Compares to MEB and SMEB ......................................................................... 41"
+    },
+    {
+      "page_number": 5,
+      "text": "List of Figures\nMarch 2023 Page  5\nFigure 1: Map of Targeted Project Area Authorities (PAAs) ................................................................. 10\nFigure 2: Age of Head of Household ....................................................................................................... 18\nFigure 3: Food Consumption Group ....................................................................................................... 18\nFigure 4: Sources of Food - December 2022 .......................................................................................... 20\nFigure 5: Sources of Food – November 2021......................................................................................... 20\nFigure 6: reduced Coping Strategy Index ............................................................................................... 21\nFigure 7: Households with High Coping ................................................................................................. 22\nFigure 8: Coping Strategies Applied At least Once a Week .................................................................. 22\nFigure 9: Households adopting crisis and emergency livelihood coping .......................................... 23\nFigure 10: Households adopting crisis and emergency livelihood coping ........................................ 23\nFigure 11: Livelihood Coping Strategies Applied ................................................................................... 24\nFigure 12: Reasons for adopting the Coping Strategies ....................................................................... 24\nFigure 13: Households without economic capacity to meet essential needs ................................... 25\nFigure 14: Households with Access to Credit ........................................................................................ 26\nFigure 15: Source of Borrowing - Dec. 2022 .......................................................................................... 27\nFigure 16: Source of Borrowing - Nov. 2021 .......................................................................................... 27\nFigure 17: Reason for Taking Loan - Dec. 2022 ..................................................................................... 27\nFigure 18: Reason for Taking Loan – Nov. 2021 .................................................................................... 27\nFigure 19: Percentage of Households Deprived (Incidence) ............................................................... 28\nFigure 20: Multidimensional Deprivation Index (MDDI) Score by Sector (Intensity) ........................ 28\nFigure 21: November 2021: Percentage of households deprived by indicator ................................ 29\nFigure 22: November 2021: Percentage of households deprived by dimension ............................. 29\nFigure 23: December 2022: Percentage of households deprived by indicator ................................. 29\nFigure 24: December 2022: Percentage of households deprived by dimension .............................. 29\nFigure 25: Source of Income - December 2022 ..................................................................................... 30\nFigure 26: Source of Income - November 2021 ..................................................................................... 31\nFigure 27: Perceived Needs (Areas of Serious Concern) ...................................................................... 32\nFigure 28: Households by Vulnerability Tiers ........................................................................................ 34\nFigure 29: Received Cash Transfer .......................................................................................................... 36\nFigure 30: Registered as Household Representative ............................................................................ 36\nFigure 31: Method for Receiving Cash .................................................................................................... 36\nFigure 32: Constrain accessing TASAF Cash Out Point ......................................................................... 37\nFigure 33: Constrain at TASAF cash out point ....................................................................................... 37\nFigure 34: Issues with the Cash Transfer ............................................................................................... 38\nFigure 35: Households aware on the entitlement amount ................................................................. 38\nFigure 36: Households aware on the payment windows..................................................................... 38\nFigure 37: Households aware on how to contact TASAF/raise concerns........................................... 39\nFigure 38: Household informed about the Community Feedback Mechanism ................................ 39\nFigure 39: Benefits of Cash Transfer ....................................................................................................... 39"
+    },
+    {
+      "page_number": 6,
+      "text": "March 2023 Page  6\nFigure 40: Maize Flour Retail Price - Dar es Salaam .............................................................................. 40\nFigure 41: Maize Flour Retail Price - Mtwara ......................................................................................... 40\nFigure 42: Maize Flour Retail Price - Kigoma .......................................................................................... 41\nFigure 43: Maize Flour Retail Price - Zanzibar........................................................................................ 41"
+    },
+    {
+      "page_number": 7,
+      "text": "Executive Summary\nMarch 2023 Page  7\nTo reduce extreme poverty, the Government of Tanzania introduced the Productive Social Safety Net (PSSN) based on integrated interventions including a labor-intensive public works and cash transfers program targeting the poorest households. The specific objective of the PSSN, which is implemented by the Tanzania Social Action Fund (TASAF), is to increase income and consumption, improve the ability to cope with shocks among vulnerable populations, and enhance and protect the human capital of their children. In 2013, the Government of Tanzania scaled up the PSSN to cover one million households in extreme poverty, and by 2015 the program was delivering cash transfers to over 1 million households across the country.\nThrough a project funded by the Government of Canada, WFP supported the expansion of PSSN II into urban areas by providing budget support and conducting in depth assessments on urban vulnerabilities targeted for unconditional cash transfers. This assistance was designed to address the food security needs of populations affected by the socio-economic impacts of the COVID-19 pandemic.\nSocial protection has the potential to make a positive impact in food security and nutrition through a range of entry points related to food availability, access, utilization, and stability. Food often represents the largest share of expenditure for the poorest households. Household capacity to meet food and nutrition needs also depends on its ability to meet other essential needs. A well-designed and functioning safety net and social protection system can reduce vulnerability and improve food security and nutrition. It can also protect households and individuals against shocks and prevent them from resorting to negative coping mechanisms that may adversely affect their livelihoods. Social protection also contributes to stabilizing income and improving access to food for populations who would otherwise be unable to access a healthy diet.\nThe contribution channeled through TASAF, comprised of two bi-monthly payment cycles for over 51,000 newly targeted households in urban and peri-urban areas corresponded to an estimated 250,000 individuals in Kasulu TC (Kigoma), Temeke MC (Dar), Mtwara MC (Mtwara) and Magharibi (Zanzibar). WFP conducted in-depth Essential Needs Assessments (ENA) over a one-year period (November 2021-December 2022) during which targeted households continued to receive transfers. The ENA methodology provides an opportunity to review the adequacy of cash transfer levels to meet essential needs, including food security. The findings may serve as a contribution to technical discussions related to the design of the next phase of implementation (PSSN III). The analysis was also complemented by a compilation of impact stories based on in-depth household interviews.\nGenerally, the cash transfer has enabled beneficiaries to meet a number of essential needs, including food, NFIs, education, health and shelter. Following the implementation of PSSN II, an improvement in food security was noted in the sampled households compared to the baseline. Household food access improved despite increased food prices. A general improvement was noted in food consumption, with 69% of households reporting acceptable food consumption compared to 63% during the baseline. The proportion of households applying high consumption-based coping decreased from 46% recorded during the baseline to 32% at the endline, reflecting reduced food-related stress among the beneficiaries. The percentage of households adopting crisis and emergency livelihood coping also decreased from 50% to 29%, indicating reduced household stress in meeting food and other essential needs. During the baseline, 6% of the households reported using child labour as a livelihood coping measure, but none of the households had applied this strategy by the endline.\nA 46% increase was observed in household income following the provision of the transfer. Reliance on borrowing as a source of income decreased from 8% to 0%. There was also an increase in the percentage of households with access to credit from 23% to 32%. Household borrowing to purchase agricultural land, inputs and livestock increased, demonstrating that some households were investing in improved livelihoods and economic opportunity. About 48% of the households said the transfer reduced their financial burden."
+    },
+    {
+      "page_number": 8,
+      "text": "March 2023 Page  8\nThe percentage of households with insufficient capacity to meet essential needs reduced from 96.5% to 89%. This is based on the Minimum Expenditure Basket, which is the same as the national poverty line. As a result, the percentage of households considered highly vulnerable also reduced to 57% from 72% during the baseline. The proportion of the elderly who are highly vulnerable went down from 93% 81%.\nThe price of food items in the market increased over the duration of the survey period due to global market dynamics and below average domestic production, which affected purchasing power and the ability of the households to meet their essential needs. This was especially relevant for poor urban populations who depend on markets for accessing food. Due to high food prices, it was difficult for the households to access more expensive food items, such as meat and sugar. The real retail price for a kilo of maize flour which is the main staple among many households increased by 39% in Zanzibar, 42% in Dar es Salaam, 56% in Kigoma and 76% in Mtwara. The average transfer amount received from TASAF was found to cover between 58% to 64% of the Minimum Expenditure Basket (MEB).\nAccess to food remains the primary household concern in terms of essential needs and the priority item for expenditures when cash transfers are received. Food represents the main reason for engaging in livelihood coping strategies and is the most common reason for borrowing. There is a need to further explore how PSSN could further sensitize participants on the importance of accessing a diversified and nutritious diet with the social assistance transfers. In addition, there are opportunities for PSSN to leverage digital financial inclusion, including access to credit and savings, as lending from banks and other formal financial institutions is not the preferred option for obtaining credit for many of the poorest households.\nDespite significant improvements in relevant indicators following one year of cash transfers, about 57% of the households remain highly vulnerable to food insecurity and are unable to meet their essential needs. While further improvements would be expected over time, the implications for estimation of transfer values in the context of rising food prices merits further attention. In addition, the role that social assistance could play in responding to shocks, including natural disasters and health crises, would benefit from in depth analysis. This could include the potential for vertical expansion through the temporary increases in transfer values in geographic areas affected by shocks, such as droughts or floods, based on clearly defined thresholds and triggers. There is also a need to review the potential for TASAF payment systems to play a role in horizontal expansion through providing emergency cash transfers to populations who are not included in PSSNII. Disaster response options could review the use of TASAF payment mechanisms for populations targeted and registered by both government and development partners for emergency cash transfers."
+    },
+    {
+      "page_number": 9,
+      "text": "Social protection case studies in urban Tanzania\nI. Introduction\n1 Tanzania Demographic and Health and Malaria Survey Indicator 2022\nMarch 2023 Page  9\nWhy Tanzania? Despite solid economic growth over the last decade, about a fourth of Tanzania’s population remains poor and highly vulnerable. While economic growth in the country averaged 6.7 percent per year between 2007 and 2017, progress in reducing poverty has been substantially slower. The national poverty rate is estimated to have declined marginally to 27.0 percent in 2021, supported by the recovery of employment and nonfarm business revenue (World Bank, 2021). The pandemic-induced economic shock pushed the national poverty rate from 26.1 percent in 2019 to 27.1 percent in 2020, while the poverty rate measured at the international extreme poverty line rose from 49.3 percent to 50.4 percent. Households relying on self-employment or informal microenterprises in urban areas were the most affected by the economic slowdown. In 2020, the urban poverty rate rose to 21.1 percent, up 5.5 percentage points from its 2019 level. However, by 2021 non-farm household income had begun showing signs of improvement. The Tanzanian economy has continued its steady recovery from the COVID crisis, with the GDP growth rate increasing from 2.0 percent in 2020 to 4.3 percent in 2021. Industry and construction led a broad-based acceleration in economic activity, contributing an average of 2.6 percentage points to GDP growth. However, the agriculture sector contributed less than 1 percentage point to growth, largely due to more-frequent floods and prolonged droughts related to climate change. Inadequate rainfall continued to weaken agricultural output. Poor and vulnerable households also exhibit inadequate levels of human capital development. More than 30 percent of children under five are stunted, which means that close to a third of children will likely have lower capacity to learn and be productive as adults. Furthermore, despite relatively higher levels of primary school completion, less than half of children enter secondary education. According to the last demographic household survey1,53% of children aged 24–59 months living with their biological mother are not on-track in health, learning, and psychosocial well-being. All these factors increase household probability of being poor, perpetuating the intergenerational transmission of poverty."
+    },
+    {
+      "page_number": 10,
+      "text": "Figure 1: Map of Targeted Project Area Authorities (PAAs)\nMarch 2023 Page  10"
+    },
+    {
+      "page_number": 11,
+      "text": "Why Social protection?\n2 Evaluation of the PSSN 2 – Midline Survey, September 2019\n3 WFP Strategy for Social protection, July 2021\nMarch 2023 Page  11\nSocial protection plays a crucial role globally in this context. A common definition describes social protection as the ‘policies and programmes aimed at preventing and protecting people against, poverty, vulnerability and social exclusion throughout their life [...with] a particular emphasis on vulnerable groups. Each country has its own definition of social protection reflecting its context and priorities. National social protection strategies, therefore, vary in scope. Social protection typically covers a range of cash and/or in-kind transfers and fee waivers, collectively termed ‘social assistance’ when non-contributory (publicly funded), and ‘social insurance’ when contributory and not risk-rated (i.e. financed by or on behalf of the beneficiary, and where premiums do not vary according to personal level of risk). It also covers labour market schemes and may also include social care services or targeted subsidies.\nBroadly, social protection addresses vulnerability, poverty and inequality through the redistribution of resources and interventions that help individuals or households to manage the risks they face. These economic, social and other risks may be caused by structural inequalities, personal circumstances, life-course vulnerabilities or covariate shocks. While social protection alone cannot eliminate the impact of crises, a well-functioning social protection system can make a highly effective contribution to mitigating the consequences of exogenous shocks. It can support those already in need, help prevent temporary needs from becoming entrenched, and promote conditions conducive to building resilience. It has the potential to foster human capital development, social cohesion, and inclusive economic growth.\nTo reduce extreme poverty and break its intergenerational transmission, the Government of Tanzania created the Productive Social Safety Net (PSSN)2. The PSSN is based on integrated interventions targeted to the poorest households: a labor-intensive public works program (including unconditional direct support for households with no labor capacity) and conditional cash transfers. The specific objective of the PSSN, which is implemented by the Tanzania Social Action Fund (TASAF), is to increase income and consumption and improve the ability to cope with shocks among vulnerable populations, while enhancing and protecting the human capital of their children. In 2013, the Government of Tanzania decided to scale up the PSSN to cover all households in extreme poverty and by 2015 the program was delivering cash transfers to over 1 million households across the country.\nWith respect to food security and nutrition, social protection has the potential to make a positive impact through a range of entry points (see above)3. Food security has four constituent elements: food availability, access, utilization and stability over time. Addressing any or all of these will enhance food security outcomes. If the food that is produced and accessed is nutritious, and if people are in good health to make effective use of the nutrients, then nutrition outcomes will also be improved. Some of these aspects can be addressed through interventions at a household level, while others— especially those related to effective utilization —require closer attention to the needs of individuals."
+    },
+    {
+      "page_number": 12,
+      "text": "March 2023 Page  12\nEvidence on the contribution of social protection to food security and nutrition reveals many success stories—sometimes even when not designed for that purpose. When social protection programmes achieve their core aims of addressing poverty, vulnerability and social exclusion, they may also contribute to food security and nutrition outcomes. Such success is not guaranteed, however. Design choices may enable them to strengthen these outcomes. With respect to nutrition, social protection tends to be more effective when nutrition goals are pursued deliberately in programme design and implementation. Considerations range from the choice of recipient to the value, modality and duration of a transfer. Design can also ensure that social protection does not inadvertently contribute to malnutrition by increasing access to unhealthy food.\nFood security and nutrition are central features of the social protection agenda. Food often represents the basic need on which poor households spend the largest share of their resources."
+    },
+    {
+      "page_number": 13,
+      "text": "II. Rationale of the Project\nthe global food price crisis.\nstories to provide a qualitative perspective on the benefits of social assistance at the household level.\nMarch 2023 Page  13\nThe scale of PSSN II coverage is not currently able to address both the poverty and food security\nconcerns of the most vulnerable populations in the country, especially in urban areas. This is particularly\nrelevant for those populations at risk of slipping into poverty and food insecurity as a result of the impacts of\ncovariate shocks generated by pandemics, natural disasters, and food price inflation. Research indicates\nthat poor urban households spend an estimated 70% of their income on food. The Household Budget\nSurvey 2017/18 concluded that 4.4% percent of the urban population - equating to approximately 900,000\npeople - live below the food poverty line. Given that over 80% of Tanzania’s urban population is dependent\nupon opportunities for casual labour, informal trade and services for their livelihood, food security is\nthreatened by decreasing and unstable levels of income caused by shocks, such as the COVID pandemic and\nWith funding provided by the Government of Canada, WFP supported the planned expansion of PSSN\nII into urban areas by providing budget support to the and conducting an analysis of urban vulnerabilities\nand how these are impacted by cash transfers. cash programme. The analysis may serve to inform future\ndirection of future social assistance design with regards to addressing food security and nutrition concerns.\nThe funding was channeled through TASAF to support two bi-monthly payment cycles to 51,000 newly\ntargeted households in urban and peri-urban areas of the country corresponding to over 250,000\nbeneficiaries in Kasulu TC (Kigoma); Temeke MC (Dar es Salaam); Mtwara MC (Mtwara); and Magharibi\n(Zanzibar) WFP conducted an in-depth Essential Needs Assessments at Baseline (November 2021) and\nendline periods (December 2022). WFP used the Essential Needs Assessment methodology to determine the\nimpact of cash transfers on essential needs. The analysis was also complemented by a compilation of impact"
+    },
+    {
+      "page_number": 14,
+      "text": "III. Methodology\nWhy assess essential needs?\n4 WFP, Essential Needs Assessment guidance, December 2020\nMarch 2023 Page  14\nThe concept of essential needs originates in the basic needs approach proposed by the International Labour Organization (ILO). The ILO report on the 1976 World Employment Conference defined basic needs in terms of household private consumption of goods such as food, clothing and housing, and services such as water and sanitation provision, education and public transportation. Since then, basic – or essential – needs have been broadly defined in several analytical frameworks as the essential goods and services required on a regular or seasonal basis by households to ensure survival and minimum living standards, without resorting to negative coping mechanisms or compromising their health, dignity and essential livelihood assets4. An essential needs assessment starts by identifying the basic needs of the population of interest. There is no set list of criteria and what counts as essential often depends on the context and what people consider the most important aspects necessary for their wellbeing. International humanitarian frameworks offer a solid starting point, protecting the rights of crisis-affected households to food, water, sanitation, clothing, shelter and lifesaving healthcare. However, the definition of essential needs must be adapted to the context of each response. An essential needs assessment should start from a broad list of needs and identify those needs most pertinent to the population of interest, pinpointing where this population is most likely to experience deprivation. This selection process helps focus analytic efforts in the assessment. The steps of an essential needs assessment are similar to those of a standard household food security assessment. However, each step must reflect the wider essential needs perspective and ideally yield information to help focus subsequent steps on the most relevant needs and questions. The process is designed to make the collection of detailed household data as concise and comprehensive as possible. The figure below illustrates the ideal essential needs assessment process. The following standard modules need to be included in any essential needs assessment in which primary household data collection is undertaken:"
+    },
+    {
+      "page_number": 15,
+      "text": "Sampling\n5 Mtaa is an administrative division level 4 in the urban area, like a village in the rural area.\nMarch 2023 Page  15\ni. Household demographics and socioeconomic modules (including education and health) ii. Main income sources/livelihoods modules iii. Food security modules for indicators, such as:  Food consumption score (FCS)  Food consumption score – nutrition (FCS-N5)  Household dietary diversity score (HDDS6)  Reduced coping strategy index (rCSI) iv. Living conditions modules (which could include modules on water, sanitation and hygiene (WASH); shelter/housing; cooking fuels; lighting and assets) All five proposed essential needs indicators are based on primary data collection at the household level. The five indicators are:  Economic capacity to meet essential needs (ECMEN  Livelihood coping strategies indicator (LCS)  Debt indicators  Multidimensional deprivation indicator (MDDI)  Perceived needs (based on the Humanitarian Emergency Settings Perceived Needs Scale (HESPER) The ECMEN indicator shows the percentage of households who are able to meet their essential needs through their own economic capacity. The ECMEN can also provide information on the gap between the cost of covering needs through the market and household economic capacity. The MDDI helps to detect sectoral deprivation and provides an at-a-glance multidimensional measure of deprivation related to essential needs. LCS and debt indicators show whether households have to resort to negative coping strategies in order to meet their essential needs. The perceived needs indicator is used to understand how the population of interest perceive their needs and which needs they consider unmet. Data Collection\nThe assessment employed a mixed methods approach, where both quantitative and qualitative methods were used. Quantitative data was collected through household survey with selected households. Data collection was done electronically using tablets installed with Open Data Kit (ODK). Qualitative data was collected through Focus Group Discussion with beneficiaries (including male, female, youth persons with disability), key informants’ interviews and observation. The results of the different data sources complemented each other and enabled triangulation to control potential bias. Secondary data was collected through document review. Key respondents for the household interviews were household heads and/or their spouses, or another mature household member who is well informed about the household affairs. A household was defined as people sharing the same house and food source.\nThe assessment adopted a multi-stage sampling where the first stage involved developing PAA level sample size using Open EPI, a free and open-source software for epidemiologic statistics, at a 95% Confidence Interval. The second stage was development of the sample size per Mtaa5 which was proportional to the population size of the respective village. Simple random sampling was used to draw households as the ultimate sampling units in each Mtaa, using the beneficiary lists as the sampling frame. Priority was given to"
+    },
+    {
+      "page_number": 16,
+      "text": "Camp Number of Samples Percentage\nTemeke MC 322 22%\nKasulu TC 407 28%\nMtwara MC 398 27%\nMagharibi 340 23%\nTotal 1,467 100%\nQuality Control\nEthical Consideration and Community Consent\nData Analysis\nMarch 2023 Page  16\nthe households that were covered during the baseline to be able to capture the changes well. The assessment team collected data from a total of 732 households as per the below breakdown:\nTable 1: Number of sampled households\nTo ensure data quality, data collection was done by a team of experienced enumerators who have participated in similar exercises led by WFP. Training of the enumerators was undertaken for four days to ensure a common understanding on each aspect of the assessment tools among the enumerators and facilitate standardization. Questionnaire pre-testing was undertaken to test the accuracy and validity of the tools prior to data collection. During data collection, team supervisors manually checked the completed questionnaires for completeness, consistency and accuracy before finalization and submission to the server. A thorough data cleaning was also done before commencing analysis, to ensure duplications, errors, blanks, and other data issues are rectified as much as possible. The assessment findings were reviewed and validated by technical officers with expertise of the operation.\nPrior to the interview, enumerators sought informed consent from the respondents by clearly explaining the objectives of the ENA and how their households were selected. In addition, the assessment observed confidentiality and respected respondent privacy and the voluntary nature of participation in the interview. Beneficiaries could opt out of participating before or during the interview. Consent was also sought before taking photos as part of qualitative data. Photo taking followed ethical standards and photos will be used only for ENA and PSSN II reporting purposes.\nQuantitative data cleaning and analysis was done using IBM SPS Statistics (SPSS) Version 28. Cross-sectional data analysis was employed to compare assessment aspects across socio-economic variables, including demographic characteristics and economic status against food security and vulnerability aspects. Quantitative data presentation was done through tables and graphs. Qualitative data analysis was done using content analysis where information was organized based on different themes to bring the meaning and complement the quantitative data. This report synthesizes the results of the qualitative and quantitative analyses as well as the literature review."
+    },
+    {
+      "page_number": 17,
+      "text": "Limitations of the Study\nmeaning by the interviewers.\nencouraged to contribute to the interview to ensure the level of validity was maintained.\ninfluence some of their responses.\nMarch 2023 Page  17\nThe assessment team took all possible measures to maintain data quality and ensure that the results accurately reflect the true situation in the respective PAAs. However, the following limitations must be acknowledged:\n The ENA questionnaire was written in English but household interviews were conducted in Kiswahili. A\nthorough translation of the questionnaire was done during the training to ensure standardization in\ninterpretation and administration of the questionnaire, to limit the extent of misinterpretation of\n Because of potential memory lapses especially for long recall period, some of the respondents may have\nmade inaccurate recall and quantitative estimates. Enumerators were trained to facilitate accurate recall\nand quantitative estimates and spouses and other knowledgeable household members were\n Although the enumerators explained to the respondents that no concealed benefits were to be expected\nfrom the assessment, respondent expectations of the assessment’s concealed benefits could possibly"
+    },
+    {
+      "page_number": 18,
+      "text": "IV. Results\nDemographics\nThe assessment covered 1,467 households in four Project Area Authorities (PAA), including 407 in Kasulu TC (28%), 398 in Mtwara MC (27%), 340 in Magharibi (23%) and 322 in Temeke MC (22%). About 57% of the sampled households were headed by a male while 43% were headed by a female. Most of the household heads were adult aged 36 to 59 years (48%), followed by the elderly aged 60 years and above (41%) and the youth aged 18 to 35 years (11%). Sampled households had an average household size of six, whereby more than half of the household members (54%) were children below 18 years while 10% were elderly. About 22% of the households had members with a physical or mental disability.\nFood Consumption\nMore than three quarters of the\nhouseholds have acceptable\n73%69%58%\nfood consumption (69%), which\nis an improvement compared to\n63% during the baseline. A\ngeneral improvement in food\nconsumption was noted in all\n17%24%\ncouncils except Temeke MC\nwhich slightly went down due to\nhigh food prices as captured\nduring the field work.\n6 The seven food groups considered are: (1) Cereals, roots, and tubers; (2) Pulses and legumes; (3) Dairy products; (4) Meats, fish and eggs; (5) Oils and fats; (6) Fruits; and (7) Vegetables. 7 Poor food consumption = FCS 0 to 21, Borderline food consumption = FCS 21.5 to 35, Acceptable food consumption = FCS > 35.\nMarch 2023 Page  18\nFigure 2: Age of Head of Household\n11%\nYouth headedhousehold\n41%\nAdult head ofhousehold\nElderly headedhousehold\n48%\nFood Consumption Score (FCS) is an important food security indicator used to measure household capacity to access a diversified diet. FCS is calculated based on dietary diversity (number of different food groups consumed), food frequency (number of days certain food group was consumed) and the relative nutritional importance of different food groups6 that interviewed households consumed over the last seven days prior to the assessment. The scores7 were used to categorize each household into either poor, borderline, or acceptable food consumption group.\nFigure 3: Food Consumption Group\n55%58%68%70%63%69%\n80%\n32%32%18%22%25%25%\n29%\n20%\n9%7%13%13%10%14%8%12%6%\nNov-21Dec-22Nov-21Dec-22Nov-21Dec-22Nov-21Dec-22Nov-21Dec-22\nTemeke MCKasulu TCMtwara MCMagharibiAll\nPoor ConsumptionBorderline ConsumptionAcceptable Consumption"
+    },
+    {
+      "page_number": 19,
+      "text": "FGD respondents indicated that TASAF cash\ntransfer has improved their food access, despite\nhigh food prices which limit their purchasing power\nand makes it difficult to access more of the\nexpensive food items such as meat and sugar. Food\nconsumption was better in Kasulu TC compared to\nother councils. Food consumption was also better\namong male headed households, with 73%\nrecording acceptable food consumption compared\nto 66% for female headed households.\nStarch\nProteins\nPulses\nVegetables\nOil\nFruit\nSugar\nDec-220.00.00.10.0Dairy\nMarch 2023 Page  19\n•FGD participants indicated that they have improved the number of meals and are assured of food access, even for the type of food they would barely consume in the past, such as fish, sugar and cooking oil.\n“Now we can even afford to buy fish once in a while”\nFGD Participant, Kilimahewa, Mtwara\nInterviewed households consumed starch and vegetables almost daily, complemented with four days of cooking oil and fruits, three days of meats and sugar and about two days of pulses. No consumption of dairy products were reported. A general improvement was noted in the consumption of all food items except pulses which declined mainly due to high prices.\nTable 194: Food Consumption\nAverage number of days households consumed food groups in the last 7 days, broken down by Food Consumption Score Group\nPoorBorderlineAcceptableAll Groups\nNov-214.66.66.96.4\nDec-223.86.46.86.5\nNov-210.20.83.22.0\nDec-220.71.03.52.7\nNov-210.51.53.22.3\nDec-220.30.72.31.8\nNov-213.13.15.85.2\nDec-222.75.66.56.0\nNov-210.60.63.82.8\nDec-220.92.44.83.9\nNov-210.20.22.51.9\nDec-220.83.04.13.6\nNov-210.50.52.51.8\nDec-221.11.52.92.5\nNov-210.00.00.10.0"
+    },
+    {
+      "page_number": 20,
+      "text": "We have been struggling for years to make\nends meet, but now we have a little more\nstability. It's not just the money, but the\npeace of mind that comes with it. We used\nto eat the same thing every day, but now we\ncan afford to buy different kinds of\nvegetables and fruits. We also try to include\nsome protein like eggs or beans in our\nmeals whenever we can. It feels good to\nknow that we are eating better and taking\ncare of our health.\nAsha Ahmad Njaha\nPSSN II Beneficiary - Mtwara\nSources of Food\nFigure 2363: Sources of Food - December\n2%2%1%Purchased\n4%\nOwn production\n13%\nGathering\nGifts fromfamily/friends\nOther\n78%\nGardening\nMarch 2023 Page  20\nAbout 78% of the food consumed by the sampled households was purchased from the market, while 13% was from household production. This is because most of the households are urban residents. Food purchase was more important in Temeke (94%) and Magharibi (91%), which are more densely urbanized areas. Household production contributed more as a source of food in Kasulu (31%) and Mtwara (14%) which included peri-urban populations and limited in Temeke MC (1%) and Magharibi (2%), which had more limited availability of land for agricultural activities. Households receiving gifts went down from 5% to 2% while there were no households depending on begging as a source of food compared to 1% during the baseline.\nFigure 1707: Sources of Food – November\n2021\n1%Purchase\n7% 4%\nOwn production\n11%\nGift\n77%\nGathering\nBegging"
+    },
+    {
+      "page_number": 21,
+      "text": "Own production\nCoping\nConsumption based coping\nThe rCSI was highest in Magharibi (17.5), followed by Temeke MC (17.2), Mtwara MC (13.8) and lowest in Kasulu TC (11.0). Magharibi and Temeke MC are more dependent on markets, as opposed to Kasulu TC and Mtwara MC who complement their food needs from household production. rCSI was higher among female headed households (16.2) compared to male headed households (12.7), indicating that female headed households were more stressed with food insecurity.\n8 Reduce number of meals eaten in a day; rely on less preferred or less expensive food; limit portion size at mealtimes; borrow food; restrict consumption of adults in order for children to eat.\nMarch 2023 Page  21\nTable 3: Sources of Food by Location\nGardening Gathering Purchased Gifts from family/friends\nOther (specify)\nTemeke MC 1% 0% 1% 94% 1% 2%\nKasulu TC 31% 1% 5% 62% 1% 1%\nMtwara MC 14% 2% 7% 72% 3% 2%\nMagharibi 2% 1% 1% 91% 3% 3%\nTotal 13% 1% 4% 78% 2% 2%\nThe reduced Coping Strategy Index (rCSI) also known as consumption-based coping, is a proxy indicator of household food security used to measure the level of stress a household faced following the presence or threat of a food shortfall. rCSI considers both frequency and severity of five pre-selected coping strategies\n8that the household used in the seven days prior to the assessment to cope with food shortages at the household level. The lower the CSI score the better the situation and vice-versa. The overall rCSI score decreased from 19.1 during the baseline to 14.7 during the endline, indicating reduced stress and an improvement in the food security situation among the sampled households.\nFigure 3079: reduced Coping Strategy Index\n22\n20\n19.1\n18\n16\n14.7\n14\n12\n10\nJan-21Jan-22\nTemeke MCKasulu TCMtwara MC\nMagharibiTotal\nThe proportion of households applying high consumption-based coping decreased from 46% during the baseline to 32% during the endline, reflects reduced food related stress among the beneficiaries. There are more households with high coping in Magharibi (42%) followed by Temeke (40%), Mtwara (27%) and Kasulu (21%), indicating that Kasulu was better compared to the other councils. There were more female headed households applying negative coping (36%) compared to male headed households (26%). A reduction was however noted in both female and male headed households compared to the baseline (52% and 49%, respectively)."
+    },
+    {
+      "page_number": 22,
+      "text": "Figure 3713: Households with High\nCi\n48%45%47%44%46%40%21%27%42%32%\nTemeke MC Kasulu TC Mtwara MC MagharibiTotal\nNov-21Dec-22\nI remember the nights when I would lay\nawake, wondering how I was going to feed\nmy six children the next day. I felt like I was\nstuck in a never-ending cycle of poverty, and\nI didn't know if things would ever get better.\nWith the TASAF money, I have opened a\ncassava business that is guaranteed to earn\nme a daily profit of up to TZS 2,500, especially\nwhen schools are open in my neighborhood.\nSince then, my family has greater assurance\nof having at least two meals, if not three\nevery day.\nDarini Rashidi Mindu\nPSSN II Beneficiary - Temeke, Dar es Salaam\nMarch 2023 Page  22\nFigure 4179: Coping Strategies Applied\nAt least Once a Week\n84%\nRely on less expensive food\n77%\n85%\nReduce number of meals\n72%\n80%\nLimit portion size\n71%\nRestrict consumption to feedchildren\n63%\n51%\n60%\nBorrow food\n50%\nNov-21Dec-22\nAbout 83% of the households applied at least one of the coping strategies compared to 94% in November 2021.The most common coping strategies involved relying on less expensive food (77%), reducing number of meals (72%) and limiting portion size at mealtimes (71%). The proportion of households adopting different coping strategies went down across all coping strategies. During the baseline, most of the households reduced the number of meals as their main coping strategy, followed by consuming less expensive food. However, during the endline, most of the households opted to consume less expensive food than reducing the number of meals, suggesting that they had cash to purchase some food."
+    },
+    {
+      "page_number": 23,
+      "text": "Livelihood Coping Strategies\nThere were more households adopting crisis and emergency coping in Temeke MC (36%), followed by Magharibi (34%), indicating higher coping among the more urban locations compared to the urban and peri-urban areas (25% in Mtwara MC and 23% in Kasulu TC). There are more female headed households adopting crisis and above coping (32%) compared to the male (26%), indicating lower economic capacity among the female headed households and subjecting them to long-term effect on their capacity to generate an income and sustain livelihoods.\nMarch 2023 Page  23\nLivelihood Coping Strategy (LCS) for essential needs identifies the coping strategies adopted by households to meet their essential needs and classifies households according to the most severe coping strategies applied. Such strategies impact on livelihoods and on the dignity of individuals within the household. As a result, resorting to these mechanisms negatively affects a household medium to long-term capacity to generate income and sustain livelihoods. LCS for essential needs assesses the extent to which households engage in various negative coping behaviours to meet their essential needs, and the impact of these coping strategies on households’ livelihoods. Since certain behaviours can affect long-term productive capacity, households engaging in these strategies may be less able to cope when faced with future hardships. LCS classifies households into three categories according to the nature of their coping strategies, based on the severity of their implications. These include stress strategies, which reduce household ability to deal with future shocks; crisis strategies, which directly reduce future productivity; and emergency strategies, which affect future productivity but are more difficult to reverse or more dramatic in nature. The percentage of households adopting crisis and above livelihood coping went down from 50% recorded during the baseline, to 29% during the endline. This indicates reduced household stress in meeting food and other essential needs.\nFigure 9: Households adopting crisis and emergency livelihood coping\nFigure 10: Households adopting crisis and\nemergency livelihood coping\n53%\nTemeke MC\n36%\n42%\nKasulu TC\n23%\n46%\nMtwara MC\n25%\n63%\nMagharibi\n34%\n50%\nTotal\n29%\nNov-21Dec-22\nThe proportion of households applying each of the livelihood coping strategies went down compared to the baseline. Households mostly applied stress coping as opposed to crisis and emergency coping. The most"
+    },
+    {
+      "page_number": 24,
+      "text": "Borrowed money\nSpent savings\nPurchased food or other essentialitems on credit\nSold productive assets or means oftransport\nSold household assets\nHouseholds that applied livelihood coping did so mainly to meet food needs (85%) followed by health expenses (22%) and education fees and costs (17%). The percentage of households adopting coping strategies to buy food remained unchanged (85%) compared to the baseline. However, the percentage of households citing other reasons decreased. A substantial decrease was also noted in the percentage of households that applied coping to access water and sanitation facility (from 12% to 6%) and households that applied coping to pay existing debts (from 10% to 4%).\nMarch 2023 Page  24\napplied livelihood coping was purchasing food and other essential needs on credit (38%), followed by borrowing money (37%) and spending savings (24%). This a slight shift in the trend as households relied more on borrowing money as their main livelihood coping strategy applied during the baseline followed by purchasing food and essential needs on credit and reducing expenses on health and education. While during the baseline 6% of the households reported child labour as one of the livelihood coping measures, none of the households applied this coping strategy during the endline.\nFigure 11: Livelihood Coping Strategies Applied\n9%43%14%44%4%26%12%21%6%7%5%38%24%37%2%15%3%9%0%5%\nChildren (under 15 years old) workedto contribute to household income(e.g. maid, casual labour)\nWithdrew children from school\nA household member migratedinformally\nBegged and/or scavenged (askedstrangers for money/food)\nReduced expenses on health(including drugs) or education\nSTRESSCRISISEMERGENCY\nNov-21Dec-22\nFigure 12: Reasons for adopting the Coping Strategies\n85%\nTo buy food\n85%\n30%\nTo cover health expenses\n22%\nTo pay for school fees and othereducation costs\n18%\n17%\nTo buy essential non-food items(clothes, small furniture...)\n14%\n13%\n13%\nOther\n13%\n12%\nTo access water or sanitation facilities\n6%\nTo pay for rent or access adequateshelter\n6%\n5%\n10%\nTo pay for existing debts\n4%\nNov. 2021Dec. 2022\nTo access essential dwelling services (electricity, energy, waste disposal…)\n5%\n3%"
+    },
+    {
+      "page_number": 25,
+      "text": "Economic Capacity to Meet Essential Needs (ECMEN)\nFigure 13: Households without economic capacity to meet essential needs\n90%100%96%98%96%77%95%89%93%89%\nTemeke MCKasulu TCMtwara MCMagharibiTotal\nNov-21Dec-22\nExpenditures were used to identify the gap between households’ economic capacity and the amount needed to fulfil their essential needs. The ‘expenditure gap’ indicates how far household expenditure is above or below the MEB. For households with expenditures below the MEB, the median expenditure gap is 0.59, or 59 percent of the total MEB. On the other hand, for households with expenditures above the MEB, median expenditure is 1.7 times the MEB. Households below MEB in Kasulu TC had the largest gap (0.56) followed by Magharibi (0.53), Mtwara MC (0.44) and Temeke MC (0.22). There is no statistically significant difference between male and female expenditure gaps.\nMarch 2023 Page  25\nEconomic Capacity to Meet Essential Needs (ECMEN) is an indicator used to identify the percentage of households that are able to meet their essential needs through existing economic capacity (their expenditures exceed the Minimum Expenditure Basket). The Minimum Expenditure Basket (MEB) is defined as the cost of what a household requires to meet their essential needs, on a regular or seasonal basis. The MEB covers those needs that households meet fully or partially through the market and serves as a monetary threshold that can be used to assess a household’s economic capacity to meet their needs. To compute the ECMEN, household expenditures are used as a proxy for household economic capacity. The ECMEN can also provide information on the gap between the cost of covering needs through the market and a household’s economic capacity.\nMEB\nSMEB\nThe assessment adopted the estimated basic needs poverty for Tanzania mainland (TZS 49,320) and Zanzibar (TZS 66,313) as established during the 2017/2018 and 2019/2020 Household Budgetary Surveys respectively, as reference MEB for the respective areas, to be compared against households’ expenditures. Overall, 89 percent of the surveyed households had expenditures below the MEB, meaning that these households did not have enough economic capacity to meet their needs (Fig 13). A general improvement was noted compared to the baseline, where the proportion of households with insufficient capacity to meet essential needs was 96.5%. There were more households with insufficient capacity to meet essential needs in Kasulu TC (95%) followed by Magharibi (93%), Mtwara (89%) and Temeke (77%). There were slightly more male headed households without capacity (90%) compared to female headed households (88%), although the difference is not statistically significant."
+    },
+    {
+      "page_number": 26,
+      "text": "MEB SMEB\nZanzibar 66,313 47,541\nAccess to Credit\n21%30%12%28%23%38%42%15%33%32%\nTemeke MCKasulu TCMtwara MCMagharibiTotal\nMarch 2023 Page  26\nMonthly expenditures were also compared to the Survival Minimum Expenditure Basket (SMEB) also known as the food MEB. The SMEB was equated to the food poverty line in Tanzania mainland (TZS 33,748) and Zanzibar (TS 45,541) as established by the respective Household Budgetary Surveys. Seventy-seven percent of the households had expenditures below the SMEB, suggesting that monthly expenditures are not able to meet food needs unaided. There were more households who are unable to meet their food needs unaided in Kasulu (89%) followed by Magharibi (82%), Mtwara MC (77%) and Temeke MC (56%).\nTable 4: MEB and SMEB Amount\nDar es Salaam 49,320 33,748\nKigoma 49,320 33,748\nMtwara 49,320 33,748\nAn estimated 32% of the households have access to credit, which is an increase compared to 23% during the baseline. The percentage of households borrowing money also increased due to increased assurance to repay loans, where 32% of the households with access to credit took loans within six months compared to 27% during the baseline. Access to credit was slightly more among more male headed household (33.1%) compared to female headed households (30.5%). Households borrowed an average of TZS 59,484 within three months, compared to TZS 47,384 during the baseline. Households indicated that they would take an average of 3 months to repay the loan, compared to 4 months during the baseline.\nFigure 14: Households with Access to Credit\nNov-21Dec-22"
+    },
+    {
+      "page_number": 27,
+      "text": "Figure 15: Source of Borrowing - Dec. 2022\nRelatives\nTraders/shopkeepers\n3%2%2%0%0%5%\nInformal savings group\n13%\n45%\nMoney lender\nBank/ Credit institution/Micro-credit projectCooperative\n29%\nRelatives (living outside thecountry)Employer\nOther\nFigure 17: Reason for Taking Loan - Dec. 2022\nTo buy food\n5%4%1%4%\nTo cover health expenses\n7%\nTo buy agricultural land,inputs or livestockTo pay school, educationcostsTo invest in business\n9%\n54%\n16%\nTo buy non-food items(clothes, small furniture...)To pay for ceremonies/socialeventsOther (Please specify.)\nMarch 2023 Page  27\nFrom the graph above, limited access to credit is noted among the households in Mtwara MC (15%), followed by Magharibi (33%). This could be because the PAAs received their transfers late compared to Temeke MC and Kasulu TC. Households mostly borrowed from relatives and friends (45%), followed by traders and shopkeepers (29%). There is increased reliance on informal savings groups (13% vs. 8% in 2021), based on the formation of informal savings and credit groups.\nFigure 16: Source of Borrowing - Nov. 2021\nRelatives\nTraders/shopkeepers\n5%4%3%2%1%1%0%\nInformal savings group\n8%\nOther\n50%\nMoney lender\nBank/ Credit institution/Micro-credit projectCooperative\n29%\nLandlord (more than 1 monthbehind in rent)Humanitarian agencies\nMore than half borrowed for the purposes of purchasing food (54%), which is the same as baseline. This is followed by health expenses (16%) and the purchase of agricultural land, inputs or livestock, which increased from 3% during the baseline to 9%. This demonstrates that some households were investing in improved livelihoods and economic opportunity.\nAn estimated 71% of the households that took loans have outstanding debt of an average of TZS 56,144 compared to 44,998 during the baseline.\nFigure 18: Reason for Taking Loan – Nov. 2021\nTo buy food\n4%3%3%2%1%1%\nTo cover health expenses\n6%\nTo pay school, educationcostsTo invest in business\n54%\nOther\n25%\nTo buy agricultural land,inputs or livestockTo buy non-food items(clothes, small furniture...)To pay for ceremonies/socialeventsTo rent/buy a flat/house"
+    },
+    {
+      "page_number": 28,
+      "text": "Multidimensional Deprivation\nThe Multidimensional Deprivation Index (MDDI) is\na measure of non-monetary dimensions of\npoverty based on a range of ‘deprivation’ across\ndimensions of the essential needs' framework\n(food, health, education, shelter, WASH and\nsafety). MDDI helps to detect sectoral deprivation\nand provides an at-a-glance multidimensional\nmeasure of deprivation related to essential\nneeds. It draws on the concept of\nmultidimensional poverty, and its methodology\nhouseholds facing deprivation (4%).\nFigure 20: Multidimensional Deprivation Index\n(MDDI) Score by Sector (Intensity)\nNov-21\n0.35\nSafetyShelterFoodHealthEducationWASH\nDec-22\n0.39\nNov-21\n0.42\nDec-22\n0.37\nNov-21\n0.45\nDec-22\n0.31\nNov-21\n0.36\nDec-22\n0.26\nNov-21\n0.18\nDec-22\n0.08\nNov-21\n0.05\nDec-22\n0.02\nMarch 2023 Page  28\nFigure 19: Percentage of Households Deprived\n(Incidence)\n47%33%30%33%35%29%4%23%21%19%\nTemeke MCKasulu TCMtwara MCMagharibiTotal\nNov-21Dec-22\nfollows the principles of the Global Multidimensional Poverty Index (MPI). The proportion of households\ndeprived in one or more of dimensions went down from 35% to 19%. There were more households that were\ndeprived in Temeke MC (29%), followed by Mtwara MC (23%) and Magharibi (21%). A remarkable decrease\nwas noted among the deprived households in Kasulu, which also recorded the lowest percentage of\nThe MDDI score also decreased among all sectors,\nexcept for safety which increased by four\npercentage points. While food scored the highest\nintensity (45%) during the baseline, it ranked third\nduring the endline (31%), reflecting an\nimprovement in food access. Safety recorded the\nhighest intensity during the endline (39%)\ncompared to 36% during the baseline.\nThe majority of households were deprived in the\nshelter dimension (89%), compared to 93% during\nthe baseline. This was more linked to lack of\nelectricity (especially in Kasulu TC and Mtwara MC)\nthan overcrowding."
+    },
+    {
+      "page_number": 29,
+      "text": "NOVEMBER 2021\nFigure 21: Percentage of households\ndeprived by dimension\nFood\nSafety\nHealth\nWASH\nEducation\nShelter\nDECEMBER 2022\nFigure 23: Percentage of households\ndeprived by dimension\nFood\nSafety\nHealth\nWASH\nEducation\nShelter\n(especially in Mtwara), misunderstanding in the household and threats.\nMarch 2023 Page  29\nFigure 22: Percentage of households\ndeprived by indicator\nFood_FCS\n100%\nSafety_Displaced\nFood_rCSI\n80%\nSafety_Violence\n60%\nEducation\n40%\n20%\nHealth_Treatment\nWASH_Water\n0%\nWASH_Toilet\nHealth_Illness\nShelter_Crowding\nShelter_CookingShelter_Electricity\nFigure 24: Percentage of households\ndeprived by indicator\nFood_FCS\nSafety_Displaced\n100%\nFood_rCSI\n80%\nSafety_Violence\n60%\nEducation\n40%\n20%\nHealth_Treatment\nWASH_Water\n0%\nWASH_Toilet\nHealth_Illness\nShelter_Crowding\nShelter_CookingShelter_Electricity\nDeprivation by dimension follows a trend observed during the baseline. However, the proportion of\nhouseholds deprived went down for all dimensions except safety where the percentage of households\nreporting fear for safety increased to 77% compared 68% during the baseline. Through Focus Group\nDiscussion (FGD), households cited various safety issues including theft/crime, land related conflicts"
+    },
+    {
+      "page_number": 30,
+      "text": "During times of hardship, the thought that\ncauses me the most anguish is the\nknowledge that my young child is also\nsuffering. With the money I received, I was\nable to stock up on maize flour and buy\nschool supplies. I use the maize flour to\nprepare porridge which my child takes every\nmorning before heading off to school. This\nhas ensured that he is no longer surviving\non a single meal per day, and he now\ncomplains less about hunger. My hope is\nthat he will grow up to be a person of great\nsignificance, one who will lift our family out\nof the shackles of poverty.\nAibuni Kassim Ali\nPSSN II Beneficiary - Mtwara\nSources of Income\nFigure 25: Source of Income - November 2021\nTemeke MC\n5%\n19%\n23%\nKasulu TC\n48%\nMtwara MC\n27%\n16%\nMagharibi\n5%\n24%\nTotal\n24%\n22%\nMarch 2023 Page  30\nClose to a quarter of the sampled households derived their income from social assistance (23%), attributed to the TASAF cash transfer. This was followed by retail trade (17%), agriculture/livestock production (14%) and petty trade/selling on streets (12%). The percentage of households depending on petty trade reduced compared to 24% during the baseline, as households are moving away adopting more formalized trade. The percentage of households relying on agriculture production including livestock increased from 4% to 14% while reliance on borrowing and remittances reduced remarkably (8% to 0% and 13% to 2% respectively).\n21%\n2%\n4%\n7%\n9%\n6%\n4%\n1%\n28%\n5%\n1%\n14%\n2%\n6%\n19%\n12%\n8%\n6%\n5%\n1%\n28%\n15%\n1%\n5%\n6%\n5%\n4%\n6%\n14%\n13%\n8%\n5%\n4%\n4%\n3%\n2%\nPetty trade/selling on streetsRetail trade (own business)PensionRemittancesBorrowing money/Living off debtMedium/large agriculture/livestock productionOtherHousehold agriculture/livestock productionSaving/selling assetsWage Labor - Skilled"
+    },
+    {
+      "page_number": 31,
+      "text": "Figure 26: Source of Income - December 2022\nTemeke MC\n21%\n30%\nKasulu TC\n19%\n5%\n32%\nMtwara MC\n31%\n13%\nMagharibi\n22%\n26%\nTotal\n23%\n17%\nSocial AssistanceRetail trade (own business)Household agriculture/livestock production (own land)Petty trade/selling on streetsWage Labor - Unskilled non-agricultureWage Labor - Unskilled agricultureOtherRemittancesWage Labor - Skilled\n54% during the endline based on the prioritization of women as recipients of the cash transfers.\nI found myself facing new challenges when I\ntook in seven of my grandchildren. Some of\nthem lost their parents and others just\nlacked parental support. Despite my hard\nwork, the unpredictable nature of my snack\nbusiness has led to constant struggles to\nprovide for the household, leaving us\nvulnerable to hunger and poverty. I decided\nto invest in a long-term solution with the\nfunds I received from TASAF. I purchased\nducks and I have high hopes that this duck\nproject will increase our income and\nultimately improve our living conditions.\nAnna Ulaya\nPSSN II Beneficiary – Temeke, Dar es Salaam\nMarch 2023 Page  31\n1%\n23%\n10%\n1%\n8%\n3%\n1%\n3%\n2%\n31%\n6%\n1%\n1%\n16%\n10%\n10%\n17%\n1%\n2%\n0%\n2%\n16%\n20%\n1%\n5%\n3%\n5%\n14%\n12%\n10%\n14%\n5%\n2%\n2%\nSampled households earned an average of TZS 73,425 per month, compared to TZS 39,836 during the\nbaseline. A 46% increase was noted in household income following the injection of the transfer. Male headed\nhouseholds had a relatively larger income (TZS 86,215) compared to female headed households (TZS 63,690).\nThe share of household income contributed by female members increased from 38% during the baseline to"
+    },
+    {
+      "page_number": 32,
+      "text": "Perceived Needs\nvarious areas as of a serious concern\ndeclined compared to the baseline.\nIncome, money or resources remains\nthe top priority among the unmet\nneeds for most of the households\n(74%), followed by food (68%), clothing\n(55%) and suitable shelter (49%).\nPerceived needs follow a similar trend\ncompared to the baseline and between\nmale and female headed households.\nNo statistically significant difference in\nperceived needs was noted between\nmale and female headed households.\nAbout 15.3% of the households\nreported facing physical or sexual\nviolence, which is almost the same as\n15.6% recorded during the baseline.\nMarch 2023 Page  32\nPerceived needs is a perception-based indicator used to understand and analyze how a population perceives and prioritizes unmet needs. The indicator measures whether households believe that they have a “serious problem” with respect to a variety of needs. Perceived needs are understood as needs that are felt or expressed by people themselves and indicate gaps that they are experiencing. The indicator is based on the Humanitarian Emergency Settings Perceived Needs Scale (HESPER) and primarily highlights unmet needs. The percentage of households citing\nFigure 27: Perceived Needs (Areas of Serious Concern)\nIncome, money or resourcesto live\n92%\n74%\n88%\nFood\n68%\nCothes, shoes, bedding orblankets\n77%\n55%\n64%\nSuitable shelter\n49%\n65%\nAccess to a clean toilet\n46%\nSafe water for drinking orcooking\n58%\n40%\n41%\nPhysical health\n34%\n42%\nCare for family members\n29%\n40%\nInadequate aid\n27%\n34%\nAccess to education\n25%\nNov-21Dec-22"
+    },
+    {
+      "page_number": 33,
+      "text": "Before, I was really struggling to provide for\nmy children. Now, they have uniforms for\nschool, they have books and supplies, and\nthey have food to eat every day. It makes\nme very happy to see them doing well. I am\nvery grateful for what TASAF has done for\nme and my family, it has given us hope and\na chance to build a better life.\nBefore, I was really struggling to provide for\nmy children. Now, they have uniforms for\nschool, they have books and supplies, and\nthhfd ttdItk\nNamboto Hassan Makame\nPSSN II Beneficiary - Mtwara\nVulnerability Classification and Profiling\nENA combines ECMEN, livelihood\ncoping and food consumption\nscores to classify the households\ninto different vulnerability tiers,\nranging from not vulnerable, to\nmoderately vulnerable and highly\nvulnerable. For example, a\nhousehold which is above MEB,\ndoes not adopt emergency or crisis\ncoping and has acceptable food\nconsumption is classified as not\nvulnerable. Similarly, a household\nvulnerable.\nMarch 2023 Page  33\nwhich is below SMEB or between SMEB and MEB but relies on emergency coping is considered highly"
+    },
+    {
+      "page_number": 34,
+      "text": "are highly vulnerable (47%). The results indicate a general improvement across the PAAs.\nNov-21\n5.9%\n31.1%\nTemekeMCKasulu TCMtwaraMCMagharibiTotal\nDec-22\n14.0%\n38.8%\nNov-21\n7.5%\n18.6%\nDec-22\n18.9%\n22.6%\nNov-21\n6.4%\n20.9%\nDec-22\n14.1%\n24.4%\nNov-21\n4.6%\n18.1%\nDec-22\n14.4%\n27.9%\nNov-21\n6.2%\n21.8%\nDec-22\n15.5%\n27.9%\nhousehold composition, livelihood source, and economic capacity.\nHousehold Head\nCharacteristics\nHousehold Composition\nEconomic\nCapacity\nMarch 2023 Page  34\nAn estimated 57% of the households were identified as highly vulnerable, compared to 72% during the\nbaseline. There were more households in Mtwara MC that were highly vulnerable (61.6%) followed by\nMagharibi (57.6%) and Kasulu TC (58.5%). Temeke MC recorded the lowest percentage of households that\nFigure 28: Households by Vulnerability Tiers\n63.0%\n47.2%\n73.9%\n58.5%\n72.7%\n61.6%\n77.3%\n57.6%\n72.0%\n56.6%\nNot vulnerableModerately vulnerableHighly vulnerable\nHousehold profiling identifies characteristics of the households that fall into each vulnerability tier. Profiling\nassociates the households with specific socioeconomic and demographic characteristics that are more\ncommon among vulnerable households. Vulnerable households were profiled to understand how many are\nunable to meet their essential needs, where they are located and characteristics such as demographics,\nTable 5: Summary - Characteristics of Vulnerability Categories\nNot vulnerable Moderately vulnerable Highly vulnerable\nFemale headed households 6.5% 16.3% 77.2%\nMale headed households 6.7% 12.2% 81.1%\nYouth headed households 6.8% 6.8% 86.3%\nAdult head of household 4.4% 10.8% 84.8%\nElderly headed household 3.3% 16.0% 80.7%\nHousehold size (mean) 4.4 5.1 6.4\nHousehold with 1+ children under 2 years 2.1% 12.4% 85.5%\nHousehold with 1+ children under 5 years 3.7% 11.4% 84.9%\nHousehold with 1+ elderly member 6.5% 16.4% 77.1%\nHousehold with 1+ member with disability 6.8% 13.0% 80.1%\nHousehold with 1+ chronically ill member 5.1% 15.3% 79.6%\nSingle elderly living alone 16.7% 29.2% 54.2%\nHousehold with more than one elderly living alone 14.3% 28.6% 57.1%\nHousehold who did not receive remittance 6.4% 13.7% 79.8%\nHousehold without savings 5.5% 15.3% 79.2%\nHousehold without an income source 3.8% 9.0% 87.2%"
+    },
+    {
+      "page_number": 35,
+      "text": "to the baseline. A remarkable reduction is observed in the elderly category.\nCharacteristic Household Group\nHousehold Head\nCharacteristics\nHousehold Composition\nEconomic Capacity\nHousehold without an income source 93.7% 87.2%\nBefore, we would avoid going to the hospital\nbecause we couldn't afford the costs, but\nnow we can go to the hospital when we fall\nsick and not worry about the bills. We are\ngrateful for this support. We are planning to\nsell some of the chickens to get some money,\nwe want to invest in our farm and plant more\ncrops so that we can have enough food for\nourselves and maybe sell the surplus to the\nmarket.\nBefore, we would avoid going to the hospital\nbld 'tffd thtb t\nHassan Nasri Ali\nPSSN II Beneficiary - Mtwara\nMarch 2023 Page  35\nComparing the highly vulnerable groups between the baseline and the endline, the percentage of households\nin the vulnerable groups went down across various household characteristics during the endline compared\nTable 6: Highly Vulnerable Groups Compared\nHighly Vulnerable\nNovember 2021 December 2022\nFemale headed households 96.2% 77.2%\nMale headed households 93.1% 81.1%\nYouth headed households 97.5% 86.3%\nAdult head of household 95.6% 84.8%\nElderly headed household 93.2% 80.7%\nHousehold size (mean) 6.3 6.4\nHousehold with 1+ children under 2 years 95.6% 85.5%\nHousehold with 1+ children under 5 years 96.6% 84.9%\nHousehold with 1+ elderly member 94.0% 77.1%\nHousehold with 1+ member with disability 95.1% 80.1%\nHousehold with 1+ chronically ill member 94.2% 79.6%\nSingle elderly living alone 88.9% 54.2%\nHousehold with more than one elderly living alone 92.6% 57.1%\nHousehold who did not receive remittance 95.0% 79.8%\nHousehold without savings 95.3% 79.2%"
+    },
+    {
+      "page_number": 36,
+      "text": "Access to Cash Transfer\nFigure 29: Registered as Household\nRepresentative\nFemale\n95%95%94%94%95%\nMale\n5%5%6%6%5%\nTemekeMCKasulu TCMtwaraMCMagharibiTotal\nFigure 31: Method for Receiving Cash\n4%7%\n9%\n10%1%\n5%38%\nBank\n18%\nOver thecountter\n66%\n9%\n1%\n90%93%\nMobile money\n51%69%\nCash\n30%\nTemekeMCKasulu TC MtwaraMCMagharibiTotal\nDecision making at the household level\nthe best choice for the entire household.\nMarch 2023 Page  36\nFor most of the households, female members were registered as household representatives for cash transfers (95%), as per TASAF guidelines. Cash transfers were also primarily received by female members from the redemption point (94%).\nFigure 30: Received Cash Transfer\nFemale\n94%95%92%95%94%\nMale\n6%5%8%5%6%\nTemekeMCKasulu TC MtwaraMCMagharibiTotal\n•FGD participants on Mtwara indicated that they have registered with CRDB bank but they have not started receiving their retransfer through bank. •Some FGD members thought it was costly to travel to the bank to collect cash.\n“We were deducted TZ 5,000 to open bank accounts during the first payment, we have never used the bank accounts”\n“I receive 34,000 shillings, if I deduct fare to the bank how much will I remain with?”\nAlthough TASAF advocates for e-payment, most of the beneficiaries in Mtwara MC (93%) and Kasulu TC (90%) received their entitlement in cash due to concerns for e-payment associated charges (levy) and travel costs. Some households do not have national IDs to complete registration. Some beneficiaries were not aware that the cash transfer received through e-payment already covers associated costs. The number of households using banks and electronic transfers have increased compared to July 2022 when Post-Distribution Monitoring was conducted.\nDecision making on use of household resources not related to TASAF entitlement were either done by\nfemales (61%) or jointly by both males and females (34%). Decision making on the use of the TASAF transfer,\nincluding when, where and what to buy with the TASAF cash transfer was also mostly done by females (61%)\nor jointly by males and females (35%). Almost all households (99%) were satisfied with the decision made as"
+    },
+    {
+      "page_number": 37,
+      "text": "Constrains in Accessing Cash Transfer\nDuring the interviews, households were\nasked if they faced constraints in accessing\nand using the cash transfer. More than 21%\nof the households indicated long distance\nto cash out point as the major constraint in\naccessing cash, especially households in\nKasulu TC (27%) and Mtwara MC (25%)\nwhere the transfer was largely received in\ncash from the ward office. Households\nspent an average of 28 minutes to walk to\nthe cash redemption point and 2 hours 17\nminutes to wait to receive the cash.\nHouseholds in Kasulu TC and Mtwara MC,\nwhere the transfer is mostly received as\ncash rather than electronic transfer, spent\ntwo hours more to receive cash, as\ncompared to Temeke and Magharibi.\nTable 7: Time Spent Receiving Cash\nProject Area Authority (PAA)\nTime to travel to\nTime to wait at the distribution\nthe cash distribution site\nsite to get cash\n(Min)\n(Hrs)\nTemeke MC 13 1.1\nKasulu TC 35 3.2\nMtwara MC 26 3.1\nMagharibi 36 1.4\nAverage (All) 28 2.3\nHouseholds cited various constraints while at the\nTASAF cash out point, the major issue being long\nwaiting times (25%). This was more of an issue in\nthe PAAs receiving their transfer in cash from the\nWard offices, Mtwara MC (34%) and Kasulu TC\n(31%). FGD participants indicated that they arrive\nin the morning to attend the awareness session\nand remain waiting for their turn to receive cash.\nMarch 2023 Page  37\nFigure 32: Constrain accessing TASAF Cash Out Point\n7.5%\n26.8%\nLong distance to cashdistribution/redemption point\n25.4%\n22.8%\n21.3%\n13.8%\n15.0%\nDistance to market too far\n19.3%\n21.3%\n17.4%\n9.1%\n14.3%\nInappropriate distribution time\n20.1%\n8.0%\n13.2%\n3.8%\n3.7%\nGeographical obstacles\n3.3%\n4.4%\n3.8%\n3.4%\n2.0%\nCost of transport too expensive\n5.1%\n5.0%\n3.8%\nTemeke MCKasulu TCMtwara MCMagharibiTotal\n•FGD participants indicated that they walk long distance to the Ward office to collect cash, and think they should be receiving it from their respective mtaa (street) offices.\n“We have eight mitaa (streets) and we all receive cash from\nthe ward office. There is no proper system for calling names.\nWe better receive our money from the mtaa office.”\nFigure 33: Constrain at TASAF cash out point\n17.6%\n30.7%\nLong waiting time\n33.8%\n14.5%\n24.9%\n5.6%\n6.6%\nInappropriate conditions\n6.3%\n6.5%\n6.3%\n4.1%\n5.4%\nIll treatment by TASAF staff\n2.5%\n3.0%\n3.8%\n2.8%\n4.2%\nLack of facilities forvulnerable population\n7.1%\n0.3%\n3.8%\n3.4%\n2.9%\nIll treatment by mobilemoney agent\n1.3%\n2.7%\n2.5%\nTemeke MCKasulu TCMtwara MC"
+    },
+    {
+      "page_number": 38,
+      "text": "Figure 34: Issues with the Cash Transfer\n9%\n6%\nAmount of cash insufficient\n13%\n11%\n10%\n4%\n9%\nReduced purchasing powerfollowing increasing prices\n2%\n10%\n6%\n2%\n3%\nWhat was received does notcorrespond to entitlement\n1%\n2%\n2%\n2%\n1%\nOther (specify)\n2%\n1%\n1%\nTemeke MCKasulu TCMtwara MCMagharibiTotal\nCommunity Engagement and Community Feedback Mechanism/Grievance\nRedress Mechanism.\nFigure 35: Households aware on the\nentitlement amount\n75%87%56%70%72%\nTemekeMCKasulu TCMtwaraMCMagharibiTotal\nMarch 2023 Page  38\nThe major issues related to cash transfers\ninclude insufficient amount (10%) and\nreduced purchasing power following\nincreasing food prices (6%). 2% indicated that\nwhat they received did not correspond to the\nentitlement. There were more households in\nMtwara indicating that the transfer value was\ninsufficient (13%) compared to the other PAAs.\nOn average, households in Mtwara received\nthe lowest cash transfer (TZS 28,623)\ncompared to the other PAAs. Mtwara was also\nmore affected by high food prices compared\nto the other PAAs.\nAbout 72% of the households were aware on entitlement amount they are supposed to receive while 68%\nwere aware of the transfer windows. There is generally lower awareness on the entitlement amount and\npayment windows among the PAAs that received the transfer later (Mtwara MC and Magharibi). There is also\nlow awareness among the beneficiaries on the Community Feedback Mechanism/Grievance Redress\nMechanism, especially in Mtwara MC. Only a quarter of the sampled households indicated that they were\naware on how to contact TASAF and raise concerns. FGD respondents indicated that when they have issues\nor concerns, they would channel them through the village authorities. Awareness on entitlement, payment\nwindows and availability and use of feedback mechanism was highest in Kasulu TC and lowest in Mtwara MC.\nFigure 36: Households aware on the\npayment windows\n70%72%62%67%68%\nTemekeMCKasulu TCMtwaraMCMagharibiTotal"
+    },
+    {
+      "page_number": 39,
+      "text": "Figure 37: Household informed about the\nCommunity Feedback Mechanism\n37%48%31%35%38%\nTemekeMCKasulu TCMtwaraMCMagharibiTotal\nUse and Benefits of Cash Transfer\nthe FGD (e.g. drinking), thus affecting the amount of cash available to meet essential needs.\nFigure 39: Benefits of Cash Transfer\nImproved food consumption\n67.1%\nReduced financial burden\n47.8%\nReduced number of days withoutfood\n44.7%\nBought items for the house\n28.9%\nReduced household borrowing\n37.3%\nImproved fooddiversification/choices\n32.9%\nOther (specify)\n7.1%\nNo benefit\n0.9%\nMarch 2023 Page  39\nFigure 38: Households aware on how to\ncontact TASAF/raise concerns\n23%43%10%23%25%\nTemekeMCKasulu TCMtwaraMCMagharibiTotal\nGenerally, beneficiaries appreciated the transfer, as it has enabled them to meet essential needs, including\nfood, NFIs, education, health and shelter. More than two thirds (67.1%) of the households indicated that the\ntransfer enabled them to improve their food consumption while about 45% said it reduced the number of\ndays they would go without food. About 48% of the households said the transfer reduced their financial\nburden. Some FGD participants indicated that they purchased land and started preparations for house\nconstruction while some used the transfer to repair their houses. In addition, some households invested in\nlivestock and small businesses. Inappropriate use of cash transfer was reported in few households during\n•FGD participants confirmed that they were able to improve their food consumption and meet other essential needs. •FGD participant noted that some have invested in petty trade and purchased livestock. •Some FGD participants indicated that they bought land and started preparations for house construction/repair.\n“Before the project, I was not able to buy food for my\nfamily and could not afford school necessities for the\nstudents”.\n“Through TASAF funds I have managed to buy two\ngoats. I expect to buy two more during the next\nround“."
+    },
+    {
+      "page_number": 40,
+      "text": "Transfer Amount\n31,603 per household per month.\nType of Transfer Target Amount\nBasic Transfer Households identified as being poor and vulnerable and registered in the system.\nBasic Transfer Children 5,000 Having children below 18 years\nBasic Transfer Children 5,000 0-5 years, attending clinic 5,000\nBasic Transfer Disability 5,000 People with disability 5,000\nVariable Conditional Transfer Primary school (Grade 1-4) 2,000 Attending primary school\n12,000 Variable Conditional Transfer Primary school (Grade 5-7) 4,000 Attending primary school\nVariable Conditional Transfer Secondary school (Form 1-4) 6,000 Attending secondary school\n16,000 Variable Conditional Transfer Secondary school (Form 5-6) 8,000 Attending secondary school\nNominal Retail Prices of White Maize Flour\nSalaam, 56% in Kigoma and 76% in Mtwara.\nFigure 40: Maize Flour Retail Price - Dar es Salaam\n2,000\n1,500\n1,000\n500\n20212022\nMarch 2023 Page  40\nThe TASAF transfer value is divided into basic transfer and variable conditional transfer. All households\nidentified as poor using TASAF selection criteria and registered in the system are entitled TZS 12,000 per\nmonth. This amount increases by TZS 5,000 as the household meets other criteria, including having children\nbelow 18 years, people with disability and children below five years attending clinics. Variable conditional\ntransfer applies to households with children in school from a maximum of TZS 12,000 for primary school\nchildren and TZS 16,000 for secondary school children. Thus, a household can receive between a minimum\nof TZS 12,000 per month to a maximum of TZS 55,000 based on household criteria. Analysis of the amount\nthat sampled households received was based on six months recall period, translating to an average of TZS\nTable 8: Summary – TASAF Transfer Amount and Eligibility Criteria\nEligibility Maximum\nAmount\n(TZS)\n(TZS)\n12,000 Households identified as being poor and vulnerable and registered in the system.\n12,000\n5,000\nPrices of different food items in the market have been on increase, thus affecting the purchasing power and\nthe ability of the households to meet their essential needs. Poor urban populations who are market\ndependent tend to be more affected by high food prices. The real retail price for a kilo of maize flour, which\nis the main staple among many households for example, has increased by 39% in Zanzibar, 42% in Dar es\nFigure 41: Maize Flour Retail Price - Mtwara\n2,000\n1,500\n1,000\n500\n20212022"
+    },
+    {
+      "page_number": 41,
+      "text": "Figure 42: Maize Flour Retail Price - Kigoma\n2,000\n1,500\n1,000\n500\n20212022\nShare of the MEB covered by the transfer value\ncover between 58% to 64% of the MEB.\nNominal (Nov. 2021)\nReal Baseline\n(Nov. 2021)\nDar es Salaam 49,320 33,748 47,602 32,573 30,243 64% 61%\nKigoma 49,320 33,748 47,602 32,573 29,395 62% 60%\nMtwara 49,320 33,748 47,602 32,573 28,623 60% 58%\nZanzibar 66,313 47,541 64,003 45,885 39,000 61% 59%\nMarch 2023 Page  41\nFigure 43: Maize Flour Retail Price - Zanzibar\n2,000\n1,500\n1,000\n500\n20212022\nTo understand how increasing food prices are affecting the capacity of households to meet essential needs,\nthe MEB was analyzed against inflation. The average transfer amount received from TASAF was found to\nTable 9: Transfer Value Compares to MEB and SMEB\nAverage Transfer\nValue Share of the MEB\nPAA MEB SMEB MEB SMEB Dec. 2022 Before Inflation After Inflation"
+    },
+    {
+      "page_number": 42,
+      "text": "V. Conclusion\nneeds over time.\nhealth crises could be further explored.\nMarch 2023 Page  42\nAccess to food is the primary household concern in terms of essential needs. Food is frequently the priority\nitem for expenditures when cash transfers are received, the main reason for engaging livelihood coping\nstrategies and the most common purpose for borrowing. Opportunities need to be explored for using PSSN\nto improve awareness of beneficiary households on the importance of a diversified and nutritious diet.\nLending from banks and other formal financial institutions is not the preferred option for credit for many of\nthe poorest households, especially those in the peri-urban areas. Opportunities to leverage PSSN for digital\nfinancial inclusion, including access to credit and savings, may serve to improve household access to essential\nDespite significant improvements in relevant indicators following one year of cash transfers, about 57% of\nthe households remain highly vulnerable to food insecurity and are unable to meet their essential needs. The\nimplications for estimation of transfer values in the context of rising food prices need to be investigated. In\naddition, the role that social assistance could play in responding to shocks, including natural disasters and"
+    },
+    {
+      "page_number": 43,
+      "text": "Acronyms\nCCT Conditional Cash Transfer\nCOVID Coronavirus Disease\nECMEN Economic Capacity to Meet Essential Needs\nENA Essential Needs Assessment\nFCS Food Consumption Score\nFCS-N Food Consumption Store - Nutrition\nFGD Focus Group Discussion\nGDP Gross Domestic Product\nHDDS Household Dietary Diversity Score\nHESPER Humanitarian Emergency Settings Perceived Needs Scale\nILO International Labour Organization\nLCS Livelihood Coping Strategies\nMC Municipal Council\nMDDI Multidimensional Deprivation Index\nMPI Multidimensional Poverty Index\nMEB Minimum Expenditure Basket\nPAA Project Area Authority\nPSSN Productive Social Safety Net\nPW Public Works\nrCSI Reduced Coping Strategy Index\nSMEB Survival Minim Expenditure Basket\nTASAF Tanzania Social Action Fund\nTC Town Council\nTZS Tanzanian Shilling\nWASH Water, Sanitation and Hygiene\nWFP World Food Programme\nMarch 2023 Page  43"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "assessment.",
+      "text": "March 2023 Page  2",
+      "pages": [
+        2
+      ]
+    },
+    {
+      "heading": "Acronyms 43",
+      "text": "March 2023 Page  3",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "heading": "List of Tables",
+      "text": "March 2023 Page  4",
+      "pages": [
+        4
+      ]
+    },
+    {
+      "heading": "List of Figures",
+      "text": "March 2023 Page  5",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "heading": "Figure 39: Benefits of Cash Transfer ....................................................................................................... 39",
+      "text": "March 2023 Page  6",
+      "pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "heading": "Executive Summary",
+      "text": "March 2023 Page  7",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "heading": "A 46% increase was observed in household income following the provision of the transfer. Reliance on borrowing as a source of income decreased from 8% to 0%. There was also an increase in the percentage of households with access to credit from 23% to 32%. Household borrowing to purchase agricultural land, inputs and livestock increased, demonstrating that some households were investing in improved livelihoods and economic opportunity. About 48% of the households said the transfer reduced their financial burden.",
+      "text": "March 2023 Page  8",
+      "pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "heading": "1 Tanzania Demographic and Health and Malaria Survey Indicator 2022",
+      "text": "March 2023 Page  9\nWhy Tanzania? Despite solid economic growth over the last decade, about a fourth of Tanzania’s population remains poor and highly vulnerable. While economic growth in the country averaged 6.7 percent per year between 2007 and 2017, progress in reducing poverty has been substantially slower. The national poverty rate is estimated to have declined marginally to 27.0 percent in 2021, supported by the recovery of employment and nonfarm business revenue (World Bank, 2021). The pandemic-induced economic shock pushed the national poverty rate from 26.1 percent in 2019 to 27.1 percent in 2020, while the poverty rate measured at the international extreme poverty line rose from 49.3 percent to 50.4 percent. Households relying on self-employment or informal microenterprises in urban areas were the most affected by the economic slowdown. In 2020, the urban poverty rate rose to 21.1 percent, up 5.5 percentage points from its 2019 level. However, by 2021 non-farm household income had begun showing signs of improvement. The Tanzanian economy has continued its steady recovery from the COVID crisis, with the GDP growth rate increasing from 2.0 percent in 2020 to 4.3 percent in 2021. Industry and construction led a broad-based acceleration in economic activity, contributing an average of 2.6 percentage points to GDP growth. However, the agriculture sector contributed less than 1 percentage point to growth, largely due to more-frequent floods and prolonged droughts related to climate change. Inadequate rainfall continued to weaken agricultural output. Poor and vulnerable households also exhibit inadequate levels of human capital development. More than 30 percent of children under five are stunted, which means that close to a third of children will likely have lower capacity to learn and be productive as adults. Furthermore, despite relatively higher levels of primary school completion, less than half of children enter secondary education. According to the last demographic household survey1,53% of children aged 24–59 months living with their biological mother are not on-track in health, learning, and psychosocial well-being. All these factors increase household probability of being poor, perpetuating the intergenerational transmission of poverty.",
+      "pages": [
+        9
+      ]
+    },
+    {
+      "heading": "Figure 1: Map of Targeted Project Area Authorities (PAAs)",
+      "text": "March 2023 Page  10",
+      "pages": [
+        10
+      ]
+    },
+    {
+      "heading": "3 WFP Strategy for Social protection, July 2021",
+      "text": "March 2023 Page  11",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "heading": "With respect to food security and nutrition, social protection has the potential to make a positive impact through a range of entry points (see above)3. Food security has four constituent elements: food availability, access, utilization and stability over time. Addressing any or all of these will enhance food security outcomes. If the food that is produced and accessed is nutritious, and if people are in good health to make effective use of the nutrients, then nutrition outcomes will also be improved. Some of these aspects can be addressed through interventions at a household level, while others— especially those related to effective utilization —require closer attention to the needs of individuals.",
+      "text": "March 2023 Page  12",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "heading": "stories to provide a qualitative perspective on the benefits of social assistance at the household level.",
+      "text": "March 2023 Page  13",
+      "pages": [
+        13
+      ]
+    },
+    {
+      "heading": "4 WFP, Essential Needs Assessment guidance, December 2020",
+      "text": "March 2023 Page  14",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "heading": "5 Mtaa is an administrative division level 4 in the urban area, like a village in the rural area.",
+      "text": "March 2023 Page  15",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "heading": "Data Analysis",
+      "text": "March 2023 Page  16",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "heading": "influence some of their responses.",
+      "text": "March 2023 Page  17",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "heading": "households have acceptable",
+      "text": "73%69%58%",
+      "pages": [
+        18
+      ]
+    },
+    {
+      "heading": "consumption was noted in all",
+      "text": "17%24%",
+      "pages": [
+        18
+      ]
+    },
+    {
+      "heading": "6 The seven food groups considered are: (1) Cereals, roots, and tubers; (2) Pulses and legumes; (3) Dairy products; (4) Meats, fish and eggs; (5) Oils and fats; (6) Fruits; and (7) Vegetables. 7 Poor food consumption = FCS 0 to 21, Borderline food consumption = FCS 21.5 to 35, Acceptable food consumption = FCS > 35.",
+      "text": "March 2023 Page  18",
+      "pages": [
+        18
+      ]
+    },
+    {
+      "heading": "Figure 2: Age of Head of Household",
+      "text": "11%\nYouth headedhousehold\n41%\nAdult head ofhousehold\nElderly headedhousehold\n48%",
+      "pages": [
+        18
+      ]
+    },
+    {
+      "heading": "Figure 3: Food Consumption Group",
+      "text": "55%58%68%70%63%69%\n80%\n32%32%18%22%25%25%\n29%\n20%\n9%7%13%13%10%14%8%12%6%\nNov-21Dec-22Nov-21Dec-22Nov-21Dec-22Nov-21Dec-22Nov-21Dec-22\nTemeke MCKasulu TCMtwara MCMagharibiAll\nPoor ConsumptionBorderline ConsumptionAcceptable Consumption",
+      "pages": [
+        18
+      ]
+    },
+    {
+      "heading": "to 66% for female headed households.",
+      "text": "Starch\nProteins\nPulses\nVegetables\nOil\nFruit\nSugar\nDec-220.00.00.10.0Dairy\nMarch 2023 Page  19\n•FGD participants indicated that they have improved the number of meals and are assured of food access, even for the type of food they would barely consume in the past, such as fish, sugar and cooking oil.\n“Now we can even afford to buy fish once in a while”\nFGD Participant, Kilimahewa, Mtwara",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "heading": "Average number of days households consumed food groups in the last 7 days, broken down by Food Consumption Score Group",
+      "text": "PoorBorderlineAcceptableAll Groups\nNov-214.66.66.96.4\nDec-223.86.46.86.5\nNov-210.20.83.22.0\nDec-220.71.03.52.7\nNov-210.51.53.22.3\nDec-220.30.72.31.8\nNov-213.13.15.85.2\nDec-222.75.66.56.0\nNov-210.60.63.82.8\nDec-220.92.44.83.9\nNov-210.20.22.51.9\nDec-220.83.04.13.6\nNov-210.50.52.51.8\nDec-221.11.52.92.5\nNov-210.00.00.10.0",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "heading": "Figure 2363: Sources of Food - December",
+      "text": "2%2%1%Purchased\n4%\nOwn production\n13%\nGathering\nGifts fromfamily/friends\nOther\n78%\nGardening\nMarch 2023 Page  20",
+      "pages": [
+        20
+      ]
+    },
+    {
+      "heading": "2021",
+      "text": "1%Purchase\n7% 4%\nOwn production\n11%\nGift\n77%\nGathering\nBegging\nOwn production",
+      "pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "heading": "8 Reduce number of meals eaten in a day; rely on less preferred or less expensive food; limit portion size at mealtimes; borrow food; restrict consumption of adults in order for children to eat.",
+      "text": "March 2023 Page  21",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "heading": "Table 3: Sources of Food by Location",
+      "text": "Gardening Gathering Purchased Gifts from family/friends\nOther (specify)\nTemeke MC 1% 0% 1% 94% 1% 2%\nKasulu TC 31% 1% 5% 62% 1% 1%\nMtwara MC 14% 2% 7% 72% 3% 2%\nMagharibi 2% 1% 1% 91% 3% 3%\nTotal 13% 1% 4% 78% 2% 2%",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "heading": "Figure 3079: reduced Coping Strategy Index",
+      "text": "22\n20\n19.1\n18\n16\n14.7\n14\n12\n10\nJan-21Jan-22\nTemeke MCKasulu TCMtwara MC\nMagharibiTotal",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "heading": "Ci",
+      "text": "48%45%47%44%46%40%21%27%42%32%\nTemeke MC Kasulu TC Mtwara MC MagharibiTotal\nNov-21Dec-22",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "heading": "PSSN II Beneficiary - Temeke, Dar es Salaam",
+      "text": "March 2023 Page  22",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "heading": "At least Once a Week",
+      "text": "84%\nRely on less expensive food\n77%\n85%\nReduce number of meals\n72%\n80%\nLimit portion size\n71%\nRestrict consumption to feedchildren\n63%\n51%\n60%\nBorrow food\n50%\nNov-21Dec-22",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "heading": "There were more households adopting crisis and emergency coping in Temeke MC (36%), followed by Magharibi (34%), indicating higher coping among the more urban locations compared to the urban and peri-urban areas (25% in Mtwara MC and 23% in Kasulu TC). There are more female headed households adopting crisis and above coping (32%) compared to the male (26%), indicating lower economic capacity among the female headed households and subjecting them to long-term effect on their capacity to generate an income and sustain livelihoods.",
+      "text": "March 2023 Page  23",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "heading": "emergency livelihood coping",
+      "text": "53%\nTemeke MC\n36%\n42%\nKasulu TC\n23%\n46%\nMtwara MC\n25%\n63%\nMagharibi\n34%\n50%\nTotal\n29%\nNov-21Dec-22",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "heading": "The proportion of households applying each of the livelihood coping strategies went down compared to the baseline. Households mostly applied stress coping as opposed to crisis and emergency coping. The most",
+      "text": "Borrowed money\nSpent savings\nPurchased food or other essentialitems on credit\nSold productive assets or means oftransport\nSold household assets",
+      "pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "heading": "Households that applied livelihood coping did so mainly to meet food needs (85%) followed by health expenses (22%) and education fees and costs (17%). The percentage of households adopting coping strategies to buy food remained unchanged (85%) compared to the baseline. However, the percentage of households citing other reasons decreased. A substantial decrease was also noted in the percentage of households that applied coping to access water and sanitation facility (from 12% to 6%) and households that applied coping to pay existing debts (from 10% to 4%).",
+      "text": "March 2023 Page  24",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "heading": "Figure 11: Livelihood Coping Strategies Applied",
+      "text": "9%43%14%44%4%26%12%21%6%7%5%38%24%37%2%15%3%9%0%5%\nChildren (under 15 years old) workedto contribute to household income(e.g. maid, casual labour)\nWithdrew children from school\nA household member migratedinformally\nBegged and/or scavenged (askedstrangers for money/food)\nReduced expenses on health(including drugs) or education\nSTRESSCRISISEMERGENCY\nNov-21Dec-22",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "heading": "Figure 12: Reasons for adopting the Coping Strategies",
+      "text": "85%\nTo buy food\n85%\n30%\nTo cover health expenses\n22%\nTo pay for school fees and othereducation costs\n18%\n17%\nTo buy essential non-food items(clothes, small furniture...)\n14%\n13%\n13%\nOther\n13%\n12%\nTo access water or sanitation facilities\n6%\nTo pay for rent or access adequateshelter\n6%\n5%\n10%\nTo pay for existing debts\n4%\nNov. 2021Dec. 2022\nTo access essential dwelling services (electricity, energy, waste disposal…)\n5%\n3%",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "heading": "Figure 13: Households without economic capacity to meet essential needs",
+      "text": "90%100%96%98%96%77%95%89%93%89%\nTemeke MCKasulu TCMtwara MCMagharibiTotal\nNov-21Dec-22",
+      "pages": [
+        25
+      ]
+    },
+    {
+      "heading": "Expenditures were used to identify the gap between households’ economic capacity and the amount needed to fulfil their essential needs. The ‘expenditure gap’ indicates how far household expenditure is above or below the MEB. For households with expenditures below the MEB, the median expenditure gap is 0.59, or 59 percent of the total MEB. On the other hand, for households with expenditures above the MEB, median expenditure is 1.7 times the MEB. Households below MEB in Kasulu TC had the largest gap (0.56) followed by Magharibi (0.53), Mtwara MC (0.44) and Temeke MC (0.22). There is no statistically significant difference between male and female expenditure gaps.",
+      "text": "March 2023 Page  25",
+      "pages": [
+        25
+      ]
+    },
+    {
+      "heading": "MEB SMEB",
+      "text": "Zanzibar 66,313 47,541",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "heading": "Access to Credit",
+      "text": "21%30%12%28%23%38%42%15%33%32%\nTemeke MCKasulu TCMtwara MCMagharibiTotal\nMarch 2023 Page  26",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "heading": "Figure 14: Households with Access to Credit",
+      "text": "Nov-21Dec-22",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "heading": "Figure 15: Source of Borrowing - Dec. 2022",
+      "text": "Relatives\nTraders/shopkeepers\n3%2%2%0%0%5%\nInformal savings group\n13%\n45%\nMoney lender\nBank/ Credit institution/Micro-credit projectCooperative\n29%\nRelatives (living outside thecountry)Employer\nOther",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "heading": "Figure 17: Reason for Taking Loan - Dec. 2022",
+      "text": "To buy food\n5%4%1%4%\nTo cover health expenses\n7%\nTo buy agricultural land,inputs or livestockTo pay school, educationcostsTo invest in business\n9%\n54%\n16%\nTo buy non-food items(clothes, small furniture...)To pay for ceremonies/socialeventsOther (Please specify.)\nMarch 2023 Page  27",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "heading": "Figure 16: Source of Borrowing - Nov. 2021",
+      "text": "Relatives\nTraders/shopkeepers\n5%4%3%2%1%1%0%\nInformal savings group\n8%\nOther\n50%\nMoney lender\nBank/ Credit institution/Micro-credit projectCooperative\n29%\nLandlord (more than 1 monthbehind in rent)Humanitarian agencies",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "heading": "Figure 18: Reason for Taking Loan – Nov. 2021",
+      "text": "To buy food\n4%3%3%2%1%1%\nTo cover health expenses\n6%\nTo pay school, educationcostsTo invest in business\n54%\nOther\n25%\nTo buy agricultural land,inputs or livestockTo buy non-food items(clothes, small furniture...)To pay for ceremonies/socialeventsTo rent/buy a flat/house",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "heading": "(MDDI) Score by Sector (Intensity)",
+      "text": "Nov-21\n0.35\nSafetyShelterFoodHealthEducationWASH\nDec-22\n0.39\nNov-21\n0.42\nDec-22\n0.37\nNov-21\n0.45\nDec-22\n0.31\nNov-21\n0.36\nDec-22\n0.26\nNov-21\n0.18\nDec-22\n0.08\nNov-21\n0.05\nDec-22\n0.02\nMarch 2023 Page  28",
+      "pages": [
+        28
+      ]
+    },
+    {
+      "heading": "(Incidence)",
+      "text": "47%33%30%33%35%29%4%23%21%19%\nTemeke MCKasulu TCMtwara MCMagharibiTotal\nNov-21Dec-22",
+      "pages": [
+        28
+      ]
+    },
+    {
+      "heading": "deprived by dimension",
+      "text": "Food\nSafety\nHealth\nWASH\nEducation\nShelter",
+      "pages": [
+        29
+      ]
+    },
+    {
+      "heading": "deprived by dimension",
+      "text": "Food\nSafety\nHealth\nWASH\nEducation\nShelter",
+      "pages": [
+        29
+      ]
+    },
+    {
+      "heading": "(especially in Mtwara), misunderstanding in the household and threats.",
+      "text": "March 2023 Page  29",
+      "pages": [
+        29
+      ]
+    },
+    {
+      "heading": "deprived by indicator",
+      "text": "Food_FCS\n100%\nSafety_Displaced\nFood_rCSI\n80%\nSafety_Violence\n60%\nEducation\n40%\n20%\nHealth_Treatment\nWASH_Water\n0%\nWASH_Toilet\nHealth_Illness\nShelter_Crowding\nShelter_CookingShelter_Electricity",
+      "pages": [
+        29
+      ]
+    },
+    {
+      "heading": "deprived by indicator",
+      "text": "Food_FCS\nSafety_Displaced\n100%\nFood_rCSI\n80%\nSafety_Violence\n60%\nEducation\n40%\n20%\nHealth_Treatment\nWASH_Water\n0%\nWASH_Toilet\nHealth_Illness\nShelter_Crowding\nShelter_CookingShelter_Electricity",
+      "pages": [
+        29
+      ]
+    },
+    {
+      "heading": "Figure 25: Source of Income - November 2021",
+      "text": "Temeke MC\n5%\n19%\n23%\nKasulu TC\n48%\nMtwara MC\n27%\n16%\nMagharibi\n5%\n24%\nTotal\n24%\n22%\nMarch 2023 Page  30",
+      "pages": [
+        30
+      ]
+    },
+    {
+      "heading": "Close to a quarter of the sampled households derived their income from social assistance (23%), attributed to the TASAF cash transfer. This was followed by retail trade (17%), agriculture/livestock production (14%) and petty trade/selling on streets (12%). The percentage of households depending on petty trade reduced compared to 24% during the baseline, as households are moving away adopting more formalized trade. The percentage of households relying on agriculture production including livestock increased from 4% to 14% while reliance on borrowing and remittances reduced remarkably (8% to 0% and 13% to 2% respectively).",
+      "text": "21%\n2%\n4%\n7%\n9%\n6%\n4%\n1%\n28%\n5%\n1%\n14%\n2%\n6%\n19%\n12%\n8%\n6%\n5%\n1%\n28%\n15%\n1%\n5%\n6%\n5%\n4%\n6%\n14%\n13%\n8%\n5%\n4%\n4%\n3%\n2%\nPetty trade/selling on streetsRetail trade (own business)PensionRemittancesBorrowing money/Living off debtMedium/large agriculture/livestock productionOtherHousehold agriculture/livestock productionSaving/selling assetsWage Labor - Skilled",
+      "pages": [
+        30
+      ]
+    },
+    {
+      "heading": "Figure 26: Source of Income - December 2022",
+      "text": "Temeke MC\n21%\n30%\nKasulu TC\n19%\n5%\n32%\nMtwara MC\n31%\n13%\nMagharibi\n22%\n26%\nTotal\n23%\n17%\nSocial AssistanceRetail trade (own business)Household agriculture/livestock production (own land)Petty trade/selling on streetsWage Labor - Unskilled non-agricultureWage Labor - Unskilled agricultureOtherRemittancesWage Labor - Skilled",
+      "pages": [
+        31
+      ]
+    },
+    {
+      "heading": "PSSN II Beneficiary – Temeke, Dar es Salaam",
+      "text": "March 2023 Page  31\n1%\n23%\n10%\n1%\n8%\n3%\n1%\n3%\n2%\n31%\n6%\n1%\n1%\n16%\n10%\n10%\n17%\n1%\n2%\n0%\n2%\n16%\n20%\n1%\n5%\n3%\n5%\n14%\n12%\n10%\n14%\n5%\n2%\n2%",
+      "pages": [
+        31
+      ]
+    },
+    {
+      "heading": "15.6% recorded during the baseline.",
+      "text": "March 2023 Page  32",
+      "pages": [
+        32
+      ]
+    },
+    {
+      "heading": "Figure 27: Perceived Needs (Areas of Serious Concern)",
+      "text": "Income, money or resourcesto live\n92%\n74%\n88%\nFood\n68%\nCothes, shoes, bedding orblankets\n77%\n55%\n64%\nSuitable shelter\n49%\n65%\nAccess to a clean toilet\n46%\nSafe water for drinking orcooking\n58%\n40%\n41%\nPhysical health\n34%\n42%\nCare for family members\n29%\n40%\nInadequate aid\n27%\n34%\nAccess to education\n25%\nNov-21Dec-22",
+      "pages": [
+        32
+      ]
+    },
+    {
+      "heading": "vulnerable.",
+      "text": "March 2023 Page  33",
+      "pages": [
+        33
+      ]
+    },
+    {
+      "heading": "are highly vulnerable (47%). The results indicate a general improvement across the PAAs.",
+      "text": "Nov-21\n5.9%\n31.1%\nTemekeMCKasulu TCMtwaraMCMagharibiTotal\nDec-22\n14.0%\n38.8%\nNov-21\n7.5%\n18.6%\nDec-22\n18.9%\n22.6%\nNov-21\n6.4%\n20.9%\nDec-22\n14.1%\n24.4%\nNov-21\n4.6%\n18.1%\nDec-22\n14.4%\n27.9%\nNov-21\n6.2%\n21.8%\nDec-22\n15.5%\n27.9%",
+      "pages": [
+        34
+      ]
+    },
+    {
+      "heading": "household composition, livelihood source, and economic capacity.",
+      "text": "Household Head\nCharacteristics\nHousehold Composition\nEconomic\nCapacity\nMarch 2023 Page  34",
+      "pages": [
+        34
+      ]
+    },
+    {
+      "heading": "Figure 28: Households by Vulnerability Tiers",
+      "text": "63.0%\n47.2%\n73.9%\n58.5%\n72.7%\n61.6%\n77.3%\n57.6%\n72.0%\n56.6%\nNot vulnerableModerately vulnerableHighly vulnerable",
+      "pages": [
+        34
+      ]
+    },
+    {
+      "heading": "Table 5: Summary - Characteristics of Vulnerability Categories",
+      "text": "Not vulnerable Moderately vulnerable Highly vulnerable\nFemale headed households 6.5% 16.3% 77.2%\nMale headed households 6.7% 12.2% 81.1%\nYouth headed households 6.8% 6.8% 86.3%\nAdult head of household 4.4% 10.8% 84.8%\nElderly headed household 3.3% 16.0% 80.7%\nHousehold size (mean) 4.4 5.1 6.4\nHousehold with 1+ children under 2 years 2.1% 12.4% 85.5%\nHousehold with 1+ children under 5 years 3.7% 11.4% 84.9%\nHousehold with 1+ elderly member 6.5% 16.4% 77.1%\nHousehold with 1+ member with disability 6.8% 13.0% 80.1%\nHousehold with 1+ chronically ill member 5.1% 15.3% 79.6%\nSingle elderly living alone 16.7% 29.2% 54.2%\nHousehold with more than one elderly living alone 14.3% 28.6% 57.1%\nHousehold who did not receive remittance 6.4% 13.7% 79.8%\nHousehold without savings 5.5% 15.3% 79.2%",
+      "pages": [
+        34
+      ]
+    },
+    {
+      "heading": "to the baseline. A remarkable reduction is observed in the elderly category.",
+      "text": "Characteristic Household Group\nHousehold Head\nCharacteristics\nHousehold Composition\nEconomic Capacity",
+      "pages": [
+        35
+      ]
+    },
+    {
+      "heading": "PSSN II Beneficiary - Mtwara",
+      "text": "March 2023 Page  35",
+      "pages": [
+        35
+      ]
+    },
+    {
+      "heading": "Table 6: Highly Vulnerable Groups Compared",
+      "text": "Highly Vulnerable\nNovember 2021 December 2022\nFemale headed households 96.2% 77.2%\nMale headed households 93.1% 81.1%\nYouth headed households 97.5% 86.3%\nAdult head of household 95.6% 84.8%\nElderly headed household 93.2% 80.7%\nHousehold size (mean) 6.3 6.4\nHousehold with 1+ children under 2 years 95.6% 85.5%\nHousehold with 1+ children under 5 years 96.6% 84.9%\nHousehold with 1+ elderly member 94.0% 77.1%\nHousehold with 1+ member with disability 95.1% 80.1%\nHousehold with 1+ chronically ill member 94.2% 79.6%\nSingle elderly living alone 88.9% 54.2%\nHousehold with more than one elderly living alone 92.6% 57.1%\nHousehold who did not receive remittance 95.0% 79.8%\nHousehold without savings 95.3% 79.2%",
+      "pages": [
+        35
+      ]
+    },
+    {
+      "heading": "Representative",
+      "text": "Female\n95%95%94%94%95%\nMale",
+      "pages": [
+        36
+      ]
+    },
+    {
+      "heading": "5%5%6%6%5%",
+      "text": "TemekeMCKasulu TCMtwaraMCMagharibiTotal",
+      "pages": [
+        36
+      ]
+    },
+    {
+      "heading": "Figure 31: Method for Receiving Cash",
+      "text": "4%7%\n9%\n10%1%\n5%38%\nBank\n18%\nOver thecountter\n66%\n9%\n1%\n90%93%\nMobile money\n51%69%\nCash\n30%\nTemekeMCKasulu TC MtwaraMCMagharibiTotal",
+      "pages": [
+        36
+      ]
+    },
+    {
+      "heading": "the best choice for the entire household.",
+      "text": "March 2023 Page  36",
+      "pages": [
+        36
+      ]
+    },
+    {
+      "heading": "Figure 30: Received Cash Transfer",
+      "text": "Female\n94%95%92%95%94%\nMale",
+      "pages": [
+        36
+      ]
+    },
+    {
+      "heading": "6%5%8%5%6%",
+      "text": "TemekeMCKasulu TC MtwaraMCMagharibiTotal\n•FGD participants on Mtwara indicated that they have registered with CRDB bank but they have not started receiving their retransfer through bank. •Some FGD members thought it was costly to travel to the bank to collect cash.\n“We were deducted TZ 5,000 to open bank accounts during the first payment, we have never used the bank accounts”\n“I receive 34,000 shillings, if I deduct fare to the bank how much will I remain with?”",
+      "pages": [
+        36
+      ]
+    },
+    {
+      "heading": "Table 7: Time Spent Receiving Cash",
+      "text": "Project Area Authority (PAA)\nTime to travel to\nTime to wait at the distribution\nthe cash distribution site\nsite to get cash\n(Min)\n(Hrs)\nTemeke MC 13 1.1\nKasulu TC 35 3.2\nMtwara MC 26 3.1\nMagharibi 36 1.4\nAverage (All) 28 2.3",
+      "pages": [
+        37
+      ]
+    },
+    {
+      "heading": "and remain waiting for their turn to receive cash.",
+      "text": "March 2023 Page  37",
+      "pages": [
+        37
+      ]
+    },
+    {
+      "heading": "Figure 32: Constrain accessing TASAF Cash Out Point",
+      "text": "7.5%\n26.8%\nLong distance to cashdistribution/redemption point\n25.4%\n22.8%\n21.3%\n13.8%\n15.0%\nDistance to market too far\n19.3%\n21.3%\n17.4%\n9.1%\n14.3%\nInappropriate distribution time\n20.1%\n8.0%\n13.2%\n3.8%\n3.7%\nGeographical obstacles\n3.3%\n4.4%\n3.8%\n3.4%\n2.0%\nCost of transport too expensive\n5.1%\n5.0%\n3.8%\nTemeke MCKasulu TCMtwara MCMagharibiTotal\n•FGD participants indicated that they walk long distance to the Ward office to collect cash, and think they should be receiving it from their respective mtaa (street) offices.\n“We have eight mitaa (streets) and we all receive cash from\nthe ward office. There is no proper system for calling names.\nWe better receive our money from the mtaa office.”",
+      "pages": [
+        37
+      ]
+    },
+    {
+      "heading": "Figure 33: Constrain at TASAF cash out point",
+      "text": "17.6%\n30.7%\nLong waiting time\n33.8%\n14.5%\n24.9%\n5.6%\n6.6%\nInappropriate conditions\n6.3%\n6.5%\n6.3%\n4.1%\n5.4%\nIll treatment by TASAF staff\n2.5%\n3.0%\n3.8%\n2.8%\n4.2%\nLack of facilities forvulnerable population\n7.1%\n0.3%\n3.8%\n3.4%\n2.9%\nIll treatment by mobilemoney agent\n1.3%\n2.7%\n2.5%\nTemeke MCKasulu TCMtwara MC",
+      "pages": [
+        37
+      ]
+    },
+    {
+      "heading": "Figure 34: Issues with the Cash Transfer",
+      "text": "9%\n6%\nAmount of cash insufficient\n13%\n11%\n10%\n4%\n9%\nReduced purchasing powerfollowing increasing prices\n2%\n10%\n6%\n2%\n3%\nWhat was received does notcorrespond to entitlement\n1%\n2%\n2%\n2%\n1%\nOther (specify)\n2%\n1%\n1%\nTemeke MCKasulu TCMtwara MCMagharibiTotal",
+      "pages": [
+        38
+      ]
+    },
+    {
+      "heading": "entitlement amount",
+      "text": "75%87%56%70%72%\nTemekeMCKasulu TCMtwaraMCMagharibiTotal\nMarch 2023 Page  38",
+      "pages": [
+        38
+      ]
+    },
+    {
+      "heading": "payment windows",
+      "text": "70%72%62%67%68%\nTemekeMCKasulu TCMtwaraMCMagharibiTotal",
+      "pages": [
+        38
+      ]
+    },
+    {
+      "heading": "Community Feedback Mechanism",
+      "text": "37%48%31%35%38%\nTemekeMCKasulu TCMtwaraMCMagharibiTotal",
+      "pages": [
+        39
+      ]
+    },
+    {
+      "heading": "Figure 39: Benefits of Cash Transfer",
+      "text": "Improved food consumption\n67.1%\nReduced financial burden\n47.8%\nReduced number of days withoutfood\n44.7%\nBought items for the house\n28.9%\nReduced household borrowing\n37.3%\nImproved fooddiversification/choices\n32.9%\nOther (specify)\n7.1%\nNo benefit\n0.9%\nMarch 2023 Page  39",
+      "pages": [
+        39
+      ]
+    },
+    {
+      "heading": "contact TASAF/raise concerns",
+      "text": "23%43%10%23%25%\nTemekeMCKasulu TCMtwaraMCMagharibiTotal",
+      "pages": [
+        39
+      ]
+    },
+    {
+      "heading": "days they would go without food. About 48% of the households said the transfer reduced their financial",
+      "text": "burden. Some FGD participants indicated that they purchased land and started preparations for house",
+      "pages": [
+        39
+      ]
+    },
+    {
+      "heading": "livestock and small businesses. Inappropriate use of cash transfer was reported in few households during",
+      "text": "•FGD participants confirmed that they were able to improve their food consumption and meet other essential needs. •FGD participant noted that some have invested in petty trade and purchased livestock. •Some FGD participants indicated that they bought land and started preparations for house construction/repair.\n“Before the project, I was not able to buy food for my\nfamily and could not afford school necessities for the\nstudents”.\n“Through TASAF funds I have managed to buy two\ngoats. I expect to buy two more during the next\nround“.",
+      "pages": [
+        39
+      ]
+    },
+    {
+      "heading": "31,603 per household per month.",
+      "text": "Type of Transfer Target Amount\nBasic Transfer Households identified as being poor and vulnerable and registered in the system.\nBasic Transfer Children 5,000 Having children below 18 years\nBasic Transfer Children 5,000 0-5 years, attending clinic 5,000\nBasic Transfer Disability 5,000 People with disability 5,000\nVariable Conditional Transfer Primary school (Grade 1-4) 2,000 Attending primary school\n12,000 Variable Conditional Transfer Primary school (Grade 5-7) 4,000 Attending primary school\nVariable Conditional Transfer Secondary school (Form 1-4) 6,000 Attending secondary school",
+      "pages": [
+        40
+      ]
+    },
+    {
+      "heading": "Figure 40: Maize Flour Retail Price - Dar es Salaam",
+      "text": "2,000\n1,500\n1,000\n500\n20212022\nMarch 2023 Page  40",
+      "pages": [
+        40
+      ]
+    },
+    {
+      "heading": "Table 8: Summary – TASAF Transfer Amount and Eligibility Criteria",
+      "text": "Eligibility Maximum\nAmount\n(TZS)\n(TZS)\n12,000 Households identified as being poor and vulnerable and registered in the system.\n12,000\n5,000",
+      "pages": [
+        40
+      ]
+    },
+    {
+      "heading": "Figure 41: Maize Flour Retail Price - Mtwara",
+      "text": "2,000\n1,500\n1,000\n500\n20212022",
+      "pages": [
+        40
+      ]
+    },
+    {
+      "heading": "Figure 42: Maize Flour Retail Price - Kigoma",
+      "text": "2,000\n1,500\n1,000\n500\n20212022",
+      "pages": [
+        41
+      ]
+    },
+    {
+      "heading": "cover between 58% to 64% of the MEB.",
+      "text": "Nominal (Nov. 2021)\nReal Baseline\n(Nov. 2021)\nDar es Salaam 49,320 33,748 47,602 32,573 30,243 64% 61%\nKigoma 49,320 33,748 47,602 32,573 29,395 62% 60%\nMtwara 49,320 33,748 47,602 32,573 28,623 60% 58%\nZanzibar 66,313 47,541 64,003 45,885 39,000 61% 59%\nMarch 2023 Page  41",
+      "pages": [
+        41
+      ]
+    },
+    {
+      "heading": "Figure 43: Maize Flour Retail Price - Zanzibar",
+      "text": "2,000\n1,500\n1,000\n500\n20212022",
+      "pages": [
+        41
+      ]
+    },
+    {
+      "heading": "Table 9: Transfer Value Compares to MEB and SMEB",
+      "text": "Average Transfer\nValue Share of the MEB\nPAA MEB SMEB MEB SMEB Dec. 2022 Before Inflation After Inflation",
+      "pages": [
+        41
+      ]
+    },
+    {
+      "heading": "health crises could be further explored.",
+      "text": "March 2023 Page  42",
+      "pages": [
+        42
+      ]
+    },
+    {
+      "heading": "WFP World Food Programme",
+      "text": "March 2023 Page  43",
+      "pages": [
+        43
+      ]
+    }
+  ],
+  "num_pages": 43
+}
