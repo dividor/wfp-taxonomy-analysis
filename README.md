@@ -39,3 +39,29 @@
 	d. saved each pdf as a json - easier to send to the LLM
 
 	e. created a metadata file that hold information such as Report Name, Topic, Path to JSON, page count
+
+
+5. ### Topic Definition Refinement
+
+ 	a. Generated **refined definitions for all 66 Topics**
+
+	b. Ensured consistent taxonomy semantics for LLM classification
+
+6. ### Topic Similarity & Dilution Analysis
+
+	a. Computed semantic similarity between topics using embeddings
+
+	b. Merged or regrouped diluted topics to maintain clear decision boundaries and improve classification focus
+
+	c. Priority was given to **accurate prediction and semantic separation**, based on prior modeling goals
+
+7. ### Multi-Label Tagging (LLM Inference)
+
+	a. Performed **zero-shot multi-label classification** using Hugging Face models (MPS enabled)
+
+	b. Generated topic-aligned Tags for each report
+
+	c. Ensured that each report receives:
+	  - Its Topic label as one Tag
+	  - Additional relevant Tags based on semantic confidence
+
