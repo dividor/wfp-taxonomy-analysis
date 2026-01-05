@@ -1,0 +1,30 @@
+{
+  "report_id": "2023_WFP_Engineering_two_pager",
+  "file_path": "/Users/madhu/Desktop/WFP/wfp_reports/wfp_reports/Engineering_services/2023_WFP_Engineering_two_pager.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ABOUT US\nWFP's global operations and presence within\nthe humanitarian sector are fortified by\nEngineering expertise, which comes to life\nthrough a global community of over 200\nengineers and technicians working in more\nthan 45 countries worldwide, guided by a\nteam in Rome headquarters.\nThe team provides the most cost-effective, highquality, timely and sustainable infrastructure to\nhelp both WFP and the broader humanitarian\ncommunity reach those in need and have safe\nfacilities to store food supplies. They are ready\nto go anywhere, anytime, at the onset of every\nemergency if needed.\n+45 countries\n+200 engineers and\ntechnicians worldwide"
+    },
+    {
+      "page_number": 2,
+      "text": "LIBYA: Rehabilitation of a community\nmarket in Ubari with capacity for 150\nfarmers and sellers\nNEPAL: Construction of a 120-metrelong bridge to improve the access for\n11,000 villagers to essential\nhealthcare, schools and local\nmarkets.\nSOUTH SUDAN: Rehabilitation of a\n48 km road, reducing the travel time\nfrom 6 hours to 1."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Introduction",
+      "text": "ABOUT US\nWFP's global operations and presence within\nthe humanitarian sector are fortified by\nEngineering expertise, which comes to life\nthrough a global community of over 200\nengineers and technicians working in more\nthan 45 countries worldwide, guided by a\nteam in Rome headquarters.\nThe team provides the most cost-effective, highquality, timely and sustainable infrastructure to\nhelp both WFP and the broader humanitarian\ncommunity reach those in need and have safe\nfacilities to store food supplies. They are ready\nto go anywhere, anytime, at the onset of every\nemergency if needed.",
+      "pages": []
+    },
+    {
+      "heading": "+200 engineers and",
+      "text": "technicians worldwide\nLIBYA: Rehabilitation of a community\nmarket in Ubari with capacity for 150\nfarmers and sellers\nNEPAL: Construction of a 120-metrelong bridge to improve the access for\n11,000 villagers to essential\nhealthcare, schools and local\nmarkets.\nSOUTH SUDAN: Rehabilitation of a\n48 km road, reducing the travel time\nfrom 6 hours to 1.",
+      "pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "num_pages": 2
+}

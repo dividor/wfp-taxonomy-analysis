@@ -1,0 +1,111 @@
+{
+  "report_id": "Strengthening_Early_Warning_Systems_for_Anticipato",
+  "file_path": "/Users/madhu/Desktop/WFP/wfp_reports/wfp_reports/Climate_action/Strengthening_Early_Warning_Systems_for_Anticipato.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Strengthening Early Warning Systems for Anticipatory Action - SEWAA project\nIn 2023, catalytic support from Google.org launched a groundbreaking partnership between WFP, the University of Oxford, and key regional institutions—IGAD’s Climate Prediction and Applications Centre (ICPAC), the Kenya Meteorological Department (KMD), and the Ethiopia Meteorological Institute (EMI).\nThe goal: to harness machine learning to improve early warning systems for extreme weather in eastern Africa. Through the Strengthening Early Warning Systems\n1 A Conditional Generative Adversarial Network (CGAN) for climate forecasting is an advanced type of artificial intelligence that helps predict weather patterns by learning from past climate data. CGAN takes these specific conditions—like temperature, humidity, or wind patterns—and uses them to generate realistic future climate scenarios. This helps scien-tists and meteorologists make more accurate forecasts, especially in complex situations like predicting droughts or floods\nfor Anticipatory Action (SEWAA) project, the team is applying advanced AI—specifically Conditional Generative Adversarial Networks (cGANs)1—to generate high-resolution rainfall forecasts weeks in advance. This innovation empowers national meteorological services to produce accurate, timely forecasts using only a personal computer—eliminating the need for costly supercomputers and unlocking new potential for anticipatory action in climate-vulnerable regions.\nAugust 2025"
+    },
+    {
+      "page_number": 2,
+      "text": "Strategic Impact\nA paradigm shift in forecasting for anticipatory\naction\nIn many low and middle-income countries, national meteorological and hydrological services (NMHS) face a major barrier: the lack of access to expensive supercomputing infrastructure needed to produce high-resolution, probabilistic weather forecasts. This limits their ability to deliver the kind of risk-informed by early warnings that enable timely, life-saving anticipatory action. The SEWAA project is changing that. By harnessing cutting-edge machine learning—specifically cGANs—SEWAA makes it possible to generate accurate, high-resolution rainfall forecasts using just a personal computer and a web browser. This breakthrough reduces the computational burden, making advanced forecasting accessible, affordable, and scalable.\nMore than just a technical upgrade, SEWAA empowers national meteorological agencies to shift from simple deterministic forecasts (e.g., “20 mm of rain expected”) to probabilistic forecasts that express a range of outcomes and their likelihood (e.g., “60% chance of 20 mm of rain”).\nThis gives decision-makers a clearer picture of risk, enabling smarter, more cost-effective early action—balancing the cost of acting too early against the risk of acting too late.\nMeteorologists at EMI and KMD use SEWAA’s machine-learning forecasts in their daily operations. These tools are not only improving forecast accuracy but also helping refine the\nmodel through real-world feedback. SEWAA isn’t just a technological innovation—it’s a strategic leap forward in protecting lives and livelihoods in the face of growing extreme weather events.\nStrengthening Early Warning Systems for Anticipatory Action - SEWAA project2"
+    },
+    {
+      "page_number": 3,
+      "text": "mid-term milestones and achievements\nfaster forecasts, smarter decisions\nSEWAA has improved forecasting speed and efficiency. What once took three hours to generate a single deterministic forecast now takes just 40 minutes to produce a full suite of 50 probabilistic forecasts. This leap in performance allows forecasters to update predictions four times a day, with lead times of 30 to 54 hours—crucial for tracking fast-moving extreme weather events and enabling timely, informed action.\nlower costs through cloud computing\nBy leveraging cloud computing and donated cloud credits, SEWAA has eliminated the need for expensive infrastructure and massive data downloads. The forecasts are processed and accessed entirely online, making the system both cost-effective and scalable for national meteorological services in resource-constrained settings.\nlocal expertise, owership and sustainability\nMeteorological officers at EMI, KMD, and ICPAC have acquired knowledge from training sessions delivered by the University of Oxford and have been trained to run, interpret, and communicate machine learning-based forecasts. With systems now embedded in national operations, these institutions are not just using the technology—they’re owning it. This local leadership ensures sustainability, strengthens institutional capacity, and builds regional resilience to extreme weather events.\n“Machine learning forecasts provide a flexible, actionable approach for anticipatory action, offering a wide range of probabilities to help decision-makers set risk tolerance thresholds.” Hanna Kimani, Assistant Director, Forecasting Kenya Meteorological Department\n3Strengthening Early Warning Systems for Anticipatory Action - SEWAA project"
+    },
+    {
+      "page_number": 4,
+      "text": "What’s next?\nScaling Innovation Across Regions and Systems\nSEWAA is not just a pilot—it’s a proven, scalable innovation poised to transform how countries forecast and respond to extreme weather. Building on its early success in Ethiopia and Kenya, the next phase will amplify impact, expand reach, and deepen institutional ownership. Here’s what’s ahead:\n• Operationalize and Doubling forecast frequency: Implement CGAN medium range 14- day forecasts and adding new forecast variables. Forecast production is expected to double from four to eight times daily,\nenhancing the ability to track fast-evolving weather events and improving decision-making in high-risk regions.\n• Regional and global expansion: Several countries in the IGAD member states and Eastern Asia have shown great interest in the model following various interactions with the approach. Scoping is underway to roll out the model across these additional countries, laying the groundwork for a rapid global scale-up when funding becomes available.Conclusion\n• Easy and instant access to forecasts: Forecasts will be utilised and shared through an interactive web platform and other community friendly approaches, allowing all stakeholders from national agencies to community-based responders to access\nA Proven, Scalable Model for the Future\nSEWAA has already proven that low-cost, high-resolution, AI-driven forecasting is not only feasible—it’s already reshaping how countries anticipate and act on extreme weather. By equipping NMHS with the tools and training to deliver faster, more accurate, and actionable forecasts, SEWAA is helping communities act before disaster strikes.\nThis marks a shift from delayed, resource-intensive systems to fast, inclusive, and locally owned forecasting powered by machine learning. It leapfrogs traditional barriers of infrastructure, capacity, and cost—bringing world-class forecasting within reach of the countries that need it most.\nWith continued support from donors and partners, SEWAA can scale across the regions in which WFP operates—strengthening national systems, empowering local expertise, and making anticipatory action the new standard in disaster risk management.\nlife-saving early warning information in real time – quickly, easily, and without needing any special equipment or downloads.\n• Model validation and evidence generation: The cGAN forecast products will undergo further evaluation against other AI and traditional models within NMHS. This will generate robust evidence on their added value for anticipatory action and disaster risk management.\n• Train-the-Trainer for regional leadership: A new cohort of national meteorological professionals will be trained as regional champions, enabling peer-to-peer learning and institutional capacity-building across Eastern Africa and beyond.\nThis is the future of forecasting: smart, accessible, sustainable, and built with the\npeople who need it most.\nStrengthening Early Warning Systems for Anticipatory Action - SEWAA project4"
+    },
+    {
+      "page_number": 5,
+      "text": "Read if you want to know more:\nwhayt is a Deterministic forecast?\n“A deterministic forecast gives a single-valued prediction of a future state of the atmosphere, without explicitly providing a measure of the uncertainty associated with the forecast”1\nA deterministic forecast provides a single, specific outcome based on the best estimate of future conditions. It answers the question: “What is going to happen?” For example, a weather forecast stating that “it will rain 10 mm tomorrow” is deterministic because it offers one definite prediction without expressing uncertainty.\nwhat is a Probabilistic Forecast?\n“A probabilistic forecast conveys information about the range of possible future states and the likelihood of their occurrence”\n2A probabilistic forecast - provides a range of possible outcomes and their likelihoods. It answers the question: “What is the probability that something will happen?” For example, saying “there is a 70% chance of rain tomorrow” expresses uncertainty and helps users assess risk.\n1 Wilks, 2011, Statistical Methods in the Atmospheric Sciences, 3rd ed.2 NRC, 2006, Completing the Forecast: Characterizing and Communicating Uncertainty for Better Decisions Using Weather and Climate Forecasts\n5Strengthening Early Warning Systems for Anticipatory Action - SEWAA project"
+    },
+    {
+      "page_number": 6,
+      "text": "Photo cover page: WFP/Michael Tewelde\nPhoto page 2: Kenya Meteorological Department\nPhoto page 5: WFP/Irenee Nduwayezu\n6"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Strengthening Early Warning Systems for Anticipatory Action - SEWAA project",
+      "text": "In 2023, catalytic support from Google.org launched a groundbreaking partnership between WFP, the University of Oxford, and key regional institutions—IGAD’s Climate Prediction and Applications Centre (ICPAC), the Kenya Meteorological Department (KMD), and the Ethiopia Meteorological Institute (EMI).\nThe goal: to harness machine learning to improve early warning systems for extreme weather in eastern Africa. Through the Strengthening Early Warning Systems\n1 A Conditional Generative Adversarial Network (CGAN) for climate forecasting is an advanced type of artificial intelligence that helps predict weather patterns by learning from past climate data. CGAN takes these specific conditions—like temperature, humidity, or wind patterns—and uses them to generate realistic future climate scenarios. This helps scien-tists and meteorologists make more accurate forecasts, especially in complex situations like predicting droughts or floods\nfor Anticipatory Action (SEWAA) project, the team is applying advanced AI—specifically Conditional Generative Adversarial Networks (cGANs)1—to generate high-resolution rainfall forecasts weeks in advance. This innovation empowers national meteorological services to produce accurate, timely forecasts using only a personal computer—eliminating the need for costly supercomputers and unlocking new potential for anticipatory action in climate-vulnerable regions.\nAugust 2025",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "heading": "action",
+      "text": "In many low and middle-income countries, national meteorological and hydrological services (NMHS) face a major barrier: the lack of access to expensive supercomputing infrastructure needed to produce high-resolution, probabilistic weather forecasts. This limits their ability to deliver the kind of risk-informed by early warnings that enable timely, life-saving anticipatory action. The SEWAA project is changing that. By harnessing cutting-edge machine learning—specifically cGANs—SEWAA makes it possible to generate accurate, high-resolution rainfall forecasts using just a personal computer and a web browser. This breakthrough reduces the computational burden, making advanced forecasting accessible, affordable, and scalable.\nMore than just a technical upgrade, SEWAA empowers national meteorological agencies to shift from simple deterministic forecasts (e.g., “20 mm of rain expected”) to probabilistic forecasts that express a range of outcomes and their likelihood (e.g., “60% chance of 20 mm of rain”).\nThis gives decision-makers a clearer picture of risk, enabling smarter, more cost-effective early action—balancing the cost of acting too early against the risk of acting too late.\nMeteorologists at EMI and KMD use SEWAA’s machine-learning forecasts in their daily operations. These tools are not only improving forecast accuracy but also helping refine the\nmodel through real-world feedback. SEWAA isn’t just a technological innovation—it’s a strategic leap forward in protecting lives and livelihoods in the face of growing extreme weather events.\nStrengthening Early Warning Systems for Anticipatory Action - SEWAA project2",
+      "pages": [
+        2
+      ]
+    },
+    {
+      "heading": "faster forecasts, smarter decisions",
+      "text": "SEWAA has improved forecasting speed and efficiency. What once took three hours to generate a single deterministic forecast now takes just 40 minutes to produce a full suite of 50 probabilistic forecasts. This leap in performance allows forecasters to update predictions four times a day, with lead times of 30 to 54 hours—crucial for tracking fast-moving extreme weather events and enabling timely, informed action.",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "heading": "lower costs through cloud computing",
+      "text": "By leveraging cloud computing and donated cloud credits, SEWAA has eliminated the need for expensive infrastructure and massive data downloads. The forecasts are processed and accessed entirely online, making the system both cost-effective and scalable for national meteorological services in resource-constrained settings.",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "heading": "local expertise, owership and sustainability",
+      "text": "Meteorological officers at EMI, KMD, and ICPAC have acquired knowledge from training sessions delivered by the University of Oxford and have been trained to run, interpret, and communicate machine learning-based forecasts. With systems now embedded in national operations, these institutions are not just using the technology—they’re owning it. This local leadership ensures sustainability, strengthens institutional capacity, and builds regional resilience to extreme weather events.",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "heading": "“Machine learning forecasts provide a flexible, actionable approach for anticipatory action, offering a wide range of probabilities to help decision-makers set risk tolerance thresholds.” Hanna Kimani, Assistant Director, Forecasting Kenya Meteorological Department",
+      "text": "3Strengthening Early Warning Systems for Anticipatory Action - SEWAA project",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "heading": "Scaling Innovation Across Regions and Systems",
+      "text": "SEWAA is not just a pilot—it’s a proven, scalable innovation poised to transform how countries forecast and respond to extreme weather. Building on its early success in Ethiopia and Kenya, the next phase will amplify impact, expand reach, and deepen institutional ownership. Here’s what’s ahead:\n• Operationalize and Doubling forecast frequency: Implement CGAN medium range 14- day forecasts and adding new forecast variables. Forecast production is expected to double from four to eight times daily,\nenhancing the ability to track fast-evolving weather events and improving decision-making in high-risk regions.\n• Regional and global expansion: Several countries in the IGAD member states and Eastern Asia have shown great interest in the model following various interactions with the approach. Scoping is underway to roll out the model across these additional countries, laying the groundwork for a rapid global scale-up when funding becomes available.Conclusion\n• Easy and instant access to forecasts: Forecasts will be utilised and shared through an interactive web platform and other community friendly approaches, allowing all stakeholders from national agencies to community-based responders to access",
+      "pages": [
+        4
+      ]
+    },
+    {
+      "heading": "A Proven, Scalable Model for the Future",
+      "text": "SEWAA has already proven that low-cost, high-resolution, AI-driven forecasting is not only feasible—it’s already reshaping how countries anticipate and act on extreme weather. By equipping NMHS with the tools and training to deliver faster, more accurate, and actionable forecasts, SEWAA is helping communities act before disaster strikes.\nThis marks a shift from delayed, resource-intensive systems to fast, inclusive, and locally owned forecasting powered by machine learning. It leapfrogs traditional barriers of infrastructure, capacity, and cost—bringing world-class forecasting within reach of the countries that need it most.\nWith continued support from donors and partners, SEWAA can scale across the regions in which WFP operates—strengthening national systems, empowering local expertise, and making anticipatory action the new standard in disaster risk management.\nlife-saving early warning information in real time – quickly, easily, and without needing any special equipment or downloads.\n• Model validation and evidence generation: The cGAN forecast products will undergo further evaluation against other AI and traditional models within NMHS. This will generate robust evidence on their added value for anticipatory action and disaster risk management.\n• Train-the-Trainer for regional leadership: A new cohort of national meteorological professionals will be trained as regional champions, enabling peer-to-peer learning and institutional capacity-building across Eastern Africa and beyond.",
+      "pages": [
+        4
+      ]
+    },
+    {
+      "heading": "people who need it most.",
+      "text": "Strengthening Early Warning Systems for Anticipatory Action - SEWAA project4",
+      "pages": [
+        4
+      ]
+    },
+    {
+      "heading": "“A deterministic forecast gives a single-valued prediction of a future state of the atmosphere, without explicitly providing a measure of the uncertainty associated with the forecast”1",
+      "text": "A deterministic forecast provides a single, specific outcome based on the best estimate of future conditions. It answers the question: “What is going to happen?” For example, a weather forecast stating that “it will rain 10 mm tomorrow” is deterministic because it offers one definite prediction without expressing uncertainty.",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "heading": "“A probabilistic forecast conveys information about the range of possible future states and the likelihood of their occurrence”",
+      "text": "2A probabilistic forecast - provides a range of possible outcomes and their likelihoods. It answers the question: “What is the probability that something will happen?” For example, saying “there is a 70% chance of rain tomorrow” expresses uncertainty and helps users assess risk.\n1 Wilks, 2011, Statistical Methods in the Atmospheric Sciences, 3rd ed.2 NRC, 2006, Completing the Forecast: Characterizing and Communicating Uncertainty for Better Decisions Using Weather and Climate Forecasts\n5Strengthening Early Warning Systems for Anticipatory Action - SEWAA project\nPhoto cover page: WFP/Michael Tewelde\nPhoto page 2: Kenya Meteorological Department\nPhoto page 5: WFP/Irenee Nduwayezu\n6",
+      "pages": [
+        5,
+        6
+      ]
+    }
+  ],
+  "num_pages": 6
+}

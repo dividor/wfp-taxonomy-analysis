@@ -194,6 +194,9 @@ def process_pdf(path: Path, clean=True, ocr_if_needed=True, two_column_midpoint=
         pages_blocks.append(blocks)
     doc.close()
 
+    pages_blocks.append(blocks)
+
+
     # detect headers/footers to remove
     headers, footers = detect_repeated_headers(pages_blocks)
 
