@@ -25,7 +25,8 @@ import subprocess
 # ----------------------------- Configuration -----------------------------
 INPUT_MASTER = Path('reports')          # master folder with subfolders by topic
 OUTPUT_EXTRACTED = Path('extracted')   # JSON per report
-METADATA_CSV = Path('metadata.csv')    # DataFrame summary
+BASE_PATH = Path('/Users/madhu/Desktop/WFP/wfp-taxonomy-analysis/data')
+METADATA_CSV = BASE_PATH / 'metadata.csv'  # DataFrame summary
 OCRMYPDF_CMD = 'ocrmypdf'              # command for ocrmypdf if available
 
 # Create output folder
@@ -292,7 +293,7 @@ def process_pdf(path: Path, clean=True, ocr_if_needed=True, two_column_midpoint=
 def process_master_folder(input_master=INPUT_MASTER, output_extracted=OUTPUT_EXTRACTED, metadata_csv=METADATA_CSV):
     records = []
     # walk subfolders — each subfolder name is topic
-    input_master = Path('/Users/madhu/Desktop/WFP/wfp_reports/wfp_reports')  # your real master folder
+    input_master = Path('/Users/madhu/Desktop/WFP/wfp_reports/wfp_reports')  # replace with your path here
     
     # Walk subfolders — each subfolder name is topic
     topics = [p for p in input_master.iterdir() if p.is_dir()]

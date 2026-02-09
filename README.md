@@ -8,13 +8,13 @@
 
 ### Key Steps Performed: 
 
-1. #### Record vs. File Validation
+1. #### Record vs. File Validation (analysis.ipynb)
 
 	a. Began an initial check to ensure that the number of report records matches the number of downloaded files.
 
 	b. Included script logic to count files within a directory structure.
 
-2. #### Duplicate Report Detection
+2. #### Duplicate Report Detection (analysis.ipynb)
 
 	a. Calculated how many unique report names exist compared to the total number of rows.
 
@@ -22,13 +22,13 @@
 
 	![Repeated Records][/Users/madhu/Desktop/repeated_reports.png]
 
-3. ### Focus on Topics - analysis.ipynb
+3. ### Focus on Topics - (analysis.ipynb)
 
 	a. Unique Topics - 66
 	
 	b. We initially planned to analyze tags, but since topics recur across multiple reports and provide more consistent structure, we decided to focus our analysis on topics instead
 
-4. ### Extract PDF Info - wfp_pdf_extraction_pipeline.py
+4. ### Extract PDF Info - extracts PDF information using wfp_pdf_extraction_pipeline.py - replace path at lines 28 and 295
 	
 	a. Used open source PDF extractor tools to extract the PDF sections 
 
@@ -41,21 +41,22 @@
 	e. created a metadata file that hold information such as Report Name, Topic, Path to JSON, page count
 
 
-5. ### Topic Definition Refinement
+5. ### Topic Definition Refinement (classification_pipeline.ipynb) - replace path after the imports
 
  	a. Generated **refined definitions for all 66 Topics**
 
-	b. Ensured consistent taxonomy semantics for LLM classification
+	b. Ensured consistent taxonomy semantics for LLM classification 
 
-6. ### Topic Similarity & Dilution Analysis
 
-	a. Computed semantic similarity between topics using embeddings
+7. ### Topic Similarity & Dilution Analysis  (classification_pipeline.ipynb)
+
+	a. Computed semantic similarity between topics using embeddings (Download Sentence Transformers from Hugging Face)
 
 	b. Merged or regrouped diluted topics to maintain clear decision boundaries and improve classification focus
 
 	c. Priority was given to **accurate prediction and semantic separation**, based on prior modeling goals
 
-7. ### Multi-Label Tagging (LLM Inference)
+8. ### Multi-Label Tagging (LLM Inference)  (classification_pipeline.ipynb)
 
 	a. Performed **zero-shot multi-label classification** using Hugging Face models (MPS enabled)
 
